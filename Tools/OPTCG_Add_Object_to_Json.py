@@ -185,6 +185,45 @@ def refresh_listbox():
     for obj in filtered_data:
         listbox.insert(END, obj["name"])
 
+# 增加去重功能
+def deduplicate_json():
+    file_path = filedialog.askopenfilename(
+        title="选择需要去重的 JSON 文件",
+        filetypes=(("JSON Files", "*.json"), ("All Files", "*.*"))
+    )
+    if not file_path:
+        messagebox.showwarning("警告", "未选择文件！")
+        return
+
+    try:
+        with open(file_path, 'r', encoding='utf-8') as file:
+            data = json.load(file)
+
+        unique_data = []
+        seen = set()
+
+        for entry in data:
+            entry_str = json.dumps(entry, sort_keys=True)
+            if entry_str not in seen:
+                unique_data.append(entry)
+                seen.add(entry_str)
+
+        save_path = filedialog.asksaveasfilename(
+            title="保存去重后的 JSON 文件",
+            defaultextension=".json",
+            filetypes=(("JSON Files", "*.json"), ("All Files", "*.*"))
+        )
+
+        if save_path:
+            with open(save_path, 'w', encoding='utf-8') as save_file:
+                json.dump(unique_data, save_file, ensure_ascii=False, indent=4)
+            messagebox.showinfo("成功", f"文件已成功保存到：{save_path}")
+        else:
+            messagebox.showwarning("警告", "未选择保存位置！")
+
+    except Exception as e:
+        messagebox.showerror("错误", f"去重过程中出现错误：{e}")
+
 # UI 设计
 root = Tk()
 root.title("JSON 编辑器")
@@ -244,10 +283,11 @@ entry_qna = entries["QNA"]
 button_frame = Frame(root)
 button_frame.grid(row=row_index, column=1, columnspan=2, pady=10)
 
-Button(button_frame, text="新增或更新 Object", width=30, command=add_or_update_object).grid(row=0, column=0, pady=5)
-Button(button_frame, text="删除选中 Object", width=30, command=delete_object).grid(row=1, column=0, pady=5)
+Button(button_frame, text="Add/Update Object", width=30, command=add_or_update_object).grid(row=0, column=0, pady=5)
+Button(button_frame, text="Remove Selected Object", width=30, command=delete_object).grid(row=1, column=0, pady=5)
 Button(button_frame, text="删除 Ban 内含 TEMP 的对象", width=30, command=delete_temp_objects).grid(row=2, column=0, pady=5)
-Button(button_frame, text="合并两个 JSON 文件", width=30, command=merge_json_files).grid(row=3, column=0, pady=5)
-Button(button_frame, text="保存 JSON 文件", width=30, command=save_json).grid(row=4, column=0, pady=5)
+Button(button_frame, text="Combine JSON ", width=30, command=merge_json_files).grid(row=3, column=0, pady=5)
+Button(button_frame, text="Save JSON ", width=30, command=save_json).grid(row=4, column=0, pady=5)
+Button(button_frame, text="[Tools] Remove Duplicate from Json", width=30, command=deduplicate_json).grid(row=5, column=0, pady=5)
 
 root.mainloop()
