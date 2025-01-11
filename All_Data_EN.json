@@ -56722,7 +56722,7 @@
         "feature": "Straw Hat Crew",
         "text": "At the start of your turn, if you have 8 or more Don!! cards on the field, you can activate this effect. Look at the top 5 cards of your deck, reveal up to 1 card with the trait \"Straw Hat Crew,\" and add it to your hand. Then, rearrange the remaining cards in any order and return them to the top of your deck.",
         "get_info": "OP11",
-        "card_catalog": "Character",
+        "card_catalog": "Leader",
         "Ban": "",
         "series": "OP11",
         "trigger": "",
