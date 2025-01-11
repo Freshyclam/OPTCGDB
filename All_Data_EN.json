@@ -56642,5 +56642,27 @@
         "image_url": "https://onepiecetopdecks.com/wp-content/uploads/2024/12/eb02-007-768x1073.jpeg",
         "image": "-",
         "QNA": ""
+    },
+    {
+        "name": "EB02-061",
+        "id": "EB02-061",
+        "card_name": "Monkey D. Luffy ",
+        "card_grade": "SEC",
+        "life": "-",
+        "attribute": "-",
+        "power": "7000",
+        "color": "Purple",
+        "counter": "-",
+        "feature": "Water 7/Straw Hat Crew",
+        "text": "If your leader is multi-coloured and your opponent has 5 or more DON!! this character has <Rush>\n\n[When Attacking] [Once per Turn]\nReturn 2 of your active DON!! to your DON!! deck:\nSet this character active. Then, add the top card of your life to your hand.",
+        "get_info": "EB02",
+        "card_catalog": "Character",
+        "Ban": "",
+        "series": "EB02",
+        "trigger": "",
+        "image_path": "https://onepiecetopdecks.com/wp-content/uploads/2024/12/eb02-061-aa-1166x1536.jpeg",
+        "image_url": "https://onepiecetopdecks.com/wp-content/uploads/2024/12/eb02-061-aa-1166x1536.jpeg",
+        "image": "",
+        "QNA": ""
     }
 ]
