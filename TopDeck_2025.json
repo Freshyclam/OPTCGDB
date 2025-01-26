@@ -1,0 +1,60 @@
+[
+    {
+        "deckOwner": "Marco",
+        "deckFrom": "Hong Kong",
+        "placement": "Winner",
+        "tourument": "Asia Final",
+        "host": "Bandai Maxsoft",
+        "deckDate": "1/19/2025",
+        "leader": "OP10-042",
+        "deckColor": "Blue/Black",
+        "leaderID": "OP10-042",
+        "members": [
+            "1xOP10-042",
+            "4xOP04-077",
+            "4xOP04-089",
+            "2xOP04-090",
+            "3xOP04-092",
+            "4xOP05-081",
+            "4xOP10-090",
+            "3xOP10-095",
+            "4xOP10-045",
+            "4xOP10-046",
+            "3xOP10-049",
+            "4xOP10-057",
+            "4xOP10-058",
+            "1xOP04-093",
+            "4xOP04-096",
+            "2xOP04-056"
+        ]
+    },
+    {  
+        "deckOwner": "Tien Khai",
+        "deckFrom": "Malaysia",
+        "placement": "2nd Place",
+        "tourument": "Asia Final",
+        "host": "Bandai Maxsoft",
+        "deckDate": "1/19/2025",
+        "leader": "OP09-081",
+        "deckColor": "Black",
+        "leaderID": "OP09-081",
+        "members": [
+                    "1xOP09-081",
+                    "4xOP09-083",
+                    "4xOP09-086",
+                    "3xOP09-088",
+                    "4xOP09-089",
+                    "4xOP09-090",
+                    "2xOP09-091",
+                    "4xOP09-093",
+                    "2xOP09-095",
+                    "4xOP10-082",
+                    "2xOP10-086",
+                    "3xEB01-051",
+                    "4xOP09-096",
+                    "3xOP09-098",
+                    "4xOP09-099",
+                    "3xOP10-098"
+        ]
+    }
+]
