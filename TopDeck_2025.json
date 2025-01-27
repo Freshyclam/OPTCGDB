@@ -3,58 +3,104 @@
         "deckOwner": "Marco",
         "deckFrom": "Hong Kong",
         "placement": "Winner",
-        "tourument": "Asia Final",
+        "tournament": "Asia Final",
         "host": "Bandai Maxsoft",
         "deckDate": "1/19/2025",
         "leader": "OP10-042",
         "deckColor": "Blue/Black",
         "leaderID": "OP10-042",
         "members": [
-            "1xOP10-042",
-            "4xOP04-077",
-            "4xOP04-089",
-            "2xOP04-090",
-            "3xOP04-092",
-            "4xOP05-081",
-            "4xOP10-090",
-            "3xOP10-095",
-            "4xOP10-045",
-            "4xOP10-046",
-            "3xOP10-049",
-            "4xOP10-057",
-            "4xOP10-058",
-            "1xOP04-093",
-            "4xOP04-096",
-            "2xOP04-056"
-        ]
-    },
-    {  
-        "deckOwner": "Tien Khai",
-        "deckFrom": "Malaysia",
-        "placement": "2nd Place",
-        "tourument": "Asia Final",
-        "host": "Bandai Maxsoft",
-        "deckDate": "1/19/2025",
-        "leader": "OP09-081",
-        "deckColor": "Black",
-        "leaderID": "OP09-081",
-        "members": [
-                    "1xOP09-081",
-                    "4xOP09-083",
-                    "4xOP09-086",
-                    "3xOP09-088",
-                    "4xOP09-089",
-                    "4xOP09-090",
-                    "2xOP09-091",
-                    "4xOP09-093",
-                    "2xOP09-095",
-                    "4xOP10-082",
-                    "2xOP10-086",
-                    "3xEB01-051",
-                    "4xOP09-096",
-                    "3xOP09-098",
-                    "4xOP09-099",
-                    "3xOP10-098"
+            {
+                "memberCatalog": "Character",
+                "memberCost": "7",
+                "memberCount": 4,
+                "memberID": "OP09-046_p1",
+                "name": "OP09-046_p1"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "6",
+                "memberCount": 4,
+                "memberID": "OP09-048_p1",
+                "name": "OP09-048_p1"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 4,
+                "memberID": "OP09-045",
+                "name": "OP09-045"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "10",
+                "memberCount": 4,
+                "memberID": "OP09-051_p1",
+                "name": "OP09-051_p1"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP09-056",
+                "name": "OP09-056"
+            },
+            {
+                "memberCatalog": "Stage",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP09-060",
+                "name": "OP09-060"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 4,
+                "memberID": "EB01-027",
+                "name": "EB01-027"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "6",
+                "memberCount": 4,
+                "memberID": "OP04-056",
+                "name": "OP04-056"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 4,
+                "memberID": "OP09-053",
+                "name": "OP09-053"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "7",
+                "memberCount": 2,
+                "memberID": "P-084",
+                "name": "P-084"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 4,
+                "memberID": "OP09-043",
+                "name": "OP09-043"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP07-056",
+                "name": "OP07-056"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP02-063",
+                "name": "OP02-063"
+            }
         ]
     }
 ]
