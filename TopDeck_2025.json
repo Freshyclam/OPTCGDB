@@ -1,13 +1,131 @@
 [
     {
-        "deckOwner": "Jitsu",
+        "deckOwner": "Cyrus",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "SB; Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "SB",
         "host": "Cardshophanjou",
         "deckDate": "2025-01-27",
         "leader": "EB02-010",
-        "deckColor": "Unknown",
+        "deckColor": "Green/Purple",
+        "leaderID": "EB02-010",
+        "members": [
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 4,
+                "memberID": "OP05-067",
+                "name": "Zoro-Juurou"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 4,
+                "memberID": "EB02-035",
+                "name": "Sanji & Pudding"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 4,
+                "memberID": "EB02-036",
+                "name": "Nico Robin"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 2,
+                "memberID": "EB02-037",
+                "name": "Franky"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "6",
+                "memberCount": 4,
+                "memberID": "EB02-061",
+                "name": "Monkey.D.Luffy"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "6",
+                "memberCount": 4,
+                "memberID": "OP07-064",
+                "name": "Sanji"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 4,
+                "memberID": "ST18-001",
+                "name": "Uso-Hachi"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 4,
+                "memberID": "ST18-004",
+                "name": "Zoro-Juurou"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "7",
+                "memberCount": 4,
+                "memberID": "ST18-005",
+                "name": "Luffy-Tarou"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "7",
+                "memberCount": 2,
+                "memberID": "OP02-041",
+                "name": "Monkey.D.Luffy"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 2,
+                "memberID": "EB01-014",
+                "name": "Sanji"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "EB02-017",
+                "name": "Nami"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "-",
+                "memberCount": 2,
+                "memberID": "OP03-072",
+                "name": "Gum-Gum Jet Gatling"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "3",
+                "memberCount": 2,
+                "memberID": "EB02-021",
+                "name": "Gum-Gum Giant Pistol"
+            },
+            {
+                "memberCatalog": "Stage",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "EB02-041",
+                "name": "Merry Go"
+            }
+        ]
+    },
+    {
+        "deckOwner": "Jitsu",
+        "deckFrom": "JP",
+        "placement": "1st Place",
+        "tournament": "SB",
+        "host": "Cardshophanjou",
+        "deckDate": "2025-01-27",
+        "leader": "EB02-010",
+        "deckColor": "Green/Purple",
         "leaderID": "EB02-010",
         "members": [
             {
@@ -120,12 +238,12 @@
     {
         "deckOwner": "Hapigori",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "SB; Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "SB",
         "host": "toreca_binks",
         "deckDate": "2025-01-26",
         "leader": "EB01-001",
-        "deckColor": "Unknown",
+        "deckColor": "Red/Green",
         "leaderID": "EB01-001",
         "members": [
             {
@@ -231,12 +349,12 @@
     {
         "deckOwner": "Kudo(RAIN)",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "3v3(7-1); Placement: NA",
+        "placement": "NA",
+        "tournament": "3v3(7-1)",
         "host": "Tsutaya",
         "deckDate": "2025-01-26",
         "leader": "OP07-019",
-        "deckColor": "Unknown",
+        "deckColor": "Green",
         "leaderID": "OP07-019",
         "members": [
             {
@@ -356,12 +474,12 @@
     {
         "deckOwner": "Yudora",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "3v3(5-1); Placement: Top-4",
+        "placement": "Top-4",
+        "tournament": "3v3(5-1)",
         "host": "Laugh Tale Cup",
         "deckDate": "2025-01-26",
         "leader": "OP05-098",
-        "deckColor": "Unknown",
+        "deckColor": "Yellow",
         "leaderID": "OP05-098",
         "members": [
             {
@@ -467,12 +585,12 @@
     {
         "deckOwner": "Yamashi",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "3v3(6-1); Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "3v3(6-1)",
         "host": "Corgi",
         "deckDate": "2025-01-26",
         "leader": "OP10-042",
-        "deckColor": "Unknown",
+        "deckColor": "Blue/Black",
         "leaderID": "OP10-042",
         "members": [
             {
@@ -578,12 +696,12 @@
     {
         "deckOwner": "njiof_",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "Shop Event(9-1); Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "Shop Event(9-1)",
         "host": "Shumai Cup",
         "deckDate": "2025-01-26",
         "leader": "OP09-081",
-        "deckColor": "Unknown",
+        "deckColor": "Black",
         "leaderID": "OP09-081",
         "members": [
             {
@@ -696,12 +814,12 @@
     {
         "deckOwner": "Hane",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "3v3(6-1); Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "3v3(6-1)",
         "host": "Corgi",
         "deckDate": "2025-01-26",
         "leader": "OP09-081",
-        "deckColor": "Unknown",
+        "deckColor": "Black",
         "leaderID": "OP09-081",
         "members": [
             {
@@ -814,12 +932,12 @@
     {
         "deckOwner": "Hosso",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "Flagship(5-0); Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "Flagship(5-0)",
         "host": "Cardshop",
         "deckDate": "2025-01-26",
         "leader": "OP02-093",
-        "deckColor": "Unknown",
+        "deckColor": "Black",
         "leaderID": "OP02-093",
         "members": [
             {
@@ -925,12 +1043,12 @@
     {
         "deckOwner": "Asura",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "Shop Event; Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "Shop Event",
         "host": "Banquet Cup",
         "deckDate": "2025-01-26",
         "leader": "OP10-001",
-        "deckColor": "Unknown",
+        "deckColor": "Red/Green",
         "leaderID": "OP10-001",
         "members": [
             {
@@ -1043,12 +1161,12 @@
     {
         "deckOwner": "Murabito",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "SB(4-1); Placement: 2nd Place",
+        "placement": "2nd Place",
+        "tournament": "SB(4-1)",
         "host": "Cardshop",
         "deckDate": "2025-01-26",
         "leader": "OP04-020",
-        "deckColor": "Unknown",
+        "deckColor": "Green/Black",
         "leaderID": "OP04-020",
         "members": [
             {
@@ -1175,12 +1293,12 @@
     {
         "deckOwner": "AYAKANA_1124",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "Shop Event(8-0); Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "Shop Event(8-0)",
         "host": "Oni CS",
         "deckDate": "2025-01-26",
         "leader": "OP01-060",
-        "deckColor": "Unknown",
+        "deckColor": "Blue",
         "leaderID": "OP01-060",
         "members": [
             {
@@ -1300,12 +1418,12 @@
     {
         "deckOwner": "Tsuusaji",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "SB; Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "SB",
         "host": "onehappy_tcg",
         "deckDate": "2025-01-26",
         "leader": "ST10-002",
-        "deckColor": "Unknown",
+        "deckColor": "Red/Purple",
         "leaderID": "ST10-002",
         "members": [
             {
@@ -1432,12 +1550,12 @@
     {
         "deckOwner": "Sakanoko",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "Shop Event; Placement: 2nd Place",
+        "placement": "2nd Place",
+        "tournament": "Shop Event",
         "host": "Kogiraf Cup",
         "deckDate": "2025-01-26",
         "leader": "EB02-010",
-        "deckColor": "Unknown",
+        "deckColor": "Green/Purple",
         "leaderID": "EB02-010",
         "members": [
             {
@@ -1543,12 +1661,12 @@
     {
         "deckOwner": "Nishi",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "3v3(6-1); Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "3v3(6-1)",
         "host": "Hacchi CS(93)",
         "deckDate": "2025-01-26",
         "leader": "OP05-060",
-        "deckColor": "Unknown",
+        "deckColor": "Purple",
         "leaderID": "OP05-060",
         "members": [
             {
@@ -1661,12 +1779,12 @@
     {
         "deckOwner": "R",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "3v3(7-0); Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "3v3(7-0)",
         "host": "Hacchi CS(93)",
         "deckDate": "2025-01-26",
         "leader": "OP09-081",
-        "deckColor": "Unknown",
+        "deckColor": "Black",
         "leaderID": "OP09-081",
         "members": [
             {
@@ -1772,12 +1890,12 @@
     {
         "deckOwner": "Hirohiro",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "3v3(7-1); Placement: 2nd Place",
+        "placement": "2nd Place",
+        "tournament": "3v3(7-1)",
         "host": "Hacchi CS(96)",
         "deckDate": "2025-01-25",
         "leader": "OP05-060",
-        "deckColor": "Unknown",
+        "deckColor": "Purple",
         "leaderID": "OP05-060",
         "members": [
             {
@@ -1890,12 +2008,12 @@
     {
         "deckOwner": "Piyochi",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "FLagship(5-0); Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "FLagship(5-0)",
         "host": "Cardshop",
         "deckDate": "2025-01-25",
         "leader": "OP07-038",
-        "deckColor": "Unknown",
+        "deckColor": "Blue",
         "leaderID": "OP07-038",
         "members": [
             {
@@ -2022,12 +2140,12 @@
     {
         "deckOwner": "Salmon_op",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "Shop Event(6-0); Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "Shop Event(6-0)",
         "host": "Cardshop",
         "deckDate": "2025-01-25",
         "leader": "ST10-002",
-        "deckColor": "Unknown",
+        "deckColor": "Red/Purple",
         "leaderID": "ST10-002",
         "members": [
             {
@@ -2140,12 +2258,12 @@
     {
         "deckOwner": "Tenten",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "3v3(7-1); Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "3v3(7-1)",
         "host": "Hacchi CS(96)",
         "deckDate": "2025-01-25",
         "leader": "OP05-060",
-        "deckColor": "Unknown",
+        "deckColor": "Purple",
         "leaderID": "OP05-060",
         "members": [
             {
@@ -2251,12 +2369,12 @@
     {
         "deckOwner": "Nigou",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "3v3(5-1); Placement: Top-4",
+        "placement": "Top-4",
+        "tournament": "3v3(5-1)",
         "host": "Hacchi CS",
         "deckDate": "2025-01-25",
         "leader": "OP05-098",
-        "deckColor": "Unknown",
+        "deckColor": "Yellow",
         "leaderID": "OP05-098",
         "members": [
             {
@@ -2362,12 +2480,12 @@
     {
         "deckOwner": "Piroshiki",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "SB; Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "SB",
         "host": "Takuro Cup(14)",
         "deckDate": "2025-01-25",
         "leader": "OP05-098",
-        "deckColor": "Unknown",
+        "deckColor": "Yellow",
         "leaderID": "OP05-098",
         "members": [
             {
@@ -2473,12 +2591,12 @@
     {
         "deckOwner": "Suko",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "3v3(6-2); Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "3v3(6-2)",
         "host": "Stew Cup",
         "deckDate": "2025-01-25",
         "leader": "OP05-098",
-        "deckColor": "Unknown",
+        "deckColor": "Yellow",
         "leaderID": "OP05-098",
         "members": [
             {
@@ -2577,12 +2695,12 @@
     {
         "deckOwner": "Hide Tanaka",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "SB; Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "SB",
         "host": "HBST(16)",
         "deckDate": "2025-01-25",
         "leader": "OP07-097",
-        "deckColor": "Unknown",
+        "deckColor": "Yellow",
         "leaderID": "OP07-097",
         "members": [
             {
@@ -2688,12 +2806,12 @@
     {
         "deckOwner": "Ives Rementina",
         "deckFrom": "PH",
-        "placement": "Unknown",
-        "tournament": "Flagship; Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "Flagship",
         "host": "Top Deck Games",
         "deckDate": "2025-01-25",
         "leader": "OP09-081",
-        "deckColor": "Unknown",
+        "deckColor": "Black",
         "leaderID": "OP09-081",
         "members": [
             {
@@ -2799,12 +2917,12 @@
     {
         "deckOwner": "Nekomaru",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "3v3(5-0); Placement: NA",
+        "placement": "NA",
+        "tournament": "3v3(5-0)",
         "host": "Memories Cup",
         "deckDate": "2025-01-25",
         "leader": "OP09-081",
-        "deckColor": "Unknown",
+        "deckColor": "Black",
         "leaderID": "OP09-081",
         "members": [
             {
@@ -2910,12 +3028,12 @@
     {
         "deckOwner": "Potaka",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "3v3(7-0); Placement: Top-4",
+        "placement": "Top-4",
+        "tournament": "3v3(7-0)",
         "host": "Luminous CS",
         "deckDate": "2025-01-25",
         "leader": "OP09-081",
-        "deckColor": "Unknown",
+        "deckColor": "Black",
         "leaderID": "OP09-081",
         "members": [
             {
@@ -3021,12 +3139,12 @@
     {
         "deckOwner": "Zato",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "SB(4-0); Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "SB(4-0)",
         "host": "Cardshop",
         "deckDate": "2025-01-25",
         "leader": "OP02-093",
-        "deckColor": "Unknown",
+        "deckColor": "Black",
         "leaderID": "OP02-093",
         "members": [
             {
@@ -3153,12 +3271,12 @@
     {
         "deckOwner": "Chankuma",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "Flagship(4-1); Placement: 5th Place",
+        "placement": "5th Place",
+        "tournament": "Flagship(4-1)",
         "host": "Tsutaya",
         "deckDate": "2025-01-22",
         "leader": "OP03-022",
-        "deckColor": "Unknown",
+        "deckColor": "Green/Yellow",
         "leaderID": "OP03-022",
         "members": [
             {
@@ -3271,12 +3389,12 @@
     {
         "deckOwner": "Macho",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "Flagship; Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "Flagship",
         "host": "Hirakata Hobby(32)",
         "deckDate": "2025-01-21",
         "leader": "OP03-040",
-        "deckColor": "Unknown",
+        "deckColor": "Blue",
         "leaderID": "OP03-040",
         "members": [
             {
@@ -3382,12 +3500,12 @@
     {
         "deckOwner": "Adrie M",
         "deckFrom": "PH",
-        "placement": "Unknown",
-        "tournament": "Asia Final; Placement: Top-8",
+        "placement": "Top-8",
+        "tournament": "Asia Final",
         "host": "Bandai Maxsoft",
         "deckDate": "2025-01-19",
         "leader": "OP09-022",
-        "deckColor": "Unknown",
+        "deckColor": "Green/Purple",
         "leaderID": "OP09-022",
         "members": [
             {
@@ -3507,12 +3625,12 @@
     {
         "deckOwner": "Lemon",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "Flagship; Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "Flagship",
         "host": "Cardshop",
         "deckDate": "2025-01-19",
         "leader": "OP07-019",
-        "deckColor": "Unknown",
+        "deckColor": "Green",
         "leaderID": "OP07-019",
         "members": [
             {
@@ -3632,12 +3750,12 @@
     {
         "deckOwner": "Hokhau",
         "deckFrom": "Indonesia",
-        "placement": "Unknown",
-        "tournament": "Flagship(4-0); Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "Flagship(4-0)",
         "host": "Vitazi",
         "deckDate": "2025-01-19",
         "leader": "OP07-038",
-        "deckColor": "Unknown",
+        "deckColor": "Blue",
         "leaderID": "OP07-038",
         "members": [
             {
@@ -3743,12 +3861,12 @@
     {
         "deckOwner": "Edd",
         "deckFrom": "PH",
-        "placement": "Unknown",
-        "tournament": "SB(4-0); Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "SB(4-0)",
         "host": "Japstore",
         "deckDate": "2025-01-19",
         "leader": "OP09-061",
-        "deckColor": "Unknown",
+        "deckColor": "Purple/Black",
         "leaderID": "OP09-061",
         "members": [
             {
@@ -3868,12 +3986,12 @@
     {
         "deckOwner": "Meifu",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "Flagship(5-0); Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "Flagship(5-0)",
         "host": "Tsutaya",
         "deckDate": "2025-01-19",
         "leader": "OP10-001",
-        "deckColor": "Unknown",
+        "deckColor": "Red/Green",
         "leaderID": "OP10-001",
         "members": [
             {
@@ -3979,12 +4097,12 @@
     {
         "deckOwner": "Deon",
         "deckFrom": "SG",
-        "placement": "Unknown",
-        "tournament": "Flagship(5-0); Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "Flagship(5-0)",
         "host": "Tabletop",
         "deckDate": "2025-01-19",
         "leader": "OP10-099",
-        "deckColor": "Unknown",
+        "deckColor": "Yellow",
         "leaderID": "OP10-099",
         "members": [
             {
@@ -4104,12 +4222,12 @@
     {
         "deckOwner": "Shum Jia Yu",
         "deckFrom": "SG",
-        "placement": "Unknown",
-        "tournament": "Flagship; Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "Flagship",
         "host": "Rowell",
         "deckDate": "2025-01-17",
         "leader": "OP07-019",
-        "deckColor": "Unknown",
+        "deckColor": "Green",
         "leaderID": "OP07-019",
         "members": [
             {
@@ -4236,12 +4354,12 @@
     {
         "deckOwner": "shiontan",
         "deckFrom": "Japan",
-        "placement": "Unknown",
-        "tournament": "Flagship(5-0); Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "Flagship(5-0)",
         "host": "Yagi",
         "deckDate": "2025-01-16",
         "leader": "OP07-097",
-        "deckColor": "Unknown",
+        "deckColor": "Yellow",
         "leaderID": "OP07-097",
         "members": [
             {
@@ -4347,12 +4465,12 @@
     {
         "deckOwner": "Momon",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "Yokohama Final; Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "Yokohama Final",
         "host": "Bandai",
         "deckDate": "2025-01-12",
         "leader": "ST13-003",
-        "deckColor": "Unknown",
+        "deckColor": "Black/Yellow",
         "leaderID": "ST13-003",
         "members": [
             {
@@ -4458,12 +4576,12 @@
     {
         "deckOwner": "Reika",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "Yokohama Final(9-2); Placement: 2nd Place",
+        "placement": "2nd Place",
+        "tournament": "Yokohama Final(9-2)",
         "host": "Bandai",
         "deckDate": "2025-01-12",
         "leader": "OP01-060",
-        "deckColor": "Unknown",
+        "deckColor": "Blue",
         "leaderID": "OP01-060",
         "members": [
             {
@@ -4590,12 +4708,12 @@
     {
         "deckOwner": "Amato",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "Yokohama Final; Placement: Top-4",
+        "placement": "Top-4",
+        "tournament": "Yokohama Final",
         "host": "Bandai",
         "deckDate": "2025-01-12",
         "leader": "OP01-060",
-        "deckColor": "Unknown",
+        "deckColor": "Blue",
         "leaderID": "OP01-060",
         "members": [
             {
@@ -4708,12 +4826,12 @@
     {
         "deckOwner": "Nazu",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "Yokohama Final(8-1); Placement: Top-8",
+        "placement": "Top-8",
+        "tournament": "Yokohama Final(8-1)",
         "host": "Bandai",
         "deckDate": "2025-01-12",
         "leader": "OP07-079",
-        "deckColor": "Unknown",
+        "deckColor": "Black",
         "leaderID": "OP07-079",
         "members": [
             {
@@ -4854,12 +4972,12 @@
     {
         "deckOwner": "Hasekyon",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "Yokohama Final(6-2); Placement: Top-16",
+        "placement": "Top-16",
+        "tournament": "Yokohama Final(6-2)",
         "host": "Bandai",
         "deckDate": "2025-01-12",
         "leader": "OP09-081",
-        "deckColor": "Unknown",
+        "deckColor": "Black",
         "leaderID": "OP09-081",
         "members": [
             {
@@ -4965,12 +5083,12 @@
     {
         "deckOwner": "kitajitotti",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "Yokohama Final(6-2); Placement: Top-16",
+        "placement": "Top-16",
+        "tournament": "Yokohama Final(6-2)",
         "host": "Bandai",
         "deckDate": "2025-01-12",
         "leader": "OP01-060",
-        "deckColor": "Unknown",
+        "deckColor": "Blue",
         "leaderID": "OP01-060",
         "members": [
             {
@@ -5090,12 +5208,12 @@
     {
         "deckOwner": "Inari",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "Yokohama Final(5-2); Placement: Top-32",
+        "placement": "Top-32",
+        "tournament": "Yokohama Final(5-2)",
         "host": "Bandai",
         "deckDate": "2025-01-12",
         "leader": "OP10-099",
-        "deckColor": "Unknown",
+        "deckColor": "Yellow",
         "leaderID": "OP10-099",
         "members": [
             {
@@ -5194,12 +5312,12 @@
     {
         "deckOwner": "blue_mii",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "Shop Event(8-0); Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "Shop Event(8-0)",
         "host": "Unipen Cup",
         "deckDate": "2025-01-12",
         "leader": "OP06-042",
-        "deckColor": "Unknown",
+        "deckColor": "Blue/Purple",
         "leaderID": "OP06-042",
         "members": [
             {
@@ -5312,12 +5430,12 @@
     {
         "deckOwner": "Achilles P",
         "deckFrom": "PH",
-        "placement": "Unknown",
-        "tournament": "Flagship; Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "Flagship",
         "host": "Final Turn Hobby",
         "deckDate": "2025-01-12",
         "leader": "OP09-081",
-        "deckColor": "Unknown",
+        "deckColor": "Black",
         "leaderID": "OP09-081",
         "members": [
             {
@@ -5430,12 +5548,12 @@
     {
         "deckOwner": "Thien Tue",
         "deckFrom": "Vietnam",
-        "placement": "Unknown",
-        "tournament": "Shop Event; Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "Shop Event",
         "host": "Alpha Hobby n Arceus TCG(22)",
         "deckDate": "2025-01-12",
         "leader": "OP09-001",
-        "deckColor": "Unknown",
+        "deckColor": "Red",
         "leaderID": "OP09-001",
         "members": [
             {
@@ -5555,12 +5673,12 @@
     {
         "deckOwner": "Kyohe",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "Shop Event(7-0); Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "Shop Event(7-0)",
         "host": "Chimi Cup",
         "deckDate": "2025-01-11",
         "leader": "OP05-098",
-        "deckColor": "Unknown",
+        "deckColor": "Yellow",
         "leaderID": "OP05-098",
         "members": [
             {
@@ -5666,12 +5784,12 @@
     {
         "deckOwner": "Jai",
         "deckFrom": "PH",
-        "placement": "Unknown",
-        "tournament": "Flagship(5-0); Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "Flagship(5-0)",
         "host": "Forge Hobby North Point",
         "deckDate": "2025-01-11",
         "leader": "ST10-003",
-        "deckColor": "Unknown",
+        "deckColor": "Red/Purple",
         "leaderID": "ST10-003",
         "members": [
             {
@@ -5770,12 +5888,12 @@
     {
         "deckOwner": "Murabito",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "Shop Event(7-1); Placement: 2nd Place",
+        "placement": "2nd Place",
+        "tournament": "Shop Event(7-1)",
         "host": "Mitchie Cup",
         "deckDate": "2025-01-11",
         "leader": "OP07-059",
-        "deckColor": "Unknown",
+        "deckColor": "Purple",
         "leaderID": "OP07-059",
         "members": [
             {
@@ -5888,12 +6006,12 @@
     {
         "deckOwner": "lemo_kurone",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "Shop Event(5-0); Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "Shop Event(5-0)",
         "host": "onehappy Cup(56)",
         "deckDate": "2025-01-11",
         "leader": "OP01-060",
-        "deckColor": "Unknown",
+        "deckColor": "Blue",
         "leaderID": "OP01-060",
         "members": [
             {
@@ -5999,12 +6117,12 @@
     {
         "deckOwner": "YT",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "SB(4-0); Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "SB(4-0)",
         "host": "Bookoff",
         "deckDate": "2025-01-10",
         "leader": "OP07-079",
-        "deckColor": "Unknown",
+        "deckColor": "Black",
         "leaderID": "OP07-079",
         "members": [
             {
@@ -6138,12 +6256,12 @@
     {
         "deckOwner": "Take",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "Flagship; Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "Flagship",
         "host": "Corgy",
         "deckDate": "2025-01-10",
         "leader": "OP10-042",
-        "deckColor": "Unknown",
+        "deckColor": "Blue/Black",
         "leaderID": "OP10-042",
         "members": [
             {
@@ -6263,12 +6381,12 @@
     {
         "deckOwner": "Maki",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "Flagship(5-0); Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "Flagship(5-0)",
         "host": "TCG Center",
         "deckDate": "2025-01-08",
         "leader": "OP05-060",
-        "deckColor": "Unknown",
+        "deckColor": "Purple",
         "leaderID": "OP05-060",
         "members": [
             {
@@ -6381,12 +6499,12 @@
     {
         "deckOwner": "Ji_nias",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "Flasghip; Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "Flasghip",
         "host": "Toyohashi",
         "deckDate": "2025-01-08",
         "leader": "OP09-022",
-        "deckColor": "Unknown",
+        "deckColor": "Green/Purple",
         "leaderID": "OP09-022",
         "members": [
             {
@@ -6506,12 +6624,12 @@
     {
         "deckOwner": "Elru",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "Flasghip; Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "Flasghip",
         "host": "Dragon Star(32)",
         "deckDate": "2025-01-07",
         "leader": "OP07-019",
-        "deckColor": "Unknown",
+        "deckColor": "Green",
         "leaderID": "OP07-019",
         "members": [
             {
@@ -6617,12 +6735,12 @@
     {
         "deckOwner": "Raphterra",
         "deckFrom": "PH",
-        "placement": "Unknown",
-        "tournament": "PH Final(6-0); Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "PH Final(6-0)",
         "host": "Bandai Maxsoft",
         "deckDate": "2025-01-05",
         "leader": "OP07-019",
-        "deckColor": "Unknown",
+        "deckColor": "Green",
         "leaderID": "OP07-019",
         "members": [
             {
@@ -6749,12 +6867,12 @@
     {
         "deckOwner": "Kiyo",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "Flagship; Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "Flagship",
         "host": "b_hongo(29)",
         "deckDate": "2025-01-05",
         "leader": "OP07-038",
-        "deckColor": "Unknown",
+        "deckColor": "Blue",
         "leaderID": "OP07-038",
         "members": [
             {
@@ -6860,12 +6978,12 @@
     {
         "deckOwner": "Gerrard",
         "deckFrom": "Sinagpore",
-        "placement": "Unknown",
-        "tournament": "SG Final; Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "SG Final",
         "host": "Bandai Maxsoft",
         "deckDate": "2025-01-05",
         "leader": "OP01-060",
-        "deckColor": "Unknown",
+        "deckColor": "Blue",
         "leaderID": "OP01-060",
         "members": [
             {
@@ -6978,12 +7096,12 @@
     {
         "deckOwner": "TeeHanYong",
         "deckFrom": "Sinagpore",
-        "placement": "Unknown",
-        "tournament": "SG Final(7-1); Placement: 2nd Place",
+        "placement": "2nd Place",
+        "tournament": "SG Final(7-1)",
         "host": "Bandai Maxsoft",
         "deckDate": "2025-01-05",
         "leader": "OP01-060",
-        "deckColor": "Unknown",
+        "deckColor": "Blue",
         "leaderID": "OP01-060",
         "members": [
             {
@@ -7096,12 +7214,12 @@
     {
         "deckOwner": "Chalice",
         "deckFrom": "Sinagpore",
-        "placement": "Unknown",
-        "tournament": "SG Final; Placement: Top-4",
+        "placement": "Top-4",
+        "tournament": "SG Final",
         "host": "Bandai Maxsoft",
         "deckDate": "2025-01-05",
         "leader": "OP01-060",
-        "deckColor": "Unknown",
+        "deckColor": "Blue",
         "leaderID": "OP01-060",
         "members": [
             {
@@ -7214,12 +7332,12 @@
     {
         "deckOwner": "Hellius",
         "deckFrom": "Sinagpore",
-        "placement": "Unknown",
-        "tournament": "SG Final; Placement: Top-8",
+        "placement": "Top-8",
+        "tournament": "SG Final",
         "host": "Bandai Maxsoft",
         "deckDate": "2025-01-05",
         "leader": "OP09-001",
-        "deckColor": "Unknown",
+        "deckColor": "Red",
         "leaderID": "OP09-001",
         "members": [
             {
@@ -7332,12 +7450,12 @@
     {
         "deckOwner": "Yosh",
         "deckFrom": "Philippines",
-        "placement": "Unknown",
-        "tournament": "PH Final; Placement: Top-4",
+        "placement": "Top-4",
+        "tournament": "PH Final",
         "host": "Bandai Maxsoft",
         "deckDate": "2025-01-05",
         "leader": "OP01-060",
-        "deckColor": "Unknown",
+        "deckColor": "Blue",
         "leaderID": "OP01-060",
         "members": [
             {
@@ -7450,12 +7568,12 @@
     {
         "deckOwner": "Hikari",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "Shop Event; Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "Shop Event",
         "host": "Onehappytcg(38)",
         "deckDate": "2025-01-05",
         "leader": "OP06-080",
-        "deckColor": "Unknown",
+        "deckColor": "Black",
         "leaderID": "OP06-080",
         "members": [
             {
@@ -7561,12 +7679,12 @@
     {
         "deckOwner": "SHO",
         "deckFrom": "Japan",
-        "placement": "Unknown",
-        "tournament": "Shop Event(8-0); Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "Shop Event(8-0)",
         "host": "Cardshop",
         "deckDate": "2025-01-04",
         "leader": "OP09-061",
-        "deckColor": "Unknown",
+        "deckColor": "Purple/Black",
         "leaderID": "OP09-061",
         "members": [
             {
@@ -7679,12 +7797,12 @@
     {
         "deckOwner": "Ippo",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "Flagship(5-0); Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "Flagship(5-0)",
         "host": "Cardshop",
         "deckDate": "2025-01-04",
         "leader": "OP02-093",
-        "deckColor": "Unknown",
+        "deckColor": "Black",
         "leaderID": "OP02-093",
         "members": [
             {
@@ -7797,12 +7915,12 @@
     {
         "deckOwner": "Aacha",
         "deckFrom": "Japan",
-        "placement": "Unknown",
-        "tournament": "3v3(7-1); Placement: 2nd Place",
+        "placement": "2nd Place",
+        "tournament": "3v3(7-1)",
         "host": "Hacchi CS(96)",
         "deckDate": "2025-01-04",
         "leader": "OP05-060",
-        "deckColor": "Unknown",
+        "deckColor": "Purple",
         "leaderID": "OP05-060",
         "members": [
             {
@@ -7922,12 +8040,12 @@
     {
         "deckOwner": "Chiihan",
         "deckFrom": "Japan",
-        "placement": "Unknown",
-        "tournament": "Shop Event(8-0); Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "Shop Event(8-0)",
         "host": "Sippohai",
         "deckDate": "2025-01-04",
         "leader": "OP07-079",
-        "deckColor": "Unknown",
+        "deckColor": "Black",
         "leaderID": "OP07-079",
         "members": [
             {
@@ -8061,12 +8179,12 @@
     {
         "deckOwner": "Ken",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "Flagship(5-0); Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "Flagship(5-0)",
         "host": "Tsutaya",
         "deckDate": "2025-01-04",
         "leader": "OP10-001",
-        "deckColor": "Unknown",
+        "deckColor": "Red/Green",
         "leaderID": "OP10-001",
         "members": [
             {
@@ -8172,12 +8290,12 @@
     {
         "deckOwner": "Nisawa",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "Flagship(5-0); Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "Flagship(5-0)",
         "host": "Cardshop",
         "deckDate": "2025-01-03",
         "leader": "OP10-042",
-        "deckColor": "Unknown",
+        "deckColor": "Blue/Black",
         "leaderID": "OP10-042",
         "members": [
             {
@@ -8283,12 +8401,12 @@
     {
         "deckOwner": "Sutton",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "Flagship(5-0); Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "Flagship(5-0)",
         "host": "Sakura",
         "deckDate": "2025-01-03",
         "leader": "OP09-001",
-        "deckColor": "Unknown",
+        "deckColor": "Red",
         "leaderID": "OP09-001",
         "members": [
             {
@@ -8408,12 +8526,12 @@
     {
         "deckOwner": "Apo",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "Flagship(5-0); Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "Flagship(5-0)",
         "host": "Cardshop",
         "deckDate": "2025-01-01",
         "leader": "OP01-060",
-        "deckColor": "Unknown",
+        "deckColor": "Blue",
         "leaderID": "OP01-060",
         "members": [
             {
@@ -8540,12 +8658,12 @@
     {
         "deckOwner": "Yamakawa",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "Shop Event(5-1); Placement: 2nd Place",
+        "placement": "2nd Place",
+        "tournament": "Shop Event(5-1)",
         "host": "One Happy Cup",
         "deckDate": "2025-01-01",
         "leader": "OP08-021",
-        "deckColor": "Unknown",
+        "deckColor": "Green",
         "leaderID": "OP08-021",
         "members": [
             {
@@ -8658,12 +8776,12 @@
     {
         "deckOwner": "Kihara",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "Flagship(5-0); Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "Flagship(5-0)",
         "host": "Sakura(28)",
         "deckDate": "2025-01-01",
         "leader": "OP10-042",
-        "deckColor": "Unknown",
+        "deckColor": "Blue/Black",
         "leaderID": "OP10-042",
         "members": [
             {
@@ -8776,12 +8894,12 @@
     {
         "deckOwner": "KTS",
         "deckFrom": "Malaysia",
-        "placement": "Unknown",
-        "tournament": "SB; Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "SB",
         "host": "JT Game Store",
         "deckDate": "2024-12-30",
         "leader": "OP09-061",
-        "deckColor": "Unknown",
+        "deckColor": "Purple/Black",
         "leaderID": "OP09-061",
         "members": [
             {
@@ -8915,12 +9033,12 @@
     {
         "deckOwner": "Okamoto",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "Flagship(4-0); Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "Flagship(4-0)",
         "host": "Cardshop",
         "deckDate": "2024-12-29",
         "leader": "OP02-093",
-        "deckColor": "Unknown",
+        "deckColor": "Black",
         "leaderID": "OP02-093",
         "members": [
             {
@@ -9054,12 +9172,12 @@
     {
         "deckOwner": "Akki",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "5v5(5-1); Placement: 3rd Place",
+        "placement": "3rd Place",
+        "tournament": "5v5(5-1)",
         "host": "Gajumaru Cup",
         "deckDate": "2024-12-29",
         "leader": "ST01-001",
-        "deckColor": "Unknown",
+        "deckColor": "Red",
         "leaderID": "ST01-001",
         "members": [
             {
@@ -9179,12 +9297,12 @@
     {
         "deckOwner": "sakuya1212",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "Flagship(5-0); Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "Flagship(5-0)",
         "host": "Banzaiten",
         "deckDate": "2024-12-28",
         "leader": "OP10-042",
-        "deckColor": "Unknown",
+        "deckColor": "Blue/Black",
         "leaderID": "OP10-042",
         "members": [
             {
@@ -9297,12 +9415,12 @@
     {
         "deckOwner": "esuto96",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "Flagship(5-0); Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "Flagship(5-0)",
         "host": "Cardshop",
         "deckDate": "2024-12-28",
         "leader": "OP10-099",
-        "deckColor": "Unknown",
+        "deckColor": "Yellow",
         "leaderID": "OP10-099",
         "members": [
             {
@@ -9401,12 +9519,12 @@
     {
         "deckOwner": "Buku",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "5v5(7-1); Placement: NA",
+        "placement": "NA",
+        "tournament": "5v5(7-1)",
         "host": "Cardshop",
         "deckDate": "2024-12-28",
         "leader": "OP07-079",
-        "deckColor": "Unknown",
+        "deckColor": "Black",
         "leaderID": "OP07-079",
         "members": [
             {
@@ -9533,12 +9651,12 @@
     {
         "deckOwner": "Unta",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "Flagship(5-0); Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "Flagship(5-0)",
         "host": "Dragon Star",
         "deckDate": "2024-12-28",
         "leader": "OP10-022",
-        "deckColor": "Unknown",
+        "deckColor": "Green/Yellow",
         "leaderID": "OP10-022",
         "members": [
             {
@@ -9637,12 +9755,12 @@
     {
         "deckOwner": "Jitsu",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "SB; Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "SB",
         "host": "Cardshophanjou",
         "deckDate": "2025-01-27",
         "leader": "EB02-010",
-        "deckColor": "Unknown",
+        "deckColor": "Green/Purple",
         "leaderID": "EB02-010",
         "members": [
             {
@@ -9755,12 +9873,12 @@
     {
         "deckOwner": "Hapigori",
         "deckFrom": "JP",
-        "placement": "Unknown",
-        "tournament": "SB; Placement: 1st Place",
+        "placement": "1st Place",
+        "tournament": "SB",
         "host": "toreca_binks",
         "deckDate": "2025-01-26",
         "leader": "EB01-001",
-        "deckColor": "Unknown",
+        "deckColor": "Red/Green",
         "leaderID": "EB01-001",
         "members": [
             {
@@ -9860,464 +9978,6 @@
                 "memberCount": 4,
                 "memberID": "OP01-029",
                 "name": "Radical Beam!!"
-            }
-        ]
-    },
-    {
-        "deckOwner": "Hapigori",
-        "deckDate": "2025-01-26",
-        "deckFrom": "JP",
-        "tournament": "SB; Placement: 1st Place",
-        "placement": "Unknown",
-        "host": "toreca_binks",
-        "leader": "ck Name: Red Green Oden",
-        "deckColor": "Unknown",
-        "leaderID": "ck Name: Red Green Oden",
-        "members": [
-            {
-                "memberCatalog": "Leader",
-                "memberCost": "4",
-                "memberCount": 1,
-                "memberID": "EB01-001",
-                "name": "Kouzuki Oden"
-            },
-            {
-                "memberCatalog": "Character",
-                "memberCost": "2",
-                "memberCount": 2,
-                "memberID": "OP01-039",
-                "name": "Killer"
-            },
-            {
-                "memberCatalog": "Character",
-                "memberCost": "3",
-                "memberCount": 3,
-                "memberID": "OP01-033",
-                "name": "Izo"
-            },
-            {
-                "memberCatalog": "Character",
-                "memberCost": "1",
-                "memberCount": 4,
-                "memberID": "OP01-041",
-                "name": "Kouzuki Momonosuke"
-            },
-            {
-                "memberCatalog": "Character",
-                "memberCost": "5",
-                "memberCount": 3,
-                "memberID": "OP01-046",
-                "name": "Denjiro"
-            },
-            {
-                "memberCatalog": "Character",
-                "memberCost": "5",
-                "memberCount": 2,
-                "memberID": "OP01-121",
-                "name": "Yamato"
-            },
-            {
-                "memberCatalog": "Character",
-                "memberCost": "2",
-                "memberCount": 4,
-                "memberID": "OP05-030",
-                "name": "Donquixote Rosinante"
-            },
-            {
-                "memberCatalog": "Character",
-                "memberCost": "7",
-                "memberCount": 4,
-                "memberID": "OP06-035",
-                "name": "Hody Jones"
-            },
-            {
-                "memberCatalog": "Character",
-                "memberCost": "4",
-                "memberCount": 4,
-                "memberID": "OP06-036",
-                "name": "Ryuma"
-            },
-            {
-                "memberCatalog": "Character",
-                "memberCost": "4",
-                "memberCount": 4,
-                "memberID": "EB01-013",
-                "name": "Kouzuki Hiyori"
-            },
-            {
-                "memberCatalog": "Character",
-                "memberCost": "1",
-                "memberCount": 4,
-                "memberID": "OP07-022",
-                "name": "Otama"
-            },
-            {
-                "memberCatalog": "Character",
-                "memberCost": "3",
-                "memberCount": 4,
-                "memberID": "OP10-032",
-                "name": "Tashigi"
-            },
-            {
-                "memberCatalog": "Character",
-                "memberCost": "5",
-                "memberCount": 4,
-                "memberID": "EB01-002",
-                "name": "Izo"
-            },
-            {
-                "memberCatalog": "Character",
-                "memberCost": "6",
-                "memberCount": 4,
-                "memberID": "EB02-006",
-                "name": "Yamato"
-            },
-            {
-                "memberCatalog": "Event",
-                "memberCost": "1",
-                "memberCount": 4,
-                "memberID": "OP01-029",
-                "name": "Radical Beam!!"
-            }
-        ]
-    },
-    {
-        "deckOwner": "Hapigori",
-        "deckDate": "2025-01-26",
-        "deckFrom": "JP",
-        "tournament": "SB; Placement: 1st Place",
-        "placement": "Unknown",
-        "host": "toreca_binks",
-        "leader": "ck Name: Red Green Oden",
-        "deckColor": "Unknown",
-        "leaderID": "ck Name: Red Green Oden",
-        "members": [
-            {
-                "memberCatalog": "Leader",
-                "memberCost": "4",
-                "memberCount": 1,
-                "memberID": "EB01-001",
-                "name": "Kouzuki Oden"
-            },
-            {
-                "memberCatalog": "Character",
-                "memberCost": "2",
-                "memberCount": 2,
-                "memberID": "OP01-039",
-                "name": "Killer"
-            },
-            {
-                "memberCatalog": "Character",
-                "memberCost": "3",
-                "memberCount": 3,
-                "memberID": "OP01-033",
-                "name": "Izo"
-            },
-            {
-                "memberCatalog": "Character",
-                "memberCost": "1",
-                "memberCount": 4,
-                "memberID": "OP01-041",
-                "name": "Kouzuki Momonosuke"
-            },
-            {
-                "memberCatalog": "Character",
-                "memberCost": "5",
-                "memberCount": 3,
-                "memberID": "OP01-046",
-                "name": "Denjiro"
-            },
-            {
-                "memberCatalog": "Character",
-                "memberCost": "5",
-                "memberCount": 2,
-                "memberID": "OP01-121",
-                "name": "Yamato"
-            },
-            {
-                "memberCatalog": "Character",
-                "memberCost": "2",
-                "memberCount": 4,
-                "memberID": "OP05-030",
-                "name": "Donquixote Rosinante"
-            },
-            {
-                "memberCatalog": "Character",
-                "memberCost": "7",
-                "memberCount": 4,
-                "memberID": "OP06-035",
-                "name": "Hody Jones"
-            },
-            {
-                "memberCatalog": "Character",
-                "memberCost": "4",
-                "memberCount": 4,
-                "memberID": "OP06-036",
-                "name": "Ryuma"
-            },
-            {
-                "memberCatalog": "Character",
-                "memberCost": "4",
-                "memberCount": 4,
-                "memberID": "EB01-013",
-                "name": "Kouzuki Hiyori"
-            },
-            {
-                "memberCatalog": "Character",
-                "memberCost": "1",
-                "memberCount": 4,
-                "memberID": "OP07-022",
-                "name": "Otama"
-            },
-            {
-                "memberCatalog": "Character",
-                "memberCost": "3",
-                "memberCount": 4,
-                "memberID": "OP10-032",
-                "name": "Tashigi"
-            },
-            {
-                "memberCatalog": "Character",
-                "memberCost": "5",
-                "memberCount": 4,
-                "memberID": "EB01-002",
-                "name": "Izo"
-            },
-            {
-                "memberCatalog": "Character",
-                "memberCost": "6",
-                "memberCount": 4,
-                "memberID": "EB02-006",
-                "name": "Yamato"
-            },
-            {
-                "memberCatalog": "Event",
-                "memberCost": "1",
-                "memberCount": 4,
-                "memberID": "OP01-029",
-                "name": "Radical Beam!!"
-            }
-        ]
-    },
-    {
-        "deckOwner": "Unknown",
-        "deckFrom": "Unknown",
-        "placement": "Unknown",
-        "tournament": "Unknown",
-        "host": "Unknown",
-        "deckDate": "Unknown",
-        "leader": "EB01-001",
-        "deckColor": "Unknown",
-        "leaderID": "EB01-001",
-        "members": [
-            {
-                "memberCatalog": "Character",
-                "memberCost": "2",
-                "memberCount": 2,
-                "memberID": "OP01-039",
-                "name": "Killer"
-            },
-            {
-                "memberCatalog": "Character",
-                "memberCost": "3",
-                "memberCount": 3,
-                "memberID": "OP01-033",
-                "name": "Izo"
-            },
-            {
-                "memberCatalog": "Character",
-                "memberCost": "1",
-                "memberCount": 4,
-                "memberID": "OP01-041",
-                "name": "Kouzuki Momonosuke"
-            },
-            {
-                "memberCatalog": "Character",
-                "memberCost": "5",
-                "memberCount": 3,
-                "memberID": "OP01-046",
-                "name": "Denjiro"
-            },
-            {
-                "memberCatalog": "Character",
-                "memberCost": "5",
-                "memberCount": 2,
-                "memberID": "OP01-121",
-                "name": "Yamato"
-            },
-            {
-                "memberCatalog": "Character",
-                "memberCost": "2",
-                "memberCount": 4,
-                "memberID": "OP05-030",
-                "name": "Donquixote Rosinante"
-            },
-            {
-                "memberCatalog": "Character",
-                "memberCost": "7",
-                "memberCount": 4,
-                "memberID": "OP06-035",
-                "name": "Hody Jones"
-            },
-            {
-                "memberCatalog": "Character",
-                "memberCost": "4",
-                "memberCount": 4,
-                "memberID": "OP06-036",
-                "name": "Ryuma"
-            },
-            {
-                "memberCatalog": "Character",
-                "memberCost": "4",
-                "memberCount": 4,
-                "memberID": "EB01-013",
-                "name": "Kouzuki Hiyori"
-            },
-            {
-                "memberCatalog": "Character",
-                "memberCost": "1",
-                "memberCount": 4,
-                "memberID": "OP07-022",
-                "name": "Otama"
-            },
-            {
-                "memberCatalog": "Character",
-                "memberCost": "3",
-                "memberCount": 4,
-                "memberID": "OP10-032",
-                "name": "Tashigi"
-            },
-            {
-                "memberCatalog": "Character",
-                "memberCost": "5",
-                "memberCount": 4,
-                "memberID": "EB01-002",
-                "name": "Izo"
-            },
-            {
-                "memberCatalog": "Character",
-                "memberCost": "6",
-                "memberCount": 4,
-                "memberID": "EB02-006",
-                "name": "Yamato"
-            },
-            {
-                "memberCatalog": "Event",
-                "memberCost": "1",
-                "memberCount": 4,
-                "memberID": "OP01-029",
-                "name": "Radical Beam!!"
-            }
-        ]
-    },
-    {
-        "deckOwner": "Unknown",
-        "deckFrom": "Unknown",
-        "placement": "Unknown",
-        "tournament": "Unknown",
-        "host": "Unknown",
-        "deckDate": "Unknown",
-        "leader": "1xEB01-001",
-        "deckColor": "Unknown",
-        "leaderID": "1xEB01-001",
-        "members": [
-            {
-                "memberCatalog": "Unknown",
-                "memberCost": "Unknown",
-                "memberCount": 2,
-                "memberID": "OP01-039",
-                "name": "OP01-039"
-            },
-            {
-                "memberCatalog": "Unknown",
-                "memberCost": "Unknown",
-                "memberCount": 3,
-                "memberID": "OP01-033",
-                "name": "OP01-033"
-            },
-            {
-                "memberCatalog": "Unknown",
-                "memberCost": "Unknown",
-                "memberCount": 4,
-                "memberID": "OP01-041",
-                "name": "OP01-041"
-            },
-            {
-                "memberCatalog": "Unknown",
-                "memberCost": "Unknown",
-                "memberCount": 3,
-                "memberID": "OP01-046",
-                "name": "OP01-046"
-            },
-            {
-                "memberCatalog": "Unknown",
-                "memberCost": "Unknown",
-                "memberCount": 2,
-                "memberID": "OP01-121",
-                "name": "OP01-121"
-            },
-            {
-                "memberCatalog": "Unknown",
-                "memberCost": "Unknown",
-                "memberCount": 4,
-                "memberID": "OP05-030",
-                "name": "OP05-030"
-            },
-            {
-                "memberCatalog": "Unknown",
-                "memberCost": "Unknown",
-                "memberCount": 4,
-                "memberID": "OP06-035",
-                "name": "OP06-035"
-            },
-            {
-                "memberCatalog": "Unknown",
-                "memberCost": "Unknown",
-                "memberCount": 4,
-                "memberID": "OP06-036",
-                "name": "OP06-036"
-            },
-            {
-                "memberCatalog": "Unknown",
-                "memberCost": "Unknown",
-                "memberCount": 4,
-                "memberID": "EB01-013",
-                "name": "EB01-013"
-            },
-            {
-                "memberCatalog": "Unknown",
-                "memberCost": "Unknown",
-                "memberCount": 4,
-                "memberID": "OP07-022",
-                "name": "OP07-022"
-            },
-            {
-                "memberCatalog": "Unknown",
-                "memberCost": "Unknown",
-                "memberCount": 4,
-                "memberID": "OP10-032",
-                "name": "OP10-032"
-            },
-            {
-                "memberCatalog": "Unknown",
-                "memberCost": "Unknown",
-                "memberCount": 4,
-                "memberID": "EB01-002",
-                "name": "EB01-002"
-            },
-            {
-                "memberCatalog": "Unknown",
-                "memberCost": "Unknown",
-                "memberCount": 4,
-                "memberID": "EB02-006",
-                "name": "EB02-006"
-            },
-            {
-                "memberCatalog": "Unknown",
-                "memberCost": "Unknown",
-                "memberCount": 4,
-                "memberID": "OP01-029",
-                "name": "OP01-029"
             }
         ]
     },
