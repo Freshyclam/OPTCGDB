@@ -52225,7 +52225,8 @@
         "trigger": "-",
         "image_path": "OP10\\OP10-016.png",
         "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP10-016.png",
-        "image": "/Script/Engine.Texture2D'/Game/Datas/Arts/OP10/OP10-016.OP10-016'"
+        "image": "/Script/Engine.Texture2D'/Game/Datas/Arts/OP10/OP10-016.OP10-016'",
+        "qna": "Q: If I cannot use this [Activate: Main] effect to give 2 rested DON!! cards to my Leader or 1 of my Characters, can I still give 1 of my opponent's Characters −1000 power?\n A:  Yes, you can.\n Q: If I cannot use this [Activate: Main] effect to give 1 of my opponent's Characters −1000 power, can I still give up to 2 rested DON!! cards to my Leader or 1 of my Characters \n A: you can."
     },
     {
         "name": "OP10-016_p1",
@@ -57857,5 +57858,27 @@
         "image_path": "OP08\\OP08-098.png",
         "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP08-098_p2.png",
         "image": "/Script/Engine.Texture2D'/Game/Datas/Arts/OP08/OP08-098.OP08-098'"
+    },
+    {
+        "name": "OP11-062",
+        "id": "OP11-062",
+        "card_name": "Charlotte Katakuri (Temp)",
+        "card_grade": "C",
+        "life": "5",
+        "attribute": "-",
+        "power": "5000",
+        "color": "Purple",
+        "counter": "-",
+        "feature": "Big Mom Pirates",
+        "text": "[When Attacking]/ [When your opponent is Attacking] {Once Per Turn} DON!!-1: Look at the top card of your opponents deck. Then, this leader gains +1000 power for this battle. ",
+        "get_info": "OP11",
+        "card_catalog": "Leader",
+        "Ban": "",
+        "series": "OP11",
+        "trigger": "",
+        "image_path": "https://raw.githubusercontent.com/Freshyclam/OPTCGDB/a8499a1de8eccb68b4108ca9c32fb8a05990cb29/LeakedImages/OP11/OP11-062.png",
+        "image_url": "https://raw.githubusercontent.com/Freshyclam/OPTCGDB/a8499a1de8eccb68b4108ca9c32fb8a05990cb29/LeakedImages/OP11/OP11-062.png",
+        "image": "",
+        "QNA": ""
     }
 ]
