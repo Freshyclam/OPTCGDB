@@ -1,5 +1,692 @@
 [
     {
+        "deckOwner": "Jitsu",
+        "deckFrom": "JP",
+        "placement": "Unknown",
+        "tournament": "SB; Placement: 1st Place",
+        "host": "Cardshophanjou",
+        "deckDate": "1/27/2025",
+        "leader": "EB02-010",
+        "deckColor": "Unknown",
+        "leaderID": "EB02-010",
+        "members": [
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 4,
+                "memberID": "OP05-067",
+                "name": "Zoro-Juurou"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 4,
+                "memberID": "EB02-035",
+                "name": "Sanji & Pudding"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 4,
+                "memberID": "EB02-036",
+                "name": "Nico Robin"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 2,
+                "memberID": "EB02-037",
+                "name": "Franky"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "6",
+                "memberCount": 4,
+                "memberID": "EB02-061",
+                "name": "Monkey.D.Luffy"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "6",
+                "memberCount": 4,
+                "memberID": "OP07-064",
+                "name": "Sanji"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 4,
+                "memberID": "ST18-001",
+                "name": "Uso-Hachi"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 4,
+                "memberID": "ST18-004",
+                "name": "Zoro-Juurou"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "7",
+                "memberCount": 4,
+                "memberID": "ST18-005",
+                "name": "Luffy-Tarou"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "7",
+                "memberCount": 2,
+                "memberID": "OP02-041",
+                "name": "Monkey.D.Luffy"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 2,
+                "memberID": "EB01-014",
+                "name": "Sanji"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "EB02-017",
+                "name": "Nami"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "-",
+                "memberCount": 2,
+                "memberID": "OP03-072",
+                "name": "Gum-Gum Jet Gatling"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "3",
+                "memberCount": 2,
+                "memberID": "EB02-021",
+                "name": "Gum-Gum Giant Pistol"
+            },
+            {
+                "memberCatalog": "Stage",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "EB02-041",
+                "name": "Merry Go"
+            }
+        ]
+    },
+    {
+        "deckOwner": "Hapigori",
+        "deckFrom": "JP",
+        "placement": "Unknown",
+        "tournament": "SB; Placement: 1st Place",
+        "host": "toreca_binks",
+        "deckDate": "1/26/2025",
+        "leader": "EB01-001",
+        "deckColor": "Unknown",
+        "leaderID": "EB01-001",
+        "members": [
+            {
+                "memberCatalog": "Character",
+                "memberCost": "2",
+                "memberCount": 2,
+                "memberID": "OP01-039",
+                "name": "Killer"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 3,
+                "memberID": "OP01-033",
+                "name": "Izo"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP01-041",
+                "name": "Kouzuki Momonosuke"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 3,
+                "memberID": "OP01-046",
+                "name": "Denjiro"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 2,
+                "memberID": "OP01-121",
+                "name": "Yamato"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "2",
+                "memberCount": 4,
+                "memberID": "OP05-030",
+                "name": "Donquixote Rosinante"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "7",
+                "memberCount": 4,
+                "memberID": "OP06-035",
+                "name": "Hody Jones"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 4,
+                "memberID": "OP06-036",
+                "name": "Ryuma"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 4,
+                "memberID": "EB01-013",
+                "name": "Kouzuki Hiyori"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP07-022",
+                "name": "Otama"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 4,
+                "memberID": "OP10-032",
+                "name": "Tashigi"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 4,
+                "memberID": "EB01-002",
+                "name": "Izo"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "6",
+                "memberCount": 4,
+                "memberID": "EB02-006",
+                "name": "Yamato"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP01-029",
+                "name": "Radical Beam!!"
+            }
+        ]
+    },
+    {
+        "deckOwner": "Hapigori",
+        "deckDate": "1/26/2025",
+        "deckFrom": "JP",
+        "tournament": "SB; Placement: 1st Place",
+        "placement": "Unknown",
+        "host": "toreca_binks",
+        "leader": "ck Name: Red Green Oden",
+        "deckColor": "Unknown",
+        "leaderID": "ck Name: Red Green Oden",
+        "members": [
+            {
+                "memberCatalog": "Leader",
+                "memberCost": "4",
+                "memberCount": 1,
+                "memberID": "EB01-001",
+                "name": "Kouzuki Oden"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "2",
+                "memberCount": 2,
+                "memberID": "OP01-039",
+                "name": "Killer"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 3,
+                "memberID": "OP01-033",
+                "name": "Izo"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP01-041",
+                "name": "Kouzuki Momonosuke"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 3,
+                "memberID": "OP01-046",
+                "name": "Denjiro"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 2,
+                "memberID": "OP01-121",
+                "name": "Yamato"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "2",
+                "memberCount": 4,
+                "memberID": "OP05-030",
+                "name": "Donquixote Rosinante"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "7",
+                "memberCount": 4,
+                "memberID": "OP06-035",
+                "name": "Hody Jones"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 4,
+                "memberID": "OP06-036",
+                "name": "Ryuma"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 4,
+                "memberID": "EB01-013",
+                "name": "Kouzuki Hiyori"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP07-022",
+                "name": "Otama"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 4,
+                "memberID": "OP10-032",
+                "name": "Tashigi"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 4,
+                "memberID": "EB01-002",
+                "name": "Izo"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "6",
+                "memberCount": 4,
+                "memberID": "EB02-006",
+                "name": "Yamato"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP01-029",
+                "name": "Radical Beam!!"
+            }
+        ]
+    },
+    {
+        "deckOwner": "Hapigori",
+        "deckDate": "1/26/2025",
+        "deckFrom": "JP",
+        "tournament": "SB; Placement: 1st Place",
+        "placement": "Unknown",
+        "host": "toreca_binks",
+        "leader": "ck Name: Red Green Oden",
+        "deckColor": "Unknown",
+        "leaderID": "ck Name: Red Green Oden",
+        "members": [
+            {
+                "memberCatalog": "Leader",
+                "memberCost": "4",
+                "memberCount": 1,
+                "memberID": "EB01-001",
+                "name": "Kouzuki Oden"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "2",
+                "memberCount": 2,
+                "memberID": "OP01-039",
+                "name": "Killer"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 3,
+                "memberID": "OP01-033",
+                "name": "Izo"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP01-041",
+                "name": "Kouzuki Momonosuke"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 3,
+                "memberID": "OP01-046",
+                "name": "Denjiro"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 2,
+                "memberID": "OP01-121",
+                "name": "Yamato"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "2",
+                "memberCount": 4,
+                "memberID": "OP05-030",
+                "name": "Donquixote Rosinante"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "7",
+                "memberCount": 4,
+                "memberID": "OP06-035",
+                "name": "Hody Jones"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 4,
+                "memberID": "OP06-036",
+                "name": "Ryuma"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 4,
+                "memberID": "EB01-013",
+                "name": "Kouzuki Hiyori"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP07-022",
+                "name": "Otama"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 4,
+                "memberID": "OP10-032",
+                "name": "Tashigi"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 4,
+                "memberID": "EB01-002",
+                "name": "Izo"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "6",
+                "memberCount": 4,
+                "memberID": "EB02-006",
+                "name": "Yamato"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP01-029",
+                "name": "Radical Beam!!"
+            }
+        ]
+    },
+    {
+        "deckOwner": "Unknown",
+        "deckFrom": "Unknown",
+        "placement": "Unknown",
+        "tournament": "Unknown",
+        "host": "Unknown",
+        "deckDate": "Unknown",
+        "leader": "EB01-001",
+        "deckColor": "Unknown",
+        "leaderID": "EB01-001",
+        "members": [
+            {
+                "memberCatalog": "Character",
+                "memberCost": "2",
+                "memberCount": 2,
+                "memberID": "OP01-039",
+                "name": "Killer"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 3,
+                "memberID": "OP01-033",
+                "name": "Izo"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP01-041",
+                "name": "Kouzuki Momonosuke"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 3,
+                "memberID": "OP01-046",
+                "name": "Denjiro"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 2,
+                "memberID": "OP01-121",
+                "name": "Yamato"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "2",
+                "memberCount": 4,
+                "memberID": "OP05-030",
+                "name": "Donquixote Rosinante"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "7",
+                "memberCount": 4,
+                "memberID": "OP06-035",
+                "name": "Hody Jones"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 4,
+                "memberID": "OP06-036",
+                "name": "Ryuma"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 4,
+                "memberID": "EB01-013",
+                "name": "Kouzuki Hiyori"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP07-022",
+                "name": "Otama"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 4,
+                "memberID": "OP10-032",
+                "name": "Tashigi"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 4,
+                "memberID": "EB01-002",
+                "name": "Izo"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "6",
+                "memberCount": 4,
+                "memberID": "EB02-006",
+                "name": "Yamato"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP01-029",
+                "name": "Radical Beam!!"
+            }
+        ]
+    },
+    {
+        "deckOwner": "Unknown",
+        "deckFrom": "Unknown",
+        "placement": "Unknown",
+        "tournament": "Unknown",
+        "host": "Unknown",
+        "deckDate": "Unknown",
+        "leader": "1xEB01-001",
+        "deckColor": "Unknown",
+        "leaderID": "1xEB01-001",
+        "members": [
+            {
+                "memberCatalog": "Unknown",
+                "memberCost": "Unknown",
+                "memberCount": 2,
+                "memberID": "OP01-039",
+                "name": "OP01-039"
+            },
+            {
+                "memberCatalog": "Unknown",
+                "memberCost": "Unknown",
+                "memberCount": 3,
+                "memberID": "OP01-033",
+                "name": "OP01-033"
+            },
+            {
+                "memberCatalog": "Unknown",
+                "memberCost": "Unknown",
+                "memberCount": 4,
+                "memberID": "OP01-041",
+                "name": "OP01-041"
+            },
+            {
+                "memberCatalog": "Unknown",
+                "memberCost": "Unknown",
+                "memberCount": 3,
+                "memberID": "OP01-046",
+                "name": "OP01-046"
+            },
+            {
+                "memberCatalog": "Unknown",
+                "memberCost": "Unknown",
+                "memberCount": 2,
+                "memberID": "OP01-121",
+                "name": "OP01-121"
+            },
+            {
+                "memberCatalog": "Unknown",
+                "memberCost": "Unknown",
+                "memberCount": 4,
+                "memberID": "OP05-030",
+                "name": "OP05-030"
+            },
+            {
+                "memberCatalog": "Unknown",
+                "memberCost": "Unknown",
+                "memberCount": 4,
+                "memberID": "OP06-035",
+                "name": "OP06-035"
+            },
+            {
+                "memberCatalog": "Unknown",
+                "memberCost": "Unknown",
+                "memberCount": 4,
+                "memberID": "OP06-036",
+                "name": "OP06-036"
+            },
+            {
+                "memberCatalog": "Unknown",
+                "memberCost": "Unknown",
+                "memberCount": 4,
+                "memberID": "EB01-013",
+                "name": "EB01-013"
+            },
+            {
+                "memberCatalog": "Unknown",
+                "memberCost": "Unknown",
+                "memberCount": 4,
+                "memberID": "OP07-022",
+                "name": "OP07-022"
+            },
+            {
+                "memberCatalog": "Unknown",
+                "memberCost": "Unknown",
+                "memberCount": 4,
+                "memberID": "OP10-032",
+                "name": "OP10-032"
+            },
+            {
+                "memberCatalog": "Unknown",
+                "memberCost": "Unknown",
+                "memberCount": 4,
+                "memberID": "EB01-002",
+                "name": "EB01-002"
+            },
+            {
+                "memberCatalog": "Unknown",
+                "memberCost": "Unknown",
+                "memberCount": 4,
+                "memberID": "EB02-006",
+                "name": "EB02-006"
+            },
+            {
+                "memberCatalog": "Unknown",
+                "memberCost": "Unknown",
+                "memberCount": 4,
+                "memberID": "OP01-029",
+                "name": "OP01-029"
+            }
+        ]
+    },
+    {
         "deckOwner": "Marco",
         "deckFrom": "Hong Kong",
         "placement": "Winner",

@@ -18,6 +18,7 @@ def select_json_file():
     try:
         with open(file_path, "r") as file:
             json_data = json.load(file)
+        file_label.config(text=f"主JSON文件: {file_path}")
         messagebox.showinfo("Success", f"成功加載主JSON文件: {file_path}")
     except Exception as e:
         messagebox.showerror("Error", f"無法加載主JSON文件: {e}")
@@ -32,11 +33,13 @@ def select_reference_json():
     try:
         with open(reference_json_path, "r", encoding="utf-8") as file:
             reference_data = json.load(file)
+        reference_label.config(text=f"參考JSON文件: {reference_json_path}")
         messagebox.showinfo("Success", f"成功加載參考JSON文件: {reference_json_path}")
     except UnicodeDecodeError:
         try:
             with open(reference_json_path, "r", encoding="utf-8-sig") as file:
                 reference_data = json.load(file)
+            reference_label.config(text=f"參考JSON文件: {reference_json_path}")
             messagebox.showinfo("Success", f"成功加載參考JSON文件: {reference_json_path} (使用 utf-8-sig 編碼)")
         except Exception as e:
             messagebox.showerror("Error", f"無法加載參考JSON文件: {e}")
@@ -53,9 +56,29 @@ def add_to_json():
         return
 
     user_input = text_field.get("1.0", tk.END).strip()
+    additional_input = additional_field.get("1.0", tk.END).strip()
     if not user_input:
         messagebox.showwarning("Warning", "請輸入參數！")
         return
+
+    # 解析額外輸入
+    additional_data = {}
+    for line in additional_input.splitlines():
+        if ":" in line:
+            key, value = line.split(":", 1)
+            key, value = key.strip(), value.strip()
+            if key == "Author":
+                additional_data["deckOwner"] = value
+            elif key == "Date":
+                additional_data["deckDate"] = value
+            elif key == "Country":
+                additional_data["deckFrom"] = value
+            elif key == "Tournament":
+                additional_data["tournament"] = value
+            elif key == "Placement":
+                additional_data["placement"] = value
+            elif key == "Host":
+                additional_data["host"] = value
 
     # 解析用戶輸入
     lines = user_input.splitlines()
@@ -94,12 +117,12 @@ def add_to_json():
 
     # 創建新的Deck數據
     new_deck = {
-        "deckOwner": "Unknown",  # 可根據需求填寫
-        "deckFrom": "Unknown",   # 可根據需求填寫
-        "placement": "Unknown",  # 可根據需求填寫
-        "tournament": "Unknown", # 可根據需求填寫
-        "host": "Unknown",       # 可根據需求填寫
-        "deckDate": "Unknown",   # 可根據需求填寫
+        "deckOwner": additional_data.get("deckOwner", "Unknown"),
+        "deckFrom": additional_data.get("deckFrom", "Unknown"),
+        "placement": additional_data.get("placement", "Unknown"),
+        "tournament": additional_data.get("tournament", "Unknown"),
+        "host": additional_data.get("host", "Unknown"),
+        "deckDate": additional_data.get("deckDate", "Unknown"),
         "leader": leader_id,
         "deckColor": "Unknown",  # 可根據需求填寫
         "leaderID": leader_id,
@@ -122,13 +145,23 @@ root.title("JSON數據更新")
 # 創建選擇文件按鈕
 select_file_button = tk.Button(root, text="選擇主JSON文件", command=select_json_file)
 select_file_button.pack(pady=10)
+file_label = tk.Label(root, text="主JSON文件: 未選擇")
+file_label.pack()
 
 select_reference_button = tk.Button(root, text="選擇參考JSON文件", command=select_reference_json)
 select_reference_button.pack(pady=10)
+reference_label = tk.Label(root, text="參考JSON文件: 未選擇")
+reference_label.pack()
 
 # 創建多行輸入框和確認按鈕
-text_field = tk.Text(root, height=20, width=50)
+text_field = tk.Text(root, height=10, width=50)
 text_field.pack(pady=10)
+
+additional_label = tk.Label(root, text="請輸入額外數據 (格式: Author: XXX, Date: YYYY-MM-DD, ...)")
+additional_label.pack()
+
+additional_field = tk.Text(root, height=10, width=50)
+additional_field.pack(pady=10)
 
 confirm_button = tk.Button(root, text="Confirm", command=add_to_json)
 confirm_button.pack(pady=10)
