@@ -261,7 +261,7 @@ def process_deck_data(deck, leader_color_map):
 
     return deck
 
-# 去重功能的函數
+# REMOVE DUPLICATE功能的函數
 def remove_duplicates():
     if not reference_data:
         messagebox.showwarning("Warning", "請先加載參考JSON文件！")
@@ -286,12 +286,38 @@ def remove_duplicates():
     except Exception as e:
         messagebox.showerror("Error", f"去重過程中發生錯誤: {e}")
 
+
+# REMOVE DUPLICATE功能的函數
+def remove_topDeckduplicates():
+    if not json_data:
+        messagebox.showwarning("Warning", "請先加載TOPDECK JSON文件！")
+        return
+
+    try:
+        # 去重邏輯
+        unique_data = []
+        seen = set()
+
+        for entry in json_data:
+            entry_str = json.dumps(entry, sort_keys=True)  # 將字典轉為有序字串以利於比較
+            if entry_str not in seen:
+                unique_data.append(entry)
+                seen.add(entry_str)
+
+        # 寫回去重後的數據
+        with open(file_path, "w", encoding="utf-8") as file:
+            json.dump(unique_data, file, ensure_ascii=False, indent=4)
+
+        messagebox.showinfo("Success", f"去重完成！檔案已儲存至：{file_path}")
+    except Exception as e:
+        messagebox.showerror("Error", f"去重過程中發生錯誤: {e}")
+
 # 定義添加新數據並參考的函數
 def add_to_json():
     if not json_data:
         messagebox.showwarning("Warning", "請先加載主JSON文件！")
         return
-    if not reference_data:
+    if not json_data:
         messagebox.showwarning("Warning", "請先加載參考JSON文件！")
         return
 
@@ -414,6 +440,10 @@ confirm_button.pack(pady=10)
 
 # 添加去重按鈕
 remove_duplicates_button = tk.Button(root, text="Remove Duplicate on All Data EN", command=remove_duplicates)
+remove_duplicates_button.pack(pady=10)
+
+# 添加去重按鈕
+remove_duplicates_button = tk.Button(root, text="Remove Duplicate on TopDeck Data EN", command=remove_topDeckduplicates)
 remove_duplicates_button.pack(pady=10)
 
 # 運行Tkinter主循環
