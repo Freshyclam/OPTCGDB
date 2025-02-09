@@ -1,6 +1,131 @@
 [
     {
-        "deckOwner": "たっぴー @tapi11tapi11",
+        "deckOwner": "Wf/種口組 @mryu0044",
+        "deckFrom": "Japan",
+        "placement": "8th",
+        "tournament": "日本一決定戦",
+        "host": "Onepiece Champion",
+        "deckDate": "2025-02-09",
+        "leader": "EB02-010",
+        "deckColor": "Green/Purple",
+        "leaderID": "EB02-010",
+        "members": [
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 3,
+                "memberID": "EB01-014",
+                "name": "Sanji"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "EB02-017",
+                "name": "Nami"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 3,
+                "memberID": "EB02-019",
+                "name": "Roronoa Zoro"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "2",
+                "memberCount": 2,
+                "memberID": "ST16-005",
+                "name": "Monkey.D.Luffy"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 4,
+                "memberID": "EB02-035",
+                "name": "Sanji & Pudding"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 4,
+                "memberID": "EB02-037",
+                "name": "Franky"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "6",
+                "memberCount": 3,
+                "memberID": "EB02-061",
+                "name": "Monkey.D.Luffy"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "6",
+                "memberCount": 4,
+                "memberID": "OP07-064",
+                "name": "Sanji"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 4,
+                "memberID": "ST18-001",
+                "name": "Uso-Hachi"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 2,
+                "memberID": "ST18-002",
+                "name": "O-Nami"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 4,
+                "memberID": "ST18-004",
+                "name": "Zoro-Juurou"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "2",
+                "memberCount": 1,
+                "memberID": "OP07-036",
+                "name": "Demonic Aura Nine-Sword Style Asura Demon Nine Flash"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "3",
+                "memberCount": 2,
+                "memberID": "OP08-036",
+                "name": "Electrical Luna"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "1",
+                "memberCount": 2,
+                "memberID": "OP05-076",
+                "name": "When You're at Sea You Fight against Pirates!!"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP09-078",
+                "name": "Gum-Gum Giant"
+            },
+            {
+                "memberCatalog": "Stage",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "EB02-041",
+                "name": "Merry Go"
+            }
+        ]
+    },
+    {
+        "deckOwner": "たっぴー",
         "deckFrom": "Japan",
         "placement": "4th",
         "tournament": "日本一決定戦",
@@ -297,10 +422,10 @@
             },
             {
                 "memberCatalog": "Character",
-                "memberCost": "4",
+                "memberCost": "3",
                 "memberCount": 4,
-                "memberID": "ST18-004",
-                "name": "Zorojuro"
+                "memberID": "OP09-076",
+                "name": "Roronoa Zoro"
             },
             {
                 "memberCatalog": "Character",
