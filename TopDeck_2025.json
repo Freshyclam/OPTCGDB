@@ -1,8 +1,334 @@
 [
     {
+        "deckOwner": "まつの",
+        "deckFrom": "Japan",
+        "placement": "Winner",
+        "tournament": "日本一決定戦",
+        "host": "Onepiece Champion",
+        "deckDate": "2025-02-09",
+        "leader": "OP10-001",
+        "deckColor": "Red/Green",
+        "leaderID": "OP10-001",
+        "members": [
+            {
+                "memberCatalog": "Character",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP01-006",
+                "name": "Otama"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 2,
+                "memberID": "OP07-010",
+                "name": "Baccarat"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "7",
+                "memberCount": 4,
+                "memberID": "OP09-009",
+                "name": "Benn.Beckman"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP10-004",
+                "name": "Vergo"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 4,
+                "memberID": "OP10-005",
+                "name": "Sanji"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 4,
+                "memberID": "OP10-011",
+                "name": "Tony Tony.Chopper"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "2",
+                "memberCount": 2,
+                "memberID": "OP10-016",
+                "name": "Monet"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "8",
+                "memberCount": 4,
+                "memberID": "OP01-051",
+                "name": "Eustass\"Captain\"Kid"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "2",
+                "memberCount": 4,
+                "memberID": "OP05-030",
+                "name": "Donquixote Rosinante"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "7",
+                "memberCount": 4,
+                "memberID": "OP06-035",
+                "name": "Hody Jones"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 4,
+                "memberID": "OP10-030",
+                "name": "Smoker"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 4,
+                "memberID": "OP10-032",
+                "name": "Tashigi"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "1",
+                "memberCount": 1,
+                "memberID": "OP01-029",
+                "name": "Radical Beam!!"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "2",
+                "memberCount": 2,
+                "memberID": "OP10-018",
+                "name": "Ten-Layer Igloo"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "4",
+                "memberCount": 3,
+                "memberID": "ST21-017",
+                "name": "Gum-Gum Mole Pistol"
+            }
+        ]
+    },
+    {
+        "deckOwner": "夜叉丸 @OnepiEhime",
+        "deckFrom": "Japan",
+        "placement": "2nd",
+        "tournament": "日本一決定戦",
+        "host": "Onepiece Champion",
+        "deckDate": "2025-02-09",
+        "leader": "EB02-010",
+        "deckColor": "Green/Purple",
+        "leaderID": "EB02-010",
+        "members": [
+            {
+                "memberCatalog": "Character",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "EB02-017",
+                "name": "Nami"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 4,
+                "memberID": "EB02-035",
+                "name": "Sanji & Pudding"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 2,
+                "memberID": "EB02-036",
+                "name": "Nico Robin"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "6",
+                "memberCount": 4,
+                "memberID": "EB02-061",
+                "name": "Monkey.D.Luffy"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "6",
+                "memberCount": 4,
+                "memberID": "OP07-064",
+                "name": "Sanji"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "2",
+                "memberCount": 4,
+                "memberID": "OP07-066",
+                "name": "Tony Tony.Chopper"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "6",
+                "memberCount": 4,
+                "memberID": "OP09-073",
+                "name": "Brook"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 4,
+                "memberID": "OP09-076",
+                "name": "Roronoa Zoro"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 4,
+                "memberID": "ST18-001",
+                "name": "Uso-Hachi"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "2",
+                "memberCount": 4,
+                "memberID": "OP01-119",
+                "name": "Thunder Bagua"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP05-076",
+                "name": "When You're at Sea You Fight against Pirates!!"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP09-078",
+                "name": "Gum-Gum Giant"
+            },
+            {
+                "memberCatalog": "Stage",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "EB02-041",
+                "name": "Merry Go"
+            }
+        ]
+    },
+    {
+        "deckOwner": "夜叉丸",
+        "deckFrom": "Japan",
+        "placement": "2nd",
+        "tournament": "日本一決定戦",
+        "host": "Onepiece Champion",
+        "deckDate": "2025-02-09",
+        "leader": "EB02-010",
+        "deckColor": "Green/Purple",
+        "leaderID": "EB02-010",
+        "members": [
+            {
+                "memberCatalog": "Character",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "EB02-017",
+                "name": "Nami"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 4,
+                "memberID": "EB02-035",
+                "name": "Sanji & Pudding"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 2,
+                "memberID": "EB02-036",
+                "name": "Nico Robin"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "6",
+                "memberCount": 4,
+                "memberID": "EB02-061",
+                "name": "Monkey.D.Luffy"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "6",
+                "memberCount": 4,
+                "memberID": "OP07-064",
+                "name": "Sanji"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "2",
+                "memberCount": 4,
+                "memberID": "OP07-066",
+                "name": "Tony Tony.Chopper"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "6",
+                "memberCount": 4,
+                "memberID": "OP09-073",
+                "name": "Brook"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 4,
+                "memberID": "OP09-076",
+                "name": "Roronoa Zoro"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 4,
+                "memberID": "ST18-001",
+                "name": "Uso-Hachi"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "2",
+                "memberCount": 4,
+                "memberID": "OP01-119",
+                "name": "Thunder Bagua"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP05-076",
+                "name": "When You're at Sea You Fight against Pirates!!"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP09-078",
+                "name": "Gum-Gum Giant"
+            },
+            {
+                "memberCatalog": "Stage",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "EB02-041",
+                "name": "Merry Go"
+            }
+        ]
+    },
+    {
         "deckOwner": "Chill",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Flagship(5-0)",
         "host": "Cardshop",
         "deckDate": "2025-02-05",
@@ -133,8 +459,8 @@
     },
     {
         "deckOwner": "Kyohe",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Shop Event(8-1)",
         "host": "Soda Cup",
         "deckDate": "2025-02-05",
@@ -244,8 +570,8 @@
     },
     {
         "deckOwner": "Kyohe",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Shop Event(8-1)",
         "host": "Soda Cup",
         "deckDate": "2025-02-05",
@@ -355,8 +681,8 @@
     },
     {
         "deckOwner": "banao111",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Flagship(5-0)",
         "host": "PAO",
         "deckDate": "2025-02-05",
@@ -501,8 +827,8 @@
     },
     {
         "deckOwner": "Komugi",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Flagship(5-0)",
         "host": "Cardshop",
         "deckDate": "2025-02-04",
@@ -619,8 +945,8 @@
     },
     {
         "deckOwner": "Ini",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Flagship(5-0)",
         "host": "Dragon Star",
         "deckDate": "2025-02-04",
@@ -737,8 +1063,8 @@
     },
     {
         "deckOwner": "Sakanoko",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "2v2(5-0)",
         "host": "One Happy",
         "deckDate": "2025-02-02",
@@ -848,8 +1174,8 @@
     },
     {
         "deckOwner": "Ei",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Flagship(5-0)",
         "host": "Cardshop",
         "deckDate": "2025-02-02",
@@ -980,8 +1306,8 @@
     },
     {
         "deckOwner": "Naiki",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Flagship(5-0)",
         "host": "Nagashima",
         "deckDate": "2025-02-02",
@@ -1098,8 +1424,8 @@
     },
     {
         "deckOwner": "D",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Flagship(5-0)",
         "host": "Cardshop",
         "deckDate": "2025-02-02",
@@ -1217,7 +1543,7 @@
     {
         "deckOwner": "Deks",
         "deckFrom": "PH",
-        "placement": "1st Place",
+        "placement": "Winner",
         "tournament": "Flagship(4-0)",
         "host": "Regran Toys Collectibles(16)",
         "deckDate": "2025-02-02",
@@ -1334,7 +1660,7 @@
     },
     {
         "deckOwner": "USA",
-        "deckFrom": "JP",
+        "deckFrom": "Japan",
         "placement": "Winner",
         "tournament": "Flagship(5-0)",
         "host": "Cardshop",
@@ -1452,7 +1778,7 @@
     },
     {
         "deckOwner": "USA",
-        "deckFrom": "JP",
+        "deckFrom": "Japan",
         "placement": "Winner",
         "tournament": "Flagship(5-0)",
         "host": "Cardshop",
@@ -1570,8 +1896,8 @@
     },
     {
         "deckOwner": "Yabu",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "5v5(8-0)",
         "host": "Trekking Cup",
         "deckDate": "2025-02-01",
@@ -1688,8 +2014,8 @@
     },
     {
         "deckOwner": "Hiiro",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Flagship(5-0)",
         "host": "Cardshop",
         "deckDate": "2025-02-01",
@@ -1813,8 +2139,8 @@
     },
     {
         "deckOwner": "Ayakana",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Shop Event(9-0)",
         "host": "Unipen Cup",
         "deckDate": "2025-02-01",
@@ -1931,7 +2257,7 @@
     },
     {
         "deckOwner": "Buku",
-        "deckFrom": "JP",
+        "deckFrom": "Japan",
         "placement": "Winner",
         "tournament": "3v3(7-1)",
         "host": "Trekking Cup",
@@ -2056,9 +2382,9 @@
     },
     {
         "deckOwner": "Hosono",
-        "deckFrom": "JP",
-        "placement": "1st Place",
-        "tournament": "SB",
+        "deckFrom": "Japan",
+        "placement": "Winner",
+        "tournament": "ShopBattle",
         "host": "Binks Binks Cup",
         "deckDate": "2025-01-31",
         "leader": "EB02-010",
@@ -2167,8 +2493,8 @@
     },
     {
         "deckOwner": "Esu",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Shop Event",
         "host": "Shumai Cup",
         "deckDate": "2025-01-31",
@@ -2279,7 +2605,7 @@
     {
         "deckOwner": "Jc",
         "deckFrom": "PH",
-        "placement": "1st Place",
+        "placement": "Winner",
         "tournament": "Flagship(5-0)",
         "host": "Japstore",
         "deckDate": "2025-01-31",
@@ -2689,7 +3015,7 @@
     {
         "deckOwner": "Unknown",
         "deckFrom": "PH",
-        "placement": "1st place",
+        "placement": "Winner",
         "tournament": "Ongkeco's Hobby Shop",
         "host": "FS",
         "deckDate": "2025-01-29",
@@ -2807,7 +3133,7 @@
     {
         "deckOwner": "Unknown",
         "deckFrom": "PH",
-        "placement": "1st place",
+        "placement": "Winner",
         "tournament": "Ongkeco's Hobby Shop",
         "host": "FS",
         "deckDate": "2025-01-29",
@@ -2924,9 +3250,9 @@
     },
     {
         "deckOwner": "Hapigori",
-        "deckFrom": "JP",
-        "placement": "1st Place",
-        "tournament": "SB",
+        "deckFrom": "Japan",
+        "placement": "Winner",
+        "tournament": "ShopBattle",
         "host": "toreca_binks",
         "deckDate": "2025-01-26",
         "leader": "EB01-001",
@@ -3035,9 +3361,9 @@
     },
     {
         "deckOwner": "Jitsu",
-        "deckFrom": "JP",
-        "placement": "1st Place",
-        "tournament": "SB",
+        "deckFrom": "Japan",
+        "placement": "Winner",
+        "tournament": "ShopBattle",
         "host": "Cardshophanjou",
         "deckDate": "2025-01-27",
         "leader": "EB02-010",
@@ -3153,9 +3479,9 @@
     },
     {
         "deckOwner": "Hapigori",
-        "deckFrom": "JP",
-        "placement": "1st Place",
-        "tournament": "SB",
+        "deckFrom": "Japan",
+        "placement": "Winner",
+        "tournament": "ShopBattle",
         "host": "toreca_binks",
         "deckDate": "2025-01-26",
         "leader": "EB01-001",
@@ -3264,7 +3590,7 @@
     },
     {
         "deckOwner": "Kudo(RAIN)",
-        "deckFrom": "JP",
+        "deckFrom": "Japan",
         "placement": "NA",
         "tournament": "3v3(7-1)",
         "host": "Tsutaya",
@@ -3389,7 +3715,7 @@
     },
     {
         "deckOwner": "Yudora",
-        "deckFrom": "JP",
+        "deckFrom": "Japan",
         "placement": "Top-4",
         "tournament": "3v3(5-1)",
         "host": "Laugh Tale Cup",
@@ -3500,8 +3826,8 @@
     },
     {
         "deckOwner": "Yamashi",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "3v3(6-1)",
         "host": "Corgi",
         "deckDate": "2025-01-26",
@@ -3611,8 +3937,8 @@
     },
     {
         "deckOwner": "njiof_",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Shop Event(9-1)",
         "host": "Shumai Cup",
         "deckDate": "2025-01-26",
@@ -3729,8 +4055,8 @@
     },
     {
         "deckOwner": "Hane",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "3v3(6-1)",
         "host": "Corgi",
         "deckDate": "2025-01-26",
@@ -3847,8 +4173,8 @@
     },
     {
         "deckOwner": "Hosso",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Flagship(5-0)",
         "host": "Cardshop",
         "deckDate": "2025-01-26",
@@ -3958,8 +4284,8 @@
     },
     {
         "deckOwner": "Asura",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Shop Event",
         "host": "Banquet Cup",
         "deckDate": "2025-01-26",
@@ -4076,9 +4402,9 @@
     },
     {
         "deckOwner": "Murabito",
-        "deckFrom": "JP",
+        "deckFrom": "Japan",
         "placement": "2nd Place",
-        "tournament": "SB(4-1)",
+        "tournament": "ShopBattle(4-1)",
         "host": "Cardshop",
         "deckDate": "2025-01-26",
         "leader": "OP04-020",
@@ -4208,8 +4534,8 @@
     },
     {
         "deckOwner": "AYAKANA_1124",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Shop Event(8-0)",
         "host": "Oni CS",
         "deckDate": "2025-01-26",
@@ -4333,9 +4659,9 @@
     },
     {
         "deckOwner": "Tsuusaji",
-        "deckFrom": "JP",
-        "placement": "1st Place",
-        "tournament": "SB",
+        "deckFrom": "Japan",
+        "placement": "Winner",
+        "tournament": "ShopBattle",
         "host": "onehappy_tcg",
         "deckDate": "2025-01-26",
         "leader": "ST10-002",
@@ -4465,7 +4791,7 @@
     },
     {
         "deckOwner": "Sakanoko",
-        "deckFrom": "JP",
+        "deckFrom": "Japan",
         "placement": "2nd Place",
         "tournament": "Shop Event",
         "host": "Kogiraf Cup",
@@ -4576,8 +4902,8 @@
     },
     {
         "deckOwner": "Nishi",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "3v3(6-1)",
         "host": "Hacchi CS(93)",
         "deckDate": "2025-01-26",
@@ -4694,8 +5020,8 @@
     },
     {
         "deckOwner": "R",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "3v3(7-0)",
         "host": "Hacchi CS(93)",
         "deckDate": "2025-01-26",
@@ -4805,7 +5131,7 @@
     },
     {
         "deckOwner": "Hirohiro",
-        "deckFrom": "JP",
+        "deckFrom": "Japan",
         "placement": "2nd Place",
         "tournament": "3v3(7-1)",
         "host": "Hacchi CS(96)",
@@ -4923,8 +5249,8 @@
     },
     {
         "deckOwner": "Piyochi",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "FLagship(5-0)",
         "host": "Cardshop",
         "deckDate": "2025-01-25",
@@ -5055,8 +5381,8 @@
     },
     {
         "deckOwner": "Salmon_op",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Shop Event(6-0)",
         "host": "Cardshop",
         "deckDate": "2025-01-25",
@@ -5173,8 +5499,8 @@
     },
     {
         "deckOwner": "Tenten",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "3v3(7-1)",
         "host": "Hacchi CS(96)",
         "deckDate": "2025-01-25",
@@ -5284,7 +5610,7 @@
     },
     {
         "deckOwner": "Nigou",
-        "deckFrom": "JP",
+        "deckFrom": "Japan",
         "placement": "Top-4",
         "tournament": "3v3(5-1)",
         "host": "Hacchi CS",
@@ -5395,9 +5721,9 @@
     },
     {
         "deckOwner": "Piroshiki",
-        "deckFrom": "JP",
-        "placement": "1st Place",
-        "tournament": "SB",
+        "deckFrom": "Japan",
+        "placement": "Winner",
+        "tournament": "ShopBattle",
         "host": "Takuro Cup(14)",
         "deckDate": "2025-01-25",
         "leader": "OP05-098",
@@ -5506,8 +5832,8 @@
     },
     {
         "deckOwner": "Suko",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "3v3(6-2)",
         "host": "Stew Cup",
         "deckDate": "2025-01-25",
@@ -5610,9 +5936,9 @@
     },
     {
         "deckOwner": "Hide Tanaka",
-        "deckFrom": "JP",
-        "placement": "1st Place",
-        "tournament": "SB",
+        "deckFrom": "Japan",
+        "placement": "Winner",
+        "tournament": "ShopBattle",
         "host": "HBST(16)",
         "deckDate": "2025-01-25",
         "leader": "OP07-097",
@@ -5722,7 +6048,7 @@
     {
         "deckOwner": "Ives Rementina",
         "deckFrom": "PH",
-        "placement": "1st Place",
+        "placement": "Winner",
         "tournament": "Flagship",
         "host": "Top Deck Games",
         "deckDate": "2025-01-25",
@@ -5832,7 +6158,7 @@
     },
     {
         "deckOwner": "Nekomaru",
-        "deckFrom": "JP",
+        "deckFrom": "Japan",
         "placement": "NA",
         "tournament": "3v3(5-0)",
         "host": "Memories Cup",
@@ -5943,7 +6269,7 @@
     },
     {
         "deckOwner": "Potaka",
-        "deckFrom": "JP",
+        "deckFrom": "Japan",
         "placement": "Top-4",
         "tournament": "3v3(7-0)",
         "host": "Luminous CS",
@@ -6054,9 +6380,9 @@
     },
     {
         "deckOwner": "Zato",
-        "deckFrom": "JP",
-        "placement": "1st Place",
-        "tournament": "SB(4-0)",
+        "deckFrom": "Japan",
+        "placement": "Winner",
+        "tournament": "ShopBattle(4-0)",
         "host": "Cardshop",
         "deckDate": "2025-01-25",
         "leader": "OP02-093",
@@ -6186,7 +6512,7 @@
     },
     {
         "deckOwner": "Chankuma",
-        "deckFrom": "JP",
+        "deckFrom": "Japan",
         "placement": "5th Place",
         "tournament": "Flagship(4-1)",
         "host": "Tsutaya",
@@ -6304,8 +6630,8 @@
     },
     {
         "deckOwner": "Macho",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Flagship",
         "host": "Hirakata Hobby(32)",
         "deckDate": "2025-01-21",
@@ -6540,8 +6866,8 @@
     },
     {
         "deckOwner": "Lemon",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Flagship",
         "host": "Cardshop",
         "deckDate": "2025-01-19",
@@ -6666,7 +6992,7 @@
     {
         "deckOwner": "Hokhau",
         "deckFrom": "Indonesia",
-        "placement": "1st Place",
+        "placement": "Winner",
         "tournament": "Flagship(4-0)",
         "host": "Vitazi",
         "deckDate": "2025-01-19",
@@ -6777,8 +7103,8 @@
     {
         "deckOwner": "Edd",
         "deckFrom": "PH",
-        "placement": "1st Place",
-        "tournament": "SB(4-0)",
+        "placement": "Winner",
+        "tournament": "ShopBattle(4-0)",
         "host": "Japstore",
         "deckDate": "2025-01-19",
         "leader": "OP09-061",
@@ -6901,8 +7227,8 @@
     },
     {
         "deckOwner": "Meifu",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Flagship(5-0)",
         "host": "Tsutaya",
         "deckDate": "2025-01-19",
@@ -7013,7 +7339,7 @@
     {
         "deckOwner": "Deon",
         "deckFrom": "SG",
-        "placement": "1st Place",
+        "placement": "Winner",
         "tournament": "Flagship(5-0)",
         "host": "Tabletop",
         "deckDate": "2025-01-19",
@@ -7138,7 +7464,7 @@
     {
         "deckOwner": "Shum Jia Yu",
         "deckFrom": "SG",
-        "placement": "1st Place",
+        "placement": "Winner",
         "tournament": "Flagship",
         "host": "Rowell",
         "deckDate": "2025-01-17",
@@ -7270,7 +7596,7 @@
     {
         "deckOwner": "shiontan",
         "deckFrom": "Japan",
-        "placement": "1st Place",
+        "placement": "Winner",
         "tournament": "Flagship(5-0)",
         "host": "Yagi",
         "deckDate": "2025-01-16",
@@ -7380,8 +7706,8 @@
     },
     {
         "deckOwner": "Momon",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Yokohama Final",
         "host": "Bandai",
         "deckDate": "2025-01-12",
@@ -7491,7 +7817,7 @@
     },
     {
         "deckOwner": "Reika",
-        "deckFrom": "JP",
+        "deckFrom": "Japan",
         "placement": "2nd Place",
         "tournament": "Yokohama Final(9-2)",
         "host": "Bandai",
@@ -7623,7 +7949,7 @@
     },
     {
         "deckOwner": "Amato",
-        "deckFrom": "JP",
+        "deckFrom": "Japan",
         "placement": "Top-4",
         "tournament": "Yokohama Final",
         "host": "Bandai",
@@ -7741,7 +8067,7 @@
     },
     {
         "deckOwner": "Nazu",
-        "deckFrom": "JP",
+        "deckFrom": "Japan",
         "placement": "Top-8",
         "tournament": "Yokohama Final(8-1)",
         "host": "Bandai",
@@ -7887,7 +8213,7 @@
     },
     {
         "deckOwner": "Hasekyon",
-        "deckFrom": "JP",
+        "deckFrom": "Japan",
         "placement": "Top-16",
         "tournament": "Yokohama Final(6-2)",
         "host": "Bandai",
@@ -7998,7 +8324,7 @@
     },
     {
         "deckOwner": "kitajitotti",
-        "deckFrom": "JP",
+        "deckFrom": "Japan",
         "placement": "Top-16",
         "tournament": "Yokohama Final(6-2)",
         "host": "Bandai",
@@ -8123,7 +8449,7 @@
     },
     {
         "deckOwner": "Inari",
-        "deckFrom": "JP",
+        "deckFrom": "Japan",
         "placement": "Top-32",
         "tournament": "Yokohama Final(5-2)",
         "host": "Bandai",
@@ -8227,8 +8553,8 @@
     },
     {
         "deckOwner": "blue_mii",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Shop Event(8-0)",
         "host": "Unipen Cup",
         "deckDate": "2025-01-12",
@@ -8346,7 +8672,7 @@
     {
         "deckOwner": "Achilles P",
         "deckFrom": "PH",
-        "placement": "1st Place",
+        "placement": "Winner",
         "tournament": "Flagship",
         "host": "Final Turn Hobby",
         "deckDate": "2025-01-12",
@@ -8464,7 +8790,7 @@
     {
         "deckOwner": "Thien Tue",
         "deckFrom": "Vietnam",
-        "placement": "1st Place",
+        "placement": "Winner",
         "tournament": "Shop Event",
         "host": "Alpha Hobby n Arceus TCG(22)",
         "deckDate": "2025-01-12",
@@ -8588,8 +8914,8 @@
     },
     {
         "deckOwner": "Kyohe",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Shop Event(7-0)",
         "host": "Chimi Cup",
         "deckDate": "2025-01-11",
@@ -8700,7 +9026,7 @@
     {
         "deckOwner": "Jai",
         "deckFrom": "PH",
-        "placement": "1st Place",
+        "placement": "Winner",
         "tournament": "Flagship(5-0)",
         "host": "Forge Hobby North Point",
         "deckDate": "2025-01-11",
@@ -8803,7 +9129,7 @@
     },
     {
         "deckOwner": "Murabito",
-        "deckFrom": "JP",
+        "deckFrom": "Japan",
         "placement": "2nd Place",
         "tournament": "Shop Event(7-1)",
         "host": "Mitchie Cup",
@@ -8921,8 +9247,8 @@
     },
     {
         "deckOwner": "lemo_kurone",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Shop Event(5-0)",
         "host": "onehappy Cup(56)",
         "deckDate": "2025-01-11",
@@ -9032,9 +9358,9 @@
     },
     {
         "deckOwner": "YT",
-        "deckFrom": "JP",
-        "placement": "1st Place",
-        "tournament": "SB(4-0)",
+        "deckFrom": "Japan",
+        "placement": "Winner",
+        "tournament": "ShopBattle(4-0)",
         "host": "Bookoff",
         "deckDate": "2025-01-10",
         "leader": "OP07-079",
@@ -9171,8 +9497,8 @@
     },
     {
         "deckOwner": "Take",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Flagship",
         "host": "Corgy",
         "deckDate": "2025-01-10",
@@ -9296,8 +9622,8 @@
     },
     {
         "deckOwner": "Maki",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Flagship(5-0)",
         "host": "TCG Center",
         "deckDate": "2025-01-08",
@@ -9414,8 +9740,8 @@
     },
     {
         "deckOwner": "Ji_nias",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Flasghip",
         "host": "Toyohashi",
         "deckDate": "2025-01-08",
@@ -9539,8 +9865,8 @@
     },
     {
         "deckOwner": "Elru",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Flasghip",
         "host": "Dragon Star(32)",
         "deckDate": "2025-01-07",
@@ -9651,7 +9977,7 @@
     {
         "deckOwner": "Raphterra",
         "deckFrom": "PH",
-        "placement": "1st Place",
+        "placement": "Winner",
         "tournament": "PH Final(6-0)",
         "host": "Bandai Maxsoft",
         "deckDate": "2025-01-05",
@@ -9782,8 +10108,8 @@
     },
     {
         "deckOwner": "Kiyo",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Flagship",
         "host": "b_hongo(29)",
         "deckDate": "2025-01-05",
@@ -9894,7 +10220,7 @@
     {
         "deckOwner": "Gerrard",
         "deckFrom": "Sinagpore",
-        "placement": "1st Place",
+        "placement": "Winner",
         "tournament": "SG Final",
         "host": "Bandai Maxsoft",
         "deckDate": "2025-01-05",
@@ -10483,8 +10809,8 @@
     },
     {
         "deckOwner": "Hikari",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Shop Event",
         "host": "Onehappytcg(38)",
         "deckDate": "2025-01-05",
@@ -10595,7 +10921,7 @@
     {
         "deckOwner": "SHO",
         "deckFrom": "Japan",
-        "placement": "1st Place",
+        "placement": "Winner",
         "tournament": "Shop Event(8-0)",
         "host": "Cardshop",
         "deckDate": "2025-01-04",
@@ -10712,8 +11038,8 @@
     },
     {
         "deckOwner": "Ippo",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Flagship(5-0)",
         "host": "Cardshop",
         "deckDate": "2025-01-04",
@@ -10956,7 +11282,7 @@
     {
         "deckOwner": "Chiihan",
         "deckFrom": "Japan",
-        "placement": "1st Place",
+        "placement": "Winner",
         "tournament": "Shop Event(8-0)",
         "host": "Sippohai",
         "deckDate": "2025-01-04",
@@ -11094,8 +11420,8 @@
     },
     {
         "deckOwner": "Ken",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Flagship(5-0)",
         "host": "Tsutaya",
         "deckDate": "2025-01-04",
@@ -11205,8 +11531,8 @@
     },
     {
         "deckOwner": "Nisawa",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Flagship(5-0)",
         "host": "Cardshop",
         "deckDate": "2025-01-03",
@@ -11316,8 +11642,8 @@
     },
     {
         "deckOwner": "Sutton",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Flagship(5-0)",
         "host": "Sakura",
         "deckDate": "2025-01-03",
@@ -11441,8 +11767,8 @@
     },
     {
         "deckOwner": "Apo",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Flagship(5-0)",
         "host": "Cardshop",
         "deckDate": "2025-01-01",
@@ -11573,7 +11899,7 @@
     },
     {
         "deckOwner": "Yamakawa",
-        "deckFrom": "JP",
+        "deckFrom": "Japan",
         "placement": "2nd Place",
         "tournament": "Shop Event(5-1)",
         "host": "One Happy Cup",
@@ -11691,8 +12017,8 @@
     },
     {
         "deckOwner": "Kihara",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Flagship(5-0)",
         "host": "Sakura(28)",
         "deckDate": "2025-01-01",
@@ -11810,8 +12136,8 @@
     {
         "deckOwner": "KTS",
         "deckFrom": "Malaysia",
-        "placement": "1st Place",
-        "tournament": "SB",
+        "placement": "Winner",
+        "tournament": "ShopBattle",
         "host": "JT Game Store",
         "deckDate": "2024-12-30",
         "leader": "OP09-061",
@@ -11948,8 +12274,8 @@
     },
     {
         "deckOwner": "Okamoto",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Flagship(4-0)",
         "host": "Cardshop",
         "deckDate": "2024-12-29",
@@ -12087,7 +12413,7 @@
     },
     {
         "deckOwner": "Akki",
-        "deckFrom": "JP",
+        "deckFrom": "Japan",
         "placement": "3rd Place",
         "tournament": "5v5(5-1)",
         "host": "Gajumaru Cup",
@@ -12212,8 +12538,8 @@
     },
     {
         "deckOwner": "sakuya1212",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Flagship(5-0)",
         "host": "Banzaiten",
         "deckDate": "2024-12-28",
@@ -12330,8 +12656,8 @@
     },
     {
         "deckOwner": "esuto96",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Flagship(5-0)",
         "host": "Cardshop",
         "deckDate": "2024-12-28",
@@ -12434,7 +12760,7 @@
     },
     {
         "deckOwner": "Buku",
-        "deckFrom": "JP",
+        "deckFrom": "Japan",
         "placement": "NA",
         "tournament": "5v5(7-1)",
         "host": "Cardshop",
@@ -12566,8 +12892,8 @@
     },
     {
         "deckOwner": "Unta",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Flagship(5-0)",
         "host": "Dragon Star",
         "deckDate": "2024-12-28",
