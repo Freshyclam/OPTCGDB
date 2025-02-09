@@ -1,5 +1,123 @@
 [
     {
+        "deckOwner": "たっぴー @tapi11tapi11",
+        "deckFrom": "Japan",
+        "placement": "4th",
+        "tournament": "日本一決定戦",
+        "host": "Onepiece Champion",
+        "deckDate": "2025-02-09",
+        "leader": "OP01-060",
+        "deckColor": "Blue",
+        "leaderID": "OP01-060",
+        "members": [
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 4,
+                "memberID": "EB01-023",
+                "name": "Edward Weevil"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP01-077",
+                "name": "Perona"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 3,
+                "memberID": "OP06-047",
+                "name": "Charlotte Pudding"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 4,
+                "memberID": "OP07-040",
+                "name": "Crocodile"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 4,
+                "memberID": "OP07-045",
+                "name": "Jinbe"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP07-046",
+                "name": "Sengoku"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "6",
+                "memberCount": 2,
+                "memberID": "OP08-047",
+                "name": "Jozu"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 1,
+                "memberID": "ST03-004",
+                "name": "Gecko Moria (Parallel)"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 4,
+                "memberID": "ST03-005",
+                "name": "Dracule Mihawk"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 4,
+                "memberID": "ST17-002",
+                "name": "Trafalgar Law"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "ST17-003",
+                "name": "Buggy"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 4,
+                "memberID": "ST17-004",
+                "name": "Boa Hancock"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "2",
+                "memberCount": 4,
+                "memberID": "ST17-005",
+                "name": "Marshall.D.Teach"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "7",
+                "memberCount": 3,
+                "memberID": "OP06-058",
+                "name": "Gravity Blade Raging Tiger"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "2",
+                "memberCount": 1,
+                "memberID": "OP07-057",
+                "name": "Perfume Femur"
+            }
+        ]
+    },
+    {
         "deckOwner": "まつの",
         "deckFrom": "Japan",
         "placement": "Winner",
@@ -179,10 +297,10 @@
             },
             {
                 "memberCatalog": "Character",
-                "memberCost": "3",
+                "memberCost": "4",
                 "memberCount": 4,
-                "memberID": "OP09-076",
-                "name": "Roronoa Zoro"
+                "memberID": "ST18-004",
+                "name": "Zorojuro"
             },
             {
                 "memberCatalog": "Character",
@@ -3370,6 +3488,117 @@
                 "memberCount": 4,
                 "memberID": "EB02-041",
                 "name": "Merry Go"
+            }
+        ]
+    },
+    {
+        "deckOwner": "Hapigori",
+        "deckFrom": "Japan",
+        "placement": "Winner",
+        "tournament": "ShopBattle",
+        "host": "toreca_binks",
+        "deckDate": "2025-01-26",
+        "leader": "EB01-001",
+        "deckColor": "Red/Green",
+        "leaderID": "EB01-001",
+        "members": [
+            {
+                "memberCatalog": "Character",
+                "memberCost": "2",
+                "memberCount": 2,
+                "memberID": "OP01-039",
+                "name": "Killer"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 3,
+                "memberID": "OP01-033",
+                "name": "Izo"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP01-041",
+                "name": "Kouzuki Momonosuke"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 3,
+                "memberID": "OP01-046",
+                "name": "Denjiro"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 2,
+                "memberID": "OP01-121",
+                "name": "Yamato"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "2",
+                "memberCount": 4,
+                "memberID": "OP05-030",
+                "name": "Donquixote Rosinante"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "7",
+                "memberCount": 4,
+                "memberID": "OP06-035",
+                "name": "Hody Jones"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 4,
+                "memberID": "OP06-036",
+                "name": "Ryuma"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 4,
+                "memberID": "EB01-013",
+                "name": "Kouzuki Hiyori"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP07-022",
+                "name": "Otama"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 4,
+                "memberID": "OP10-032",
+                "name": "Tashigi"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 4,
+                "memberID": "EB01-002",
+                "name": "Izo"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "6",
+                "memberCount": 4,
+                "memberID": "EB02-006",
+                "name": "Yamato"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP01-029",
+                "name": "Radical Beam!!"
             }
         ]
     },
