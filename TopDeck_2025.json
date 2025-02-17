@@ -1,8 +1,480 @@
 [
     {
-        "deckOwner": "Dokuda",
+        "deckOwner": "Taji",
         "deckFrom": "JP",
         "placement": "1st Place",
+        "tournament": "Flagship(5-0)",
+        "host": "Chiba Lab",
+        "deckDate": "2025-02-15",
+        "leader": "EB02-010",
+        "deckColor": "Green/Purple",
+        "leaderID": "EB02-010",
+        "members": [
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 2,
+                "memberID": "OP05-070",
+                "name": "Fra-Nosuke"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 4,
+                "memberID": "EB02-035",
+                "name": "Sanji & Pudding"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "6",
+                "memberCount": 4,
+                "memberID": "EB02-061",
+                "name": "Monkey.D.Luffy"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "6",
+                "memberCount": 4,
+                "memberID": "OP07-064",
+                "name": "Sanji"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "2",
+                "memberCount": 4,
+                "memberID": "OP07-066",
+                "name": "Tony Tony.Chopper"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 4,
+                "memberID": "ST18-001",
+                "name": "Uso-Hachi"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 2,
+                "memberID": "ST18-002",
+                "name": "O-Nami"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 4,
+                "memberID": "ST18-004",
+                "name": "Zoro-Juurou"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "EB02-017",
+                "name": "Nami"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 2,
+                "memberID": "EB02-019",
+                "name": "Roronoa Zoro"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "2",
+                "memberCount": 2,
+                "memberID": "OP01-119",
+                "name": "Thunder Bagua"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP05-076",
+                "name": "When You're at Sea You Fight against Pirates!!"
+            },
+            {
+                "memberCatalog": "Stage",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "EB02-041",
+                "name": "Merry Go"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP09-078",
+                "name": "Gum-Gum Giant"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "3",
+                "memberCount": 2,
+                "memberID": "OP08-036",
+                "name": "Electrical Luna"
+            }
+        ]
+    },
+    {
+        "deckOwner": "Ippo",
+        "deckFrom": "JP",
+        "placement": "1st Place",
+        "tournament": "Flagship(5-0)",
+        "host": "Cardshop",
+        "deckDate": "2025-02-15",
+        "leader": "OP02-093",
+        "deckColor": "Black",
+        "leaderID": "OP02-093",
+        "members": [
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 2,
+                "memberID": "OP02-114",
+                "name": "Borsalino"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 3,
+                "memberID": "OP02-096",
+                "name": "Kuzan"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 2,
+                "memberID": "OP02-098",
+                "name": "Koby"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 4,
+                "memberID": "ST06-006",
+                "name": "Tashigi (Parallel)"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 2,
+                "memberID": "ST06-008",
+                "name": "Hina"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP02-106",
+                "name": "Tsuru"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "2",
+                "memberCount": 4,
+                "memberID": "OP03-089",
+                "name": "Brannew"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 4,
+                "memberID": "OP05-091",
+                "name": "Rebecca"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "8",
+                "memberCount": 4,
+                "memberID": "OP06-086",
+                "name": "Gecko Moria"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 4,
+                "memberID": "EB01-046",
+                "name": "Brook"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 2,
+                "memberID": "EB01-049",
+                "name": "T-Bone"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "9",
+                "memberCount": 3,
+                "memberID": "OP08-079",
+                "name": "Kaido"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "ST19-002",
+                "name": "Sengoku"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 4,
+                "memberID": "ST19-003",
+                "name": "Tashigi"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP02-117",
+                "name": "Ice Age"
+            }
+        ]
+    },
+    {
+        "deckOwner": "Chokochan",
+        "deckFrom": "Japan",
+        "placement": "Winner",
+        "tournament": "Shop Event(4-0)",
+        "host": "Tsumu Silver Cup",
+        "deckDate": "2025-02-14",
+        "leader": "OP09-022",
+        "deckColor": "Green/Purple",
+        "leaderID": "OP09-022",
+        "members": [
+            {
+                "memberCatalog": "Character",
+                "memberCost": "8",
+                "memberCount": 3,
+                "memberID": "OP01-051",
+                "name": "Eustass\"Captain\"Kid"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "9",
+                "memberCount": 1,
+                "memberID": "OP06-118",
+                "name": "Roronoa Zoro"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "9",
+                "memberCount": 3,
+                "memberID": "OP09-023",
+                "name": "Adio"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "6",
+                "memberCount": 4,
+                "memberID": "OP09-026",
+                "name": "Sakazuki"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 4,
+                "memberID": "OP09-027",
+                "name": "Sabo"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 4,
+                "memberID": "OP09-031",
+                "name": "Donquixote Doflamingo"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 4,
+                "memberID": "OP09-035",
+                "name": "Portgas.D.Ace"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 4,
+                "memberID": "OP09-037",
+                "name": "Lim"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 4,
+                "memberID": "OP10-024",
+                "name": "Edward.Newgate"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 4,
+                "memberID": "OP10-025",
+                "name": "Enel"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 3,
+                "memberID": "OP10-029",
+                "name": "Dracule Mihawk"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "2",
+                "memberCount": 4,
+                "memberID": "OP10-033",
+                "name": "Nami"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP10-037",
+                "name": "Lim"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 4,
+                "memberID": "ST18-001",
+                "name": "Uso-Hachi"
+            }
+        ]
+    },
+    {
+        "deckOwner": "Regal",
+        "deckFrom": "Japan",
+        "placement": "Winner",
+        "tournament": "Shop Event",
+        "host": "Pistol Cup",
+        "deckDate": "2025-02-14",
+        "leader": "OP09-001",
+        "deckColor": "Red",
+        "leaderID": "OP09-001",
+        "members": [
+            {
+                "memberCatalog": "Character",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP01-006",
+                "name": "Otama"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "2",
+                "memberCount": 2,
+                "memberID": "OP01-013",
+                "name": "Sanji"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "7",
+                "memberCount": 2,
+                "memberID": "ST15-002",
+                "name": "Edward.Newgate"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "10",
+                "memberCount": 2,
+                "memberID": "OP06-007",
+                "name": "Shanks"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "8",
+                "memberCount": 4,
+                "memberID": "OP08-118",
+                "name": "Silvers Rayleigh"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "10",
+                "memberCount": 3,
+                "memberID": "OP09-004",
+                "name": "Shanks"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "1",
+                "memberCount": 3,
+                "memberID": "OP09-008",
+                "name": "Building Snake"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "7",
+                "memberCount": 4,
+                "memberID": "OP09-009",
+                "name": "Benn.Beckman"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 4,
+                "memberID": "OP09-011",
+                "name": "Hongo"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 4,
+                "memberID": "OP09-013",
+                "name": "Yasopp"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 2,
+                "memberID": "OP09-014",
+                "name": "Limejuice"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 4,
+                "memberID": "OP09-015",
+                "name": "Lucky.Roux"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 4,
+                "memberID": "OP10-011",
+                "name": "Tony Tony.Chopper"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 4,
+                "memberID": "ST21-014",
+                "name": "Monkey.D.Luffy"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "-",
+                "memberCount": 2,
+                "memberID": "OP04-016",
+                "name": "Bad Manners Kick Course"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "1",
+                "memberCount": 2,
+                "memberID": "OP10-019",
+                "name": "Divine Departure"
+            }
+        ]
+    },
+    {
+        "deckOwner": "Dokuda",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Flagship(5-0)",
         "host": "Tsutaya(32)",
         "deckDate": "2025-02-12",
@@ -105,8 +577,8 @@
     },
     {
         "deckOwner": "Sakanoko",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Flagship(5-0)",
         "host": "Kohoku Book",
         "deckDate": "2025-02-12",
@@ -216,8 +688,8 @@
     },
     {
         "deckOwner": "Sanosuke",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "off-meta",
         "host": "Cardshop",
         "deckDate": "2025-02-11",
@@ -334,8 +806,8 @@
     },
     {
         "deckOwner": "Chacha",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Flagship(4-0)",
         "host": "Cardshop",
         "deckDate": "2025-02-11",
@@ -438,8 +910,8 @@
     },
     {
         "deckOwner": "salmon_onepiece",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Flagship(5-0)",
         "host": "Tsuchiura",
         "deckDate": "2025-02-11",
@@ -549,8 +1021,8 @@
     },
     {
         "deckOwner": "Buku",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "3v3(7-0)",
         "host": "Sonoda Cup",
         "deckDate": "2025-02-11",
@@ -674,8 +1146,8 @@
     },
     {
         "deckOwner": "Towa",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Flagship(5-0)",
         "host": "Shimakita",
         "deckDate": "2025-02-11",
@@ -813,8 +1285,8 @@
     },
     {
         "deckOwner": "Matsuno",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Japan Final",
         "host": "Bandai(63)",
         "deckDate": "2025-02-09",
@@ -931,8 +1403,8 @@
     },
     {
         "deckOwner": "Yashamaru",
-        "deckFrom": "JP",
-        "placement": "2nd Place",
+        "deckFrom": "Japan",
+        "placement": "2nd",
         "tournament": "Japan Final(6-2)",
         "host": "Bandai(63)",
         "deckDate": "2025-02-09",
@@ -1035,7 +1507,7 @@
     },
     {
         "deckOwner": "Fakenoko",
-        "deckFrom": "JP",
+        "deckFrom": "Japan",
         "placement": "Top-8",
         "tournament": "Japan Final(4-3)",
         "host": "Bandai(63)",
@@ -1146,8 +1618,8 @@
     },
     {
         "deckOwner": "Gori",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Flagship(5-0)",
         "host": "Bunkyo",
         "deckDate": "2025-02-08",
@@ -1278,8 +1750,8 @@
     },
     {
         "deckOwner": "Sakanoko",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Flagship(5-0)",
         "host": "Mizonokuchi",
         "deckDate": "2025-02-08",
@@ -1397,7 +1869,7 @@
     {
         "deckOwner": "Kalish",
         "deckFrom": "Malaysia",
-        "placement": "1st Place",
+        "placement": "Winner",
         "tournament": "TB",
         "host": "Fandombase Ventures",
         "deckDate": "2025-02-08",
@@ -1515,7 +1987,7 @@
     {
         "deckOwner": "Adrie",
         "deckFrom": "PH",
-        "placement": "1st Place",
+        "placement": "Winner",
         "tournament": "Flagship(4-0)",
         "host": "LGS",
         "deckDate": "2025-02-08",
@@ -1646,8 +2118,8 @@
     },
     {
         "deckOwner": "Shuto",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Shop Event(7-1)",
         "host": "Cardshop",
         "deckDate": "2025-02-08",
@@ -1764,8 +2236,8 @@
     },
     {
         "deckOwner": "ammulet77",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Flagship(5-0)",
         "host": "Cardshop",
         "deckDate": "2025-02-08",
@@ -1869,7 +2341,7 @@
     {
         "deckOwner": "Deks",
         "deckFrom": "PH",
-        "placement": "1st Place",
+        "placement": "Winner",
         "tournament": "Flagship(4-0)",
         "host": "Hobby Stadium(13)",
         "deckDate": "2025-02-07",
@@ -1979,8 +2451,8 @@
     },
     {
         "deckOwner": "Winda",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Shop Event",
         "host": "Shumai Cup",
         "deckDate": "2025-02-07",
@@ -2097,8 +2569,8 @@
     },
     {
         "deckOwner": "Yuno",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Flagship(5-0)",
         "host": "Corgi(32)",
         "deckDate": "2025-02-07",
@@ -2215,9 +2687,9 @@
     },
     {
         "deckOwner": "madambeard",
-        "deckFrom": "JP",
-        "placement": "1st Place",
-        "tournament": "SB(4-0)",
+        "deckFrom": "Japan",
+        "placement": "Winner",
+        "tournament": "ShopBattle(4-0)",
         "host": "Fullcomp",
         "deckDate": "2025-02-07",
         "leader": "OP07-097",
@@ -6874,7 +7346,7 @@
     {
         "deckOwner": "Murabito",
         "deckFrom": "Japan",
-        "placement": "2nd Place",
+        "placement": "2nd",
         "tournament": "ShopBattle(4-1)",
         "host": "Cardshop",
         "deckDate": "2025-01-26",
@@ -7263,7 +7735,7 @@
     {
         "deckOwner": "Sakanoko",
         "deckFrom": "Japan",
-        "placement": "2nd Place",
+        "placement": "2nd",
         "tournament": "Shop Event",
         "host": "Kogiraf Cup",
         "deckDate": "2025-01-26",
@@ -7603,7 +8075,7 @@
     {
         "deckOwner": "Hirohiro",
         "deckFrom": "Japan",
-        "placement": "2nd Place",
+        "placement": "2nd",
         "tournament": "3v3(7-1)",
         "host": "Hacchi CS(96)",
         "deckDate": "2025-01-25",
@@ -10289,7 +10761,7 @@
     {
         "deckOwner": "Reika",
         "deckFrom": "Japan",
-        "placement": "2nd Place",
+        "placement": "2nd",
         "tournament": "Yokohama Final(9-2)",
         "host": "Bandai",
         "deckDate": "2025-01-12",
@@ -11601,7 +12073,7 @@
     {
         "deckOwner": "Murabito",
         "deckFrom": "Japan",
-        "placement": "2nd Place",
+        "placement": "2nd",
         "tournament": "Shop Event(7-1)",
         "host": "Mitchie Cup",
         "deckDate": "2025-01-11",
@@ -12809,7 +13281,7 @@
     {
         "deckOwner": "TeeHanYong",
         "deckFrom": "Sinagpore",
-        "placement": "2nd Place",
+        "placement": "2nd",
         "tournament": "SG Final(7-1)",
         "host": "Bandai Maxsoft",
         "deckDate": "2025-01-05",
@@ -13628,7 +14100,7 @@
     {
         "deckOwner": "Aacha",
         "deckFrom": "Japan",
-        "placement": "2nd Place",
+        "placement": "2nd",
         "tournament": "3v3(7-1)",
         "host": "Hacchi CS(96)",
         "deckDate": "2025-01-04",
@@ -14371,7 +14843,7 @@
     {
         "deckOwner": "Yamakawa",
         "deckFrom": "Japan",
-        "placement": "2nd Place",
+        "placement": "2nd",
         "tournament": "Shop Event(5-1)",
         "host": "One Happy Cup",
         "deckDate": "2025-01-01",
@@ -14885,7 +15357,7 @@
     {
         "deckOwner": "Akki",
         "deckFrom": "Japan",
-        "placement": "3rd Place",
+        "placement": "3rd",
         "tournament": "5v5(5-1)",
         "host": "Gajumaru Cup",
         "deckDate": "2024-12-29",
