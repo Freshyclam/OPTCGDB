@@ -1,5 +1,560 @@
 [
     {
+        "deckOwner": "ゆうすけ",
+        "deckFrom": "Japan",
+        "placement": "Winner",
+        "tournament": "Flagship (5-0)",
+        "host": "キタロコ",
+        "deckDate": "2025-02-16",
+        "leader": "ST10-002",
+        "deckColor": "Red/Purple",
+        "leaderID": "ST10-002",
+        "members": [
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 4,
+                "memberID": "OP10-011",
+                "name": "Tony Tony.Chopper"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "7",
+                "memberCount": 4,
+                "memberID": "OP09-009",
+                "name": "Benn.Beckman"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 4,
+                "memberID": "OP09-013",
+                "name": "Yasopp"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP01-006",
+                "name": "Otama"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "9",
+                "memberCount": 4,
+                "memberID": "OP09-119",
+                "name": "Monkey.D.Luffy"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP09-078",
+                "name": "Gum-Gum Giant"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 4,
+                "memberID": "OP05-067",
+                "name": "Zoro-Juurou"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 4,
+                "memberID": "ST04-005",
+                "name": "Queen (Parallel)"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP01-016",
+                "name": "Nami"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 4,
+                "memberID": "EB01-061",
+                "name": "Mr.2.Bon.Kurei(Bentham)"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 2,
+                "memberID": "EB01-003",
+                "name": "Kid & Killer"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 4,
+                "memberID": "ST10-010",
+                "name": "Trafalgar Law"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 4,
+                "memberID": "ST18-001",
+                "name": "Uso-Hachi"
+            }
+        ]
+    },
+    {
+        "deckOwner": "~蓮~ (れん)",
+        "deckFrom": "Japan",
+        "placement": "Winner",
+        "tournament": "Flagship (5-1)",
+        "host": "トレカショップスキップ",
+        "deckDate": "2025-02-18",
+        "leader": "EB02-010",
+        "deckColor": "Green/Purple",
+        "leaderID": "EB02-010",
+        "members": [
+            {
+                "memberCatalog": "Character",
+                "memberCost": "6",
+                "memberCount": 4,
+                "memberID": "EB02-061",
+                "name": "Monkey.D.Luffy"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 4,
+                "memberID": "EB02-035",
+                "name": "Sanji & Pudding"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 4,
+                "memberID": "ST18-004",
+                "name": "Zoro-Juurou"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 3,
+                "memberID": "EB02-019",
+                "name": "Roronoa Zoro"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 4,
+                "memberID": "ST18-001",
+                "name": "Uso-Hachi"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "EB02-017",
+                "name": "Nami"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP09-078",
+                "name": "Gum-Gum Giant"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "3",
+                "memberCount": 4,
+                "memberID": "OP08-036",
+                "name": "Electrical Luna"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "1",
+                "memberCount": 3,
+                "memberID": "OP05-076",
+                "name": "When You're at Sea You Fight against Pirates!!"
+            },
+            {
+                "memberCatalog": "Stage",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "EB02-041",
+                "name": "Merry Go"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 3,
+                "memberID": "EB02-037",
+                "name": "Franky"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 3,
+                "memberID": "EB02-036",
+                "name": "Nico Robin"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 4,
+                "memberID": "OP05-070",
+                "name": "Fra-Nosuke"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "6",
+                "memberCount": 2,
+                "memberID": "OP07-064",
+                "name": "Sanji"
+            }
+        ]
+    },
+    {
+        "deckOwner": "ランドリー",
+        "deckFrom": "Japan",
+        "placement": "Winner",
+        "tournament": "Flagship (5-1)",
+        "host": "グシップ青馬堂本店",
+        "deckDate": "2025-02-18",
+        "leader": "OP05-060",
+        "deckColor": "Purple",
+        "leaderID": "OP05-060",
+        "members": [
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 1,
+                "memberID": "OP05-061",
+                "name": "Uso-Hachi"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 4,
+                "memberID": "ST18-001",
+                "name": "Uso-Hachi"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 2,
+                "memberID": "ST18-002",
+                "name": "O-Nami"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "7",
+                "memberCount": 4,
+                "memberID": "OP09-065",
+                "name": "Sanji"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "6",
+                "memberCount": 4,
+                "memberID": "OP07-064",
+                "name": "Sanji"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 4,
+                "memberID": "ST18-004",
+                "name": "Zoro-Juurou"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 4,
+                "memberID": "OP05-074",
+                "name": "Eustass\"Captain\"Kid"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 4,
+                "memberID": "OP06-076",
+                "name": "Hitokiri Kamazo"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "9",
+                "memberCount": 2,
+                "memberID": "OP09-119",
+                "name": "Monkey.D.Luffy"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "7",
+                "memberCount": 4,
+                "memberID": "ST18-005",
+                "name": "Luffy-Tarou"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "9",
+                "memberCount": 2,
+                "memberID": "OP08-069",
+                "name": "Charlotte Linlin"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "2",
+                "memberCount": 1,
+                "memberID": "OP05-077",
+                "name": "Gamma Knife"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP09-078",
+                "name": "Gum-Gum Giant"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP09-069",
+                "name": "Trafalgar Law"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 4,
+                "memberID": "ST18-003",
+                "name": "San-Gorou"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 2,
+                "memberID": "P-087",
+                "name": "Nico Robin"
+            }
+        ]
+    },
+    {
+        "deckOwner": "ランドリー",
+        "deckFrom": "Japan",
+        "placement": "Winner",
+        "tournament": "Flasgship (5-0)",
+        "host": "バトロコ吉祥寺",
+        "deckDate": "2025-02-18",
+        "leader": "OP06-022",
+        "deckColor": "Green/Yellow",
+        "leaderID": "OP06-022",
+        "members": [
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 4,
+                "memberID": "OP05-110",
+                "name": "Holly"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 4,
+                "memberID": "OP05-105",
+                "name": "Satori"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "2",
+                "memberCount": 4,
+                "memberID": "OP05-106",
+                "name": "Shura"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 4,
+                "memberID": "OP05-101",
+                "name": "Ohm"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 4,
+                "memberID": "OP07-107",
+                "name": "Franky"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP07-116",
+                "name": "Blaze Slice"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "2",
+                "memberCount": 4,
+                "memberID": "OP06-101",
+                "name": "O-Nami"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 4,
+                "memberID": "OP01-033",
+                "name": "Izo"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "2",
+                "memberCount": 4,
+                "memberID": "OP07-036",
+                "name": "Demonic Aura Nine-Sword Style Asura Demon Nine Flash"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 4,
+                "memberID": "ST13-011",
+                "name": "Portgas.D.Ace"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "7",
+                "memberCount": 4,
+                "memberID": "OP06-035",
+                "name": "Hody Jones"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "1",
+                "memberCount": 2,
+                "memberID": "OP05-114",
+                "name": "El Thor"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "-",
+                "memberCount": 4,
+                "memberID": "OP06-115",
+                "name": "You're the One Who Should Disappear."
+            }
+        ]
+    },
+    {
+        "deckOwner": "Ricco Kurniawan",
+        "deckFrom": "indonesia",
+        "placement": "Winner",
+        "tournament": "Flasgship 3Frogs (4-0)",
+        "host": "",
+        "deckDate": "2025-02-18",
+        "leader": "EB02-010",
+        "deckColor": "Green/Purple",
+        "leaderID": "EB02-010",
+        "members": [
+            {
+                "memberCatalog": "Character",
+                "memberCost": "6",
+                "memberCount": 4,
+                "memberID": "EB02-061",
+                "name": "Monkey.D.Luffy"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 4,
+                "memberID": "EB02-035",
+                "name": "Sanji & Pudding"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "6",
+                "memberCount": 4,
+                "memberID": "OP07-064",
+                "name": "Sanji"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 3,
+                "memberID": "EB01-014",
+                "name": "Sanji"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 4,
+                "memberID": "ST18-004",
+                "name": "Zoro-Juurou"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 2,
+                "memberID": "EB02-019",
+                "name": "Roronoa Zoro"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 4,
+                "memberID": "ST18-001",
+                "name": "Uso-Hachi"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "2",
+                "memberCount": 3,
+                "memberID": "OP09-071",
+                "name": "Nico Robin"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "EB02-017",
+                "name": "Nami"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP09-078",
+                "name": "Gum-Gum Giant"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "3",
+                "memberCount": 4,
+                "memberID": "OP08-036",
+                "name": "Electrical Luna"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP05-076",
+                "name": "When You're at Sea You Fight against Pirates!!"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "-",
+                "memberCount": 2,
+                "memberID": "OP03-072",
+                "name": "Gum-Gum Jet Gatling"
+            },
+            {
+                "memberCatalog": "Stage",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "EB02-041",
+                "name": "Merry Go"
+            }
+        ]
+    },
+    {
         "deckOwner": "なめこ",
         "deckFrom": "Japan",
         "placement": "Winner",
