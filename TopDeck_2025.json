@@ -1,5 +1,387 @@
 [
     {
+        "deckOwner": "なめこ",
+        "deckFrom": "Japan",
+        "placement": "Winner",
+        "tournament": "わいわいCS",
+        "host": "わいわいCS",
+        "deckDate": "2025-02-16",
+        "leader": "OP07-019",
+        "deckColor": "Green",
+        "leaderID": "OP07-019",
+        "members": [
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 4,
+                "memberID": "EB01-012",
+                "name": "Cavendish"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "1",
+                "memberCount": 2,
+                "memberID": "EB01-015",
+                "name": "Scratchmen Apoo"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "2",
+                "memberCount": 2,
+                "memberID": "OP01-039",
+                "name": "Killer"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "10",
+                "memberCount": 4,
+                "memberID": "OP04-031",
+                "name": "Donquixote Doflamingo"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "2",
+                "memberCount": 4,
+                "memberID": "OP05-030",
+                "name": "Donquixote Rosinante"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "7",
+                "memberCount": 3,
+                "memberID": "OP06-035",
+                "name": "Hody Jones"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "9",
+                "memberCount": 1,
+                "memberID": "OP06-118",
+                "name": "Roronoa Zoro"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 3,
+                "memberID": "OP07-026",
+                "name": "Jewelry Bonney"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "6",
+                "memberCount": 3,
+                "memberID": "OP07-029",
+                "name": "Basil Hawkins"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 4,
+                "memberID": "OP08-023",
+                "name": "Carrot"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 4,
+                "memberID": "OP10-032",
+                "name": "Tashigi"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "ST02-007",
+                "name": "Jewelry Bonney (Parallel)"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "2",
+                "memberCount": 4,
+                "memberID": "ST02-008",
+                "name": "Scratchmen Apoo"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "7",
+                "memberCount": 1,
+                "memberID": "ST02-013",
+                "name": "Eustass\"Captain\"Kid"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "9",
+                "memberCount": 4,
+                "memberID": "ST16-004",
+                "name": "Shanks"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "-",
+                "memberCount": 3,
+                "memberID": "OP05-037",
+                "name": "Because the Side of Justice Will Be Whichever Side Wins!!"
+            }
+        ]
+    },
+    {
+        "deckOwner": "ゆと@ワンピカ女王",
+        "deckFrom": "Japan",
+        "placement": "Winner",
+        "tournament": "3on3 (6-0)",
+        "host": "コーギーアール",
+        "deckDate": "2025-02-16",
+        "leader": "ST13-003",
+        "deckColor": "Black/Yellow",
+        "leaderID": "ST13-003",
+        "members": [
+            {
+                "memberCatalog": "Character",
+                "memberCost": "2",
+                "memberCount": 4,
+                "memberID": "ST13-007",
+                "name": "Sabo"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 1,
+                "memberID": "ST13-008",
+                "name": "Sabo"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "ST13-013",
+                "name": "Monkey.D.Garp"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "2",
+                "memberCount": 4,
+                "memberID": "ST13-014",
+                "name": "Monkey.D.Luffy"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 4,
+                "memberID": "ST13-015",
+                "name": "Monkey.D.Luffy"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "ST13-019",
+                "name": "The Three Brothers' Bond"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 4,
+                "memberID": "OP04-083",
+                "name": "Sabo"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "8",
+                "memberCount": 4,
+                "memberID": "OP06-086",
+                "name": "Gecko Moria"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "6",
+                "memberCount": 3,
+                "memberID": "EB01-059",
+                "name": "Kingdom Come"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "1",
+                "memberCount": 1,
+                "memberID": "OP02-117",
+                "name": "Ice Age"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 3,
+                "memberID": "OP02-096",
+                "name": "Kuzan"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 4,
+                "memberID": "OP07-109",
+                "name": "Monkey.D.Luffy"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "1",
+                "memberCount": 2,
+                "memberID": "OP10-103",
+                "name": "Capone\"Gang\"Bege"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "EB01-056",
+                "name": "Charlotte Flampe"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "2",
+                "memberCount": 4,
+                "memberID": "OP06-106",
+                "name": "Kouzuki Hiyori"
+            }
+        ]
+    },
+    {
+        "deckOwner": "そうめん",
+        "deckFrom": "Japan",
+        "placement": "Winner",
+        "tournament": "3on3 (8-0)",
+        "host": "そだ杯",
+        "deckDate": "2025-02-16",
+        "leader": "OP07-079",
+        "deckColor": "Black",
+        "leaderID": "OP07-079",
+        "members": [
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 2,
+                "memberID": "EB01-043",
+                "name": "Spandine"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "3",
+                "memberCount": 4,
+                "memberID": "EB01-046",
+                "name": "Brook"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP02-106",
+                "name": "Tsuru"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 3,
+                "memberID": "OP03-080",
+                "name": "Kaku"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 4,
+                "memberID": "OP03-081",
+                "name": "Kalifa"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP03-086",
+                "name": "Spandam"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 1,
+                "memberID": "OP04-083",
+                "name": "Sabo"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 4,
+                "memberID": "OP05-091",
+                "name": "Rebecca"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 4,
+                "memberID": "OP05-093",
+                "name": "Rob Lucci"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "8",
+                "memberCount": 4,
+                "memberID": "OP06-086",
+                "name": "Gecko Moria"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "4",
+                "memberCount": 1,
+                "memberID": "OP07-080",
+                "name": "Kaku"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "7",
+                "memberCount": 3,
+                "memberID": "OP08-084",
+                "name": "Jack"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "5",
+                "memberCount": 1,
+                "memberID": "OP08-091",
+                "name": "Who's.Who"
+            },
+            {
+                "memberCatalog": "Character",
+                "memberCost": "2",
+                "memberCount": 1,
+                "memberID": "ST06-010",
+                "name": "Helmeppo"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP02-117",
+                "name": "Ice Age"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "1",
+                "memberCount": 1,
+                "memberID": "OP03-095",
+                "name": "Soap Sheep"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "-",
+                "memberCount": 1,
+                "memberID": "OP03-097",
+                "name": "Six King Pistol"
+            },
+            {
+                "memberCatalog": "Event",
+                "memberCost": "1",
+                "memberCount": 4,
+                "memberID": "OP07-096",
+                "name": "-est Kick"
+            }
+        ]
+    },
+    {
         "deckOwner": "Taji",
         "deckFrom": "JP",
         "placement": "1st Place",
