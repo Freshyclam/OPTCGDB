@@ -9,6 +9,7 @@
         "leader": "ST10-002",
         "deckColor": "Red/Purple",
         "leaderID": "ST10-002",
+        "deckname": "ST10-002_2025-02-16_ゆうすけ",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -113,6 +114,7 @@
         "leader": "EB02-010",
         "deckColor": "Green/Purple",
         "leaderID": "EB02-010",
+        "deckname": "EB02-010_2025-02-18_~蓮~ (れん)",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -224,6 +226,7 @@
         "leader": "OP05-060",
         "deckColor": "Purple",
         "leaderID": "OP05-060",
+        "deckname": "OP05-060_2025-02-18_ランドリー",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -349,6 +352,7 @@
         "leader": "OP06-022",
         "deckColor": "Green/Yellow",
         "leaderID": "OP06-022",
+        "deckname": "OP06-022_2025-02-18_ランドリー",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -453,6 +457,7 @@
         "leader": "EB02-010",
         "deckColor": "Green/Purple",
         "leaderID": "EB02-010",
+        "deckname": "EB02-010_2025-02-18_Ricco Kurniawan",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -564,6 +569,7 @@
         "leader": "OP07-019",
         "deckColor": "Green",
         "leaderID": "OP07-019",
+        "deckname": "OP07-019_2025-02-16_なめこ",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -689,6 +695,7 @@
         "leader": "ST13-003",
         "deckColor": "Black/Yellow",
         "leaderID": "ST13-003",
+        "deckname": "ST13-003_2025-02-16_ゆと@ワンピカ女王",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -807,6 +814,7 @@
         "leader": "OP07-079",
         "deckColor": "Black",
         "leaderID": "OP07-079",
+        "deckname": "OP07-079_2025-02-16_そうめん",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -946,6 +954,7 @@
         "leader": "EB02-010",
         "deckColor": "Green/Purple",
         "leaderID": "EB02-010",
+        "deckname": "EB02-010_2025-02-15_Taji",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -1064,6 +1073,7 @@
         "leader": "OP02-093",
         "deckColor": "Black",
         "leaderID": "OP02-093",
+        "deckname": "OP02-093_2025-02-15_Ippo",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -1182,6 +1192,7 @@
         "leader": "OP09-022",
         "deckColor": "Green/Purple",
         "leaderID": "OP09-022",
+        "deckname": "OP09-022_2025-02-14_Chokochan",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -1293,6 +1304,7 @@
         "leader": "OP09-001",
         "deckColor": "Red",
         "leaderID": "OP09-001",
+        "deckname": "OP09-001_2025-02-14_Regal",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -1418,6 +1430,7 @@
         "leader": "OP01-060",
         "deckColor": "Blue",
         "leaderID": "OP01-060",
+        "deckname": "OP01-060_2025-02-12_Dokuda",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -1522,6 +1535,7 @@
         "leader": "EB02-010",
         "deckColor": "Green/Purple",
         "leaderID": "EB02-010",
+        "deckname": "EB02-010_2025-02-12_Sakanoko",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -1633,6 +1647,7 @@
         "leader": "ST03-001",
         "deckColor": "Blue",
         "leaderID": "ST03-001",
+        "deckname": "ST03-001_2025-02-11_Sanosuke",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -1751,6 +1766,7 @@
         "leader": "OP07-019",
         "deckColor": "Green",
         "leaderID": "OP07-019",
+        "deckname": "OP07-019_2025-02-11_Chacha",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -1855,6 +1871,7 @@
         "leader": "ST10-002",
         "deckColor": "Red/Purple",
         "leaderID": "ST10-002",
+        "deckname": "ST10-002_2025-02-11_salmon_onepiece",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -1966,6 +1983,7 @@
         "leader": "OP07-079",
         "deckColor": "Black",
         "leaderID": "OP07-079",
+        "deckname": "OP07-079_2025-02-11_Buku",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -2091,6 +2109,7 @@
         "leader": "OP07-079",
         "deckColor": "Black",
         "leaderID": "OP07-079",
+        "deckname": "OP07-079_2025-02-11_Towa",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -2230,6 +2249,7 @@
         "leader": "OP10-001",
         "deckColor": "Red/Green",
         "leaderID": "OP10-001",
+        "deckname": "OP10-001_2025-02-09_Matsuno",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -2348,6 +2368,7 @@
         "leader": "EB02-010",
         "deckColor": "Green/Purple",
         "leaderID": "EB02-010",
+        "deckname": "EB02-010_2025-02-09_Yashamaru",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -2452,6 +2473,7 @@
         "leader": "OP09-081",
         "deckColor": "Black",
         "leaderID": "OP09-081",
+        "deckname": "OP09-081_2025-02-09_Fakenoko",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -2563,6 +2585,7 @@
         "leader": "EB02-010",
         "deckColor": "Green/Purple",
         "leaderID": "EB02-010",
+        "deckname": "EB02-010_2025-02-08_Gori",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -2695,6 +2718,7 @@
         "leader": "EB02-010",
         "deckColor": "Green/Purple",
         "leaderID": "EB02-010",
+        "deckname": "EB02-010_2025-02-08_Sakanoko",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -2813,6 +2837,7 @@
         "leader": "EB02-010",
         "deckColor": "Green/Purple",
         "leaderID": "EB02-010",
+        "deckname": "EB02-010_2025-02-08_Kalish",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -2931,6 +2956,7 @@
         "leader": "OP10-003",
         "deckColor": "Red/Purple",
         "leaderID": "OP10-003",
+        "deckname": "OP10-003_2025-02-08_Adrie",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -3063,6 +3089,7 @@
         "leader": "OP05-060",
         "deckColor": "Purple",
         "leaderID": "OP05-060",
+        "deckname": "OP05-060_2025-02-08_Shuto",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -3181,6 +3208,7 @@
         "leader": "OP05-098",
         "deckColor": "Yellow",
         "leaderID": "OP05-098",
+        "deckname": "OP05-098_2025-02-08_ammulet77",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -3285,6 +3313,7 @@
         "leader": "EB02-010",
         "deckColor": "Green/Purple",
         "leaderID": "EB02-010",
+        "deckname": "EB02-010_2025-02-07_Deks",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -3396,6 +3425,7 @@
         "leader": "OP01-060",
         "deckColor": "Blue",
         "leaderID": "OP01-060",
+        "deckname": "OP01-060_2025-02-07_Winda",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -3514,6 +3544,7 @@
         "leader": "EB01-001",
         "deckColor": "Red/Green",
         "leaderID": "EB01-001",
+        "deckname": "EB01-001_2025-02-07_Yuno",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -3632,6 +3663,7 @@
         "leader": "OP07-097",
         "deckColor": "Yellow",
         "leaderID": "OP07-097",
+        "deckname": "OP07-097_2025-02-07_madambeard",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -3750,6 +3782,7 @@
         "leader": "EB02-010",
         "deckColor": "Green/Purple",
         "leaderID": "EB02-010",
+        "deckname": "EB02-010_2025-02-09_Wf/種口組 @mryu0044",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -3875,6 +3908,7 @@
         "leader": "OP01-060",
         "deckColor": "Blue",
         "leaderID": "OP01-060",
+        "deckname": "OP01-060_2025-02-09_たっぴー",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -3993,6 +4027,7 @@
         "leader": "OP10-001",
         "deckColor": "Red/Green",
         "leaderID": "OP10-001",
+        "deckname": "OP10-001_2025-02-09_まつの",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -4111,6 +4146,7 @@
         "leader": "EB02-010",
         "deckColor": "Green/Purple",
         "leaderID": "EB02-010",
+        "deckname": "EB02-010_2025-02-09_夜叉丸",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -4215,6 +4251,7 @@
         "leader": "OP01-060",
         "deckColor": "Blue",
         "leaderID": "OP01-060",
+        "deckname": "OP01-060_2025-02-05_Chill",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -4347,6 +4384,7 @@
         "leader": "OP05-098",
         "deckColor": "Yellow",
         "leaderID": "OP05-098",
+        "deckname": "OP05-098_2025-02-05_Kyohe",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -4458,6 +4496,7 @@
         "leader": "P05-098",
         "deckColor": "Unknown",
         "leaderID": "P05-098",
+        "deckname": "P05-098_2025-02-05_Kyohe",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -4569,6 +4608,7 @@
         "leader": "OP07-079",
         "deckColor": "Black",
         "leaderID": "OP07-079",
+        "deckname": "OP07-079_2025-02-05_banao111",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -4715,6 +4755,7 @@
         "leader": "OP09-001",
         "deckColor": "Red",
         "leaderID": "OP09-001",
+        "deckname": "OP09-001_2025-02-04_Komugi",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -4833,6 +4874,7 @@
         "leader": "OP10-022",
         "deckColor": "Green/Yellow",
         "leaderID": "OP10-022",
+        "deckname": "OP10-022_2025-02-04_Ini",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -4951,6 +4993,7 @@
         "leader": "EB02-010",
         "deckColor": "Green/Purple",
         "leaderID": "EB02-010",
+        "deckname": "EB02-010_2025-02-02_Sakanoko",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -5062,6 +5105,7 @@
         "leader": "OP10-001",
         "deckColor": "Red/Green",
         "leaderID": "OP10-001",
+        "deckname": "OP10-001_2025-02-02_Ei",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -5194,6 +5238,7 @@
         "leader": "OP09-001",
         "deckColor": "Red",
         "leaderID": "OP09-001",
+        "deckname": "OP09-001_2025-02-02_Naiki",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -5312,6 +5357,7 @@
         "leader": "OP02-093",
         "deckColor": "Black",
         "leaderID": "OP02-093",
+        "deckname": "OP02-093_2025-02-02_D",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -5430,6 +5476,7 @@
         "leader": "OP09-081",
         "deckColor": "Black",
         "leaderID": "OP09-081",
+        "deckname": "OP09-081_2025-02-02_Deks",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -5548,6 +5595,7 @@
         "leader": "OP09-081",
         "deckColor": "Black",
         "leaderID": "OP09-081",
+        "deckname": "OP09-081_2025-02-02_USA",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -5666,6 +5714,7 @@
         "leader": "OP09-001",
         "deckColor": "Red",
         "leaderID": "OP09-001",
+        "deckname": "OP09-001_2025-02-02_USA",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -5784,6 +5833,7 @@
         "leader": "OP09-001",
         "deckColor": "Red",
         "leaderID": "OP09-001",
+        "deckname": "OP09-001_2025-02-01_Yabu",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -5902,6 +5952,7 @@
         "leader": "EB02-010",
         "deckColor": "Green/Purple",
         "leaderID": "EB02-010",
+        "deckname": "EB02-010_2025-02-01_Hiiro",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -6027,6 +6078,7 @@
         "leader": "EB02-010",
         "deckColor": "Green/Purple",
         "leaderID": "EB02-010",
+        "deckname": "EB02-010_2025-02-01_Ayakana",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -6145,6 +6197,7 @@
         "leader": "OP07-079",
         "deckColor": "Black",
         "leaderID": "OP07-079",
+        "deckname": "OP07-079_2025-02-01_Buku",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -6270,6 +6323,7 @@
         "leader": "EB02-010",
         "deckColor": "Green/Purple",
         "leaderID": "EB02-010",
+        "deckname": "EB02-010_2025-01-31_Hosono",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -6381,6 +6435,7 @@
         "leader": "EB02-010",
         "deckColor": "Green/Purple",
         "leaderID": "EB02-010",
+        "deckname": "EB02-010_2025-01-31_Esu",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -6492,6 +6547,7 @@
         "leader": "OP07-019",
         "deckColor": "Green",
         "leaderID": "OP07-019",
+        "deckname": "OP07-019_2025-01-31_Jc",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -6638,6 +6694,7 @@
         "leader": "OP10-042",
         "deckColor": "Blue/Black",
         "leaderID": "OP10-042",
+        "deckname": "OP10-042_2025-01-31_Yuta",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -6770,6 +6827,7 @@
         "leader": "OP10-042",
         "deckColor": "Blue/Black",
         "leaderID": "OP10-042",
+        "deckname": "OP10-042_2025-01-31_uminogi",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -6902,6 +6960,7 @@
         "leader": "OP10-001",
         "deckColor": "Red/Green",
         "leaderID": "OP10-001",
+        "deckname": "OP10-001_2025-01-29_Unknown",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -7020,6 +7079,7 @@
         "leader": "10-001",
         "deckColor": "Unknown",
         "leaderID": "10-001",
+        "deckname": "10-001_2025-01-29_Unknown",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -7138,6 +7198,7 @@
         "leader": "EB01-001",
         "deckColor": "Red/Green",
         "leaderID": "EB01-001",
+        "deckname": "EB01-001_2025-01-26_Hapigori",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -7249,6 +7310,7 @@
         "leader": "EB02-010",
         "deckColor": "Green/Purple",
         "leaderID": "EB02-010",
+        "deckname": "EB02-010_2025-01-27_Jitsu",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -7367,6 +7429,7 @@
         "leader": "EB01-001",
         "deckColor": "Red/Green",
         "leaderID": "EB01-001",
+        "deckname": "EB01-001_2025-01-26_Hapigori",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -7478,6 +7541,7 @@
         "leader": "OP07-019",
         "deckColor": "Green",
         "leaderID": "OP07-019",
+        "deckname": "OP07-019_2025-01-26_Kudo(RAIN)",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -7603,6 +7667,7 @@
         "leader": "OP05-098",
         "deckColor": "Yellow",
         "leaderID": "OP05-098",
+        "deckname": "OP05-098_2025-01-26_Yudora",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -7714,6 +7779,7 @@
         "leader": "OP10-042",
         "deckColor": "Blue/Black",
         "leaderID": "OP10-042",
+        "deckname": "OP10-042_2025-01-26_Yamashi",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -7825,6 +7891,7 @@
         "leader": "OP09-081",
         "deckColor": "Black",
         "leaderID": "OP09-081",
+        "deckname": "OP09-081_2025-01-26_njiof_",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -7943,6 +8010,7 @@
         "leader": "OP09-081",
         "deckColor": "Black",
         "leaderID": "OP09-081",
+        "deckname": "OP09-081_2025-01-26_Hane",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -8061,6 +8129,7 @@
         "leader": "OP02-093",
         "deckColor": "Black",
         "leaderID": "OP02-093",
+        "deckname": "OP02-093_2025-01-26_Hosso",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -8172,6 +8241,7 @@
         "leader": "OP10-001",
         "deckColor": "Red/Green",
         "leaderID": "OP10-001",
+        "deckname": "OP10-001_2025-01-26_Asura",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -8290,6 +8360,7 @@
         "leader": "OP04-020",
         "deckColor": "Green/Black",
         "leaderID": "OP04-020",
+        "deckname": "OP04-020_2025-01-26_Murabito",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -8422,6 +8493,7 @@
         "leader": "OP01-060",
         "deckColor": "Blue",
         "leaderID": "OP01-060",
+        "deckname": "OP01-060_2025-01-26_AYAKANA_1124",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -8547,6 +8619,7 @@
         "leader": "ST10-002",
         "deckColor": "Red/Purple",
         "leaderID": "ST10-002",
+        "deckname": "ST10-002_2025-01-26_Tsuusaji",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -8679,6 +8752,7 @@
         "leader": "EB02-010",
         "deckColor": "Green/Purple",
         "leaderID": "EB02-010",
+        "deckname": "EB02-010_2025-01-26_Sakanoko",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -8790,6 +8864,7 @@
         "leader": "OP05-060",
         "deckColor": "Purple",
         "leaderID": "OP05-060",
+        "deckname": "OP05-060_2025-01-26_Nishi",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -8908,6 +8983,7 @@
         "leader": "OP09-081",
         "deckColor": "Black",
         "leaderID": "OP09-081",
+        "deckname": "OP09-081_2025-01-26_R",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -9019,6 +9095,7 @@
         "leader": "OP05-060",
         "deckColor": "Purple",
         "leaderID": "OP05-060",
+        "deckname": "OP05-060_2025-01-25_Hirohiro",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -9137,6 +9214,7 @@
         "leader": "OP07-038",
         "deckColor": "Blue",
         "leaderID": "OP07-038",
+        "deckname": "OP07-038_2025-01-25_Piyochi",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -9269,6 +9347,7 @@
         "leader": "ST10-002",
         "deckColor": "Red/Purple",
         "leaderID": "ST10-002",
+        "deckname": "ST10-002_2025-01-25_Salmon_op",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -9387,6 +9466,7 @@
         "leader": "OP05-060",
         "deckColor": "Purple",
         "leaderID": "OP05-060",
+        "deckname": "OP05-060_2025-01-25_Tenten",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -9498,6 +9578,7 @@
         "leader": "OP05-098",
         "deckColor": "Yellow",
         "leaderID": "OP05-098",
+        "deckname": "OP05-098_2025-01-25_Nigou",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -9609,6 +9690,7 @@
         "leader": "OP05-098",
         "deckColor": "Yellow",
         "leaderID": "OP05-098",
+        "deckname": "OP05-098_2025-01-25_Piroshiki",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -9720,6 +9802,7 @@
         "leader": "OP05-098",
         "deckColor": "Yellow",
         "leaderID": "OP05-098",
+        "deckname": "OP05-098_2025-01-25_Suko",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -9824,6 +9907,7 @@
         "leader": "OP07-097",
         "deckColor": "Yellow",
         "leaderID": "OP07-097",
+        "deckname": "OP07-097_2025-01-25_Hide Tanaka",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -9935,6 +10019,7 @@
         "leader": "OP09-081",
         "deckColor": "Black",
         "leaderID": "OP09-081",
+        "deckname": "OP09-081_2025-01-25_Ives Rementina",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -10046,6 +10131,7 @@
         "leader": "OP09-081",
         "deckColor": "Black",
         "leaderID": "OP09-081",
+        "deckname": "OP09-081_2025-01-25_Nekomaru",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -10157,6 +10243,7 @@
         "leader": "OP09-081",
         "deckColor": "Black",
         "leaderID": "OP09-081",
+        "deckname": "OP09-081_2025-01-25_Potaka",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -10268,6 +10355,7 @@
         "leader": "OP02-093",
         "deckColor": "Black",
         "leaderID": "OP02-093",
+        "deckname": "OP02-093_2025-01-25_Zato",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -10400,6 +10488,7 @@
         "leader": "OP03-022",
         "deckColor": "Green/Yellow",
         "leaderID": "OP03-022",
+        "deckname": "OP03-022_2025-01-22_Chankuma",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -10518,6 +10607,7 @@
         "leader": "OP03-040",
         "deckColor": "Blue",
         "leaderID": "OP03-040",
+        "deckname": "OP03-040_2025-01-21_Macho",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -10629,6 +10719,7 @@
         "leader": "OP09-022",
         "deckColor": "Green/Purple",
         "leaderID": "OP09-022",
+        "deckname": "OP09-022_2025-01-19_Adrie M",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -10754,6 +10845,7 @@
         "leader": "OP07-019",
         "deckColor": "Green",
         "leaderID": "OP07-019",
+        "deckname": "OP07-019_2025-01-19_Lemon",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -10879,6 +10971,7 @@
         "leader": "OP07-038",
         "deckColor": "Blue",
         "leaderID": "OP07-038",
+        "deckname": "OP07-038_2025-01-19_Hokhau",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -10990,6 +11083,7 @@
         "leader": "OP09-061",
         "deckColor": "Purple/Black",
         "leaderID": "OP09-061",
+        "deckname": "OP09-061_2025-01-19_Edd",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -11115,6 +11209,7 @@
         "leader": "OP10-001",
         "deckColor": "Red/Green",
         "leaderID": "OP10-001",
+        "deckname": "OP10-001_2025-01-19_Meifu",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -11226,6 +11321,7 @@
         "leader": "OP10-099",
         "deckColor": "Yellow",
         "leaderID": "OP10-099",
+        "deckname": "OP10-099_2025-01-19_Deon",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -11351,6 +11447,7 @@
         "leader": "OP07-019",
         "deckColor": "Green",
         "leaderID": "OP07-019",
+        "deckname": "OP07-019_2025-01-17_Shum Jia Yu",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -11483,6 +11580,7 @@
         "leader": "OP07-097",
         "deckColor": "Yellow",
         "leaderID": "OP07-097",
+        "deckname": "OP07-097_2025-01-16_shiontan",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -11594,6 +11692,7 @@
         "leader": "ST13-003",
         "deckColor": "Black/Yellow",
         "leaderID": "ST13-003",
+        "deckname": "ST13-003_2025-01-12_Momon",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -11705,6 +11804,7 @@
         "leader": "OP01-060",
         "deckColor": "Blue",
         "leaderID": "OP01-060",
+        "deckname": "OP01-060_2025-01-12_Reika",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -11837,6 +11937,7 @@
         "leader": "OP01-060",
         "deckColor": "Blue",
         "leaderID": "OP01-060",
+        "deckname": "OP01-060_2025-01-12_Amato",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -11955,6 +12056,7 @@
         "leader": "OP07-079",
         "deckColor": "Black",
         "leaderID": "OP07-079",
+        "deckname": "OP07-079_2025-01-12_Nazu",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -12101,6 +12203,7 @@
         "leader": "OP09-081",
         "deckColor": "Black",
         "leaderID": "OP09-081",
+        "deckname": "OP09-081_2025-01-12_Hasekyon",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -12212,6 +12315,7 @@
         "leader": "OP01-060",
         "deckColor": "Blue",
         "leaderID": "OP01-060",
+        "deckname": "OP01-060_2025-01-12_kitajitotti",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -12337,6 +12441,7 @@
         "leader": "OP10-099",
         "deckColor": "Yellow",
         "leaderID": "OP10-099",
+        "deckname": "OP10-099_2025-01-12_Inari",
         "members": [
             {
                 "memberCatalog": "Unknown",
@@ -12441,6 +12546,7 @@
         "leader": "OP06-042",
         "deckColor": "Blue/Purple",
         "leaderID": "OP06-042",
+        "deckname": "OP06-042_2025-01-12_blue_mii",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -12559,6 +12665,7 @@
         "leader": "OP09-081",
         "deckColor": "Black",
         "leaderID": "OP09-081",
+        "deckname": "OP09-081_2025-01-12_Achilles P",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -12677,6 +12784,7 @@
         "leader": "OP09-001",
         "deckColor": "Red",
         "leaderID": "OP09-001",
+        "deckname": "OP09-001_2025-01-12_Thien Tue",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -12802,6 +12910,7 @@
         "leader": "OP05-098",
         "deckColor": "Yellow",
         "leaderID": "OP05-098",
+        "deckname": "OP05-098_2025-01-11_Kyohe",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -12913,6 +13022,7 @@
         "leader": "ST10-003",
         "deckColor": "Red/Purple",
         "leaderID": "ST10-003",
+        "deckname": "ST10-003_2025-01-11_Jai",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -13017,6 +13127,7 @@
         "leader": "OP07-059",
         "deckColor": "Purple",
         "leaderID": "OP07-059",
+        "deckname": "OP07-059_2025-01-11_Murabito",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -13135,6 +13246,7 @@
         "leader": "OP01-060",
         "deckColor": "Blue",
         "leaderID": "OP01-060",
+        "deckname": "OP01-060_2025-01-11_lemo_kurone",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -13246,6 +13358,7 @@
         "leader": "OP07-079",
         "deckColor": "Black",
         "leaderID": "OP07-079",
+        "deckname": "OP07-079_2025-01-10_YT",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -13385,6 +13498,7 @@
         "leader": "OP10-042",
         "deckColor": "Blue/Black",
         "leaderID": "OP10-042",
+        "deckname": "OP10-042_2025-01-10_Take",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -13510,6 +13624,7 @@
         "leader": "OP05-060",
         "deckColor": "Purple",
         "leaderID": "OP05-060",
+        "deckname": "OP05-060_2025-01-08_Maki",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -13628,6 +13743,7 @@
         "leader": "OP09-022",
         "deckColor": "Green/Purple",
         "leaderID": "OP09-022",
+        "deckname": "OP09-022_2025-01-08_Ji_nias",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -13753,6 +13869,7 @@
         "leader": "OP07-019",
         "deckColor": "Green",
         "leaderID": "OP07-019",
+        "deckname": "OP07-019_2025-01-07_Elru",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -13864,6 +13981,7 @@
         "leader": "OP07-019",
         "deckColor": "Green",
         "leaderID": "OP07-019",
+        "deckname": "OP07-019_2025-01-05_Raphterra",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -13996,6 +14114,7 @@
         "leader": "OP07-038",
         "deckColor": "Blue",
         "leaderID": "OP07-038",
+        "deckname": "OP07-038_2025-01-05_Kiyo",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -14107,6 +14226,7 @@
         "leader": "OP01-060",
         "deckColor": "Blue",
         "leaderID": "OP01-060",
+        "deckname": "OP01-060_2025-01-05_Gerrard",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -14225,6 +14345,7 @@
         "leader": "OP01-060",
         "deckColor": "Blue",
         "leaderID": "OP01-060",
+        "deckname": "OP01-060_2025-01-05_TeeHanYong",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -14343,6 +14464,7 @@
         "leader": "OP01-060",
         "deckColor": "Blue",
         "leaderID": "OP01-060",
+        "deckname": "OP01-060_2025-01-05_Chalice",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -14461,6 +14583,7 @@
         "leader": "OP09-001",
         "deckColor": "Red",
         "leaderID": "OP09-001",
+        "deckname": "OP09-001_2025-01-05_Hellius",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -14579,6 +14702,7 @@
         "leader": "OP01-060",
         "deckColor": "Blue",
         "leaderID": "OP01-060",
+        "deckname": "OP01-060_2025-01-05_Yosh",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -14697,6 +14821,7 @@
         "leader": "OP06-080",
         "deckColor": "Black",
         "leaderID": "OP06-080",
+        "deckname": "OP06-080_2025-01-05_Hikari",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -14808,6 +14933,7 @@
         "leader": "OP09-061",
         "deckColor": "Purple/Black",
         "leaderID": "OP09-061",
+        "deckname": "OP09-061_2025-01-04_SHO",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -14926,6 +15052,7 @@
         "leader": "OP02-093",
         "deckColor": "Black",
         "leaderID": "OP02-093",
+        "deckname": "OP02-093_2025-01-04_Ippo",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -15044,6 +15171,7 @@
         "leader": "OP05-060",
         "deckColor": "Purple",
         "leaderID": "OP05-060",
+        "deckname": "OP05-060_2025-01-04_Aacha",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -15169,6 +15297,7 @@
         "leader": "OP07-079",
         "deckColor": "Black",
         "leaderID": "OP07-079",
+        "deckname": "OP07-079_2025-01-04_Chiihan",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -15308,6 +15437,7 @@
         "leader": "OP10-001",
         "deckColor": "Red/Green",
         "leaderID": "OP10-001",
+        "deckname": "OP10-001_2025-01-04_Ken",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -15419,6 +15549,7 @@
         "leader": "OP10-042",
         "deckColor": "Blue/Black",
         "leaderID": "OP10-042",
+        "deckname": "OP10-042_2025-01-03_Nisawa",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -15530,6 +15661,7 @@
         "leader": "OP09-001",
         "deckColor": "Red",
         "leaderID": "OP09-001",
+        "deckname": "OP09-001_2025-01-03_Sutton",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -15655,6 +15787,7 @@
         "leader": "OP01-060",
         "deckColor": "Blue",
         "leaderID": "OP01-060",
+        "deckname": "OP01-060_2025-01-01_Apo",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -15787,6 +15920,7 @@
         "leader": "OP08-021",
         "deckColor": "Green",
         "leaderID": "OP08-021",
+        "deckname": "OP08-021_2025-01-01_Yamakawa",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -15905,6 +16039,7 @@
         "leader": "OP10-042",
         "deckColor": "Blue/Black",
         "leaderID": "OP10-042",
+        "deckname": "OP10-042_2025-01-01_Kihara",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -16023,6 +16158,7 @@
         "leader": "OP09-061",
         "deckColor": "Purple/Black",
         "leaderID": "OP09-061",
+        "deckname": "OP09-061_2024-12-30_KTS",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -16162,6 +16298,7 @@
         "leader": "OP02-093",
         "deckColor": "Black",
         "leaderID": "OP02-093",
+        "deckname": "OP02-093_2024-12-29_Okamoto",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -16301,6 +16438,7 @@
         "leader": "ST01-001",
         "deckColor": "Red",
         "leaderID": "ST01-001",
+        "deckname": "ST01-001_2024-12-29_Akki",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -16426,6 +16564,7 @@
         "leader": "OP10-042",
         "deckColor": "Blue/Black",
         "leaderID": "OP10-042",
+        "deckname": "OP10-042_2024-12-28_sakuya1212",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -16544,6 +16683,7 @@
         "leader": "OP10-099",
         "deckColor": "Yellow",
         "leaderID": "OP10-099",
+        "deckname": "OP10-099_2024-12-28_esuto96",
         "members": [
             {
                 "memberCatalog": "Unknown",
@@ -16648,6 +16788,7 @@
         "leader": "OP07-079",
         "deckColor": "Black",
         "leaderID": "OP07-079",
+        "deckname": "OP07-079_2024-12-28_Buku",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -16780,6 +16921,7 @@
         "leader": "OP10-022",
         "deckColor": "Green/Yellow",
         "leaderID": "OP10-022",
+        "deckname": "OP10-022_2024-12-28_Unta",
         "members": [
             {
                 "memberCatalog": "Character",
@@ -16884,6 +17026,7 @@
         "leader": "OP10-042",
         "deckColor": "Blue/Black",
         "leaderID": "OP10-042",
+        "deckname": "OP10-042_2025-01-19_Marco",
         "members": [
             {
                 "memberCatalog": "Character",
