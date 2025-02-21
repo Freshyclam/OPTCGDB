@@ -199,6 +199,7 @@ def add_to_json():
         "leader": leader_id,
         "deckColor": "Unknown",  # 默認為 Unknown，稍後處理
         "leaderID": leader_id,
+        "deckName": f"{leader_id}_{additional_data.get('deckDate', 'Unknown')}_{additional_data.get('deckOwner', 'Unknown')}",
         #"link": link_field.get("1.0", tk.END).strip(),
         "members": members
         
