@@ -1,8 +1,8 @@
 [
     {
         "deckOwner": "Yamashi",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "3v3(6-0)",
         "host": "Yunchi Cup",
         "deckDate": "2025-03-01",
@@ -113,8 +113,8 @@
     },
     {
         "deckOwner": "Yujiro",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "3v3(5-1)",
         "host": "Yunchi Cup",
         "deckDate": "2025-03-01",
@@ -233,7 +233,7 @@
     {
         "deckOwner": "Ren",
         "deckFrom": "PH",
-        "placement": "1st Place",
+        "placement": "Winner",
         "tournament": "TB(7-1)",
         "host": "Aqua Cards Games(20)",
         "deckDate": "2025-03-01",
@@ -359,7 +359,7 @@
     {
         "deckOwner": "Shum Jia Yu",
         "deckFrom": "SG",
-        "placement": "1st Place",
+        "placement": "Winner",
         "tournament": "Flagship(5-0)",
         "host": "Flagship games",
         "deckDate": "2025-03-01",
@@ -491,8 +491,8 @@
     },
     {
         "deckOwner": "Fuku",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "SB",
         "host": "AmenityKyoto",
         "deckDate": "2025-03-01",
@@ -603,8 +603,8 @@
     },
     {
         "deckOwner": "Rocket",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "3v3(7-1)",
         "host": "Hacchi CS(78)",
         "deckDate": "2025-03-01",
@@ -715,7 +715,7 @@
     },
     {
         "deckOwner": "R",
-        "deckFrom": "JP",
+        "deckFrom": "Japan",
         "placement": "2nd Place",
         "tournament": "3v3(7-1)",
         "host": "Hacchi CS(78)",
@@ -827,8 +827,8 @@
     },
     {
         "deckOwner": "Kei",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Shop Event(9-1)",
         "host": "Shumai Cup(80)",
         "deckDate": "2025-03-01",
@@ -953,7 +953,7 @@
     },
     {
         "deckOwner": "Ayakana",
-        "deckFrom": "JP",
+        "deckFrom": "Japan",
         "placement": "2nd Place",
         "tournament": "Shop Event",
         "host": "Shumai Cup(80)",
@@ -1065,7 +1065,7 @@
     },
     {
         "deckOwner": "Moyashin",
-        "deckFrom": "JP",
+        "deckFrom": "Japan",
         "placement": "4th",
         "tournament": "Shop Event",
         "host": "Shumai Cup",
@@ -1184,7 +1184,7 @@
     },
     {
         "deckOwner": "Neko",
-        "deckFrom": "JP",
+        "deckFrom": "Japan",
         "placement": "4th",
         "tournament": "Shop Event",
         "host": "Shumai Cup",
@@ -1303,8 +1303,8 @@
     },
     {
         "deckOwner": "DQN",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "SB(4-0)",
         "host": "Arashi",
         "deckDate": "2025-03-01",
@@ -1415,8 +1415,8 @@
     },
     {
         "deckOwner": "syuraia",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "Shop Event(6-0)",
         "host": "Triple BOX",
         "deckDate": "2025-03-01",
@@ -1534,7 +1534,7 @@
     },
     {
         "deckOwner": "lulu_onep",
-        "deckFrom": "JP",
+        "deckFrom": "Japan",
         "placement": "Winner",
         "tournament": "3v3(7-0)",
         "host": "Corgi",
@@ -1667,8 +1667,8 @@
     },
     {
         "deckOwner": "Yanegomu",
-        "deckFrom": "JP",
-        "placement": "1st Place",
+        "deckFrom": "Japan",
+        "placement": "Winner",
         "tournament": "SB",
         "host": "FrontCard",
         "deckDate": "2025-03-01",
@@ -4390,7 +4390,7 @@
     },
     {
         "deckOwner": "Taji",
-        "deckFrom": "JP",
+        "deckFrom": "Japan",
         "placement": "Winner",
         "tournament": "Flagship(5-0)",
         "host": "Chiba Lab",
@@ -4509,7 +4509,7 @@
     },
     {
         "deckOwner": "Ippo",
-        "deckFrom": "JP",
+        "deckFrom": "Japan",
         "placement": "Winner",
         "tournament": "Flagship(5-0)",
         "host": "Cardshop",
