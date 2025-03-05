@@ -82,7 +82,8 @@ for url in urls:
     # 遍歷並處理每個 QA 項目
     for i in range(len(qa_titles)):
         # 移除 title 第一個空白後的所有內容
-        title_text = qa_titles[i].get_text(strip=True).split(" ")[0]
+        id = qa_titles[i].get_text(strip=True).split(" ")[0]
+        title_text = qa_titles[i].get_text(strip=True)
 
         # 處理問題文本，確保第一個 "Q" 變為 "Q: "
         question_text = questions[i].get_text(strip=True)
@@ -95,8 +96,44 @@ for url in urls:
             answer_text = "A: " + answer_text[1:].strip()
 
         # 過濾掉 title 為 "Booster" 的項目
-        if title_text not in ["BOOSTER", "STARTER", "EXTRA","PREMIUM","ULTIMATE"]:
+        if title_text not in [
+            "BOOSTER","STARTER DECK -Straw Hat Crew- [ST-01]",
+            "STARTER DECK -Worst Generation- [ST-02]",
+            "STARTER DECK -The Seven Warlords of the Sea- [ST-03]",
+            "STARTER DECK -Animal Kingdom Pirates- [ST-04]",
+            "STARTER DECK -ONE PIECE FILM edition- [ST-05]",
+            "STARTER DECK -The Navy- [ST-06]",
+            "STARTER DECK -Big Mom Pirates- [ST-07]",
+            "STARTER DECK -Side Monkey.D.Luffy- [ST-08]",
+            "STARTER DECK -Side Yamato- [ST-09]",
+            "ULTIMATE DECK -The Three Captains- [ST-10]",
+            "STARTER DECK -Side Uta- [ST-11]",
+            "STARTER DECK -Zoro & Sanji- [ST-12]",
+            "ULTIMATE DECK -The Three Brothers' Bond- [ST-13]",
+            "STARTER DECK -3D2Y- [ST-14]",
+            "STARTER DECK -Red Edward.Newgate- [ST-15]",
+            "STARTER DECK -Green Uta- [ST-16]",
+            "STARTER DECK -Blue Donquixote Doflamingo- [ST-17]",
+            "STARTER DECK -Purple Monkey.D.Luffy- [ST-18]",
+            "STARTER DECK -Black Smoker- [ST-19]",
+            "STARTER DECK -Yellow Charlotte Katakuri- [ST-20]",
+            "STARTER DECK EX -GEAR5- [ST-21]",
+            "BOOSTER PACK -ROMANCE DAWN- [OP-01]",
+            "BOOSTER PACK -Paramount War- [OP-02]",
+            "BOOSTER PACK -Pillars of Strength- [OP-03]",
+            "BOOSTER PACK -Kingdoms of Intrigue- [OP-04]",
+            "BOOSTER PACK -Awakening of the New Era- [OP-05]",
+            "BOOSTER PACK -Wings of Captain- [OP-06]",
+            "BOOSTER PACK -500 Years in the Future- [OP-07]",
+            "BOOSTER PACK -Two Legends- [OP-08]",
+            "BOOSTER PACK -Emperors in the New World- [OP-09]",
+            "BOOSTER PACK -Royal Blood- [OP-10]",
+            "BOOSTER PACK -A Fist of Divine Speed- [OP-11]",
+            "EXTRA BOOSTER -Memorial Collection- [EB-01]",
+            "EXTRA BOOSTER -Anime 25th collection- [EB-02]",
+                ]:
             qa_entry = {
+                "id": id,
                 "title": title_text,
                 "question": question_text,
                 "answer": answer_text,
