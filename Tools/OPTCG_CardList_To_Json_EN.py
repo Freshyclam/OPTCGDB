@@ -11,7 +11,7 @@ from PIL import Image
 
 
 def load_download_list():
-    json_path = r'G:\My Drive\[Python]\Onepiece CSV\Get_Data_From_Web\data_download_Path_EN.json'
+    json_path = r'D:\Github\OPTCGDB\Tools\OPTCG_Download_Link\CardData_EN.json'
     
     if not os.path.exists(json_path):
         raise FileNotFoundError(f"The file does not exist at the path: {json_path}")
@@ -104,6 +104,7 @@ def get_card_list_from_website(url, json_filename):
             get_info = extract_and_clean_text(details.find('div', class_='getInfo'))
             counter = extract_and_clean_text(details.find('div', class_='counter'))
             trigger = extract_and_clean_text(details.find('div', class_='trigger'))
+            block = extract_and_clean_text(details.find('div', class_='block'))
 
             # 檢查 infoCol 中的內容來決定卡牌類型
             
@@ -192,6 +193,7 @@ def get_card_list_from_website(url, json_filename):
                 'image_path':img_path,
                 'image_url': img_url, # 添加图片URL到JSON
                 'image': image01_engine_path, #for unreal engine texture #disalve for now 
+                'block':block, #添加block
 
             }
             card_data.append(card_details)
@@ -261,7 +263,7 @@ def save_to_json(data, filename):
 
 def fetch_and_save():
     url = url_entry.get()
-    json_filename = file_path_entry.get() or r"D:\CardData.json"  # 如果沒有輸入路徑，使用默認路徑
+    json_filename = file_path_entry.get() or r"D:\GitHub\OPTCGDB\Tools\OPTCG_Download_Link\CardData.json"  # 如果沒有輸入路徑，使用默認路徑    r"D:\CardData.json"  # 如果沒有輸入路徑，使用默認路徑
     card_list = get_card_list_from_website(url, json_filename)  # 傳遞 json_filename
     save_to_json(card_list, json_filename)
 
@@ -326,6 +328,57 @@ def download_images(card_list, json_filename):
 def stop_download():
     stop_event.set()
 
+import json
+import os
+from tkinter import Tk, Label, Entry, Button, Listbox, END, filedialog, messagebox, Frame
+
+# 全局变量
+json_data = []
+filtered_data = []
+json_file_path = ""
+
+# 选择资料夹并合并 JSON 文件
+def merge_json_from_folder():
+    folder_path = filedialog.askdirectory(title="选择包含 JSON 文件的文件夹")
+    if not folder_path:
+        messagebox.showwarning("警告", "未选择文件夹！")
+        return
+
+    merged_data = []
+    id_set = set()
+
+    for file_name in os.listdir(folder_path):
+        if file_name.endswith(".json"):
+            file_path = os.path.join(folder_path, file_name)
+            try:
+                with open(file_path, 'r', encoding='utf-8') as file:
+                    data = json.load(file)
+                    for obj in data:
+                        if obj.get("id") not in id_set:
+                            id_set.add(obj.get("id"))
+                            merged_data.append(obj)
+            except Exception as e:
+                messagebox.showerror("错误", f"读取 {file_name} 失败: {e}")
+                return
+
+    save_path = filedialog.asksaveasfilename(
+        title="保存合并后的 JSON 文件",
+        defaultextension=".json",
+        filetypes=(("JSON Files", "*.json"), ("All Files", "*.*"))
+    )
+
+    if save_path:
+        try:
+            with open(save_path, 'w', encoding='utf-8') as save_file:
+                json.dump(merged_data, save_file, indent=4, ensure_ascii=False)
+            messagebox.showinfo("成功", f"文件已成功保存到：{save_path}")
+        except Exception as e:
+            messagebox.showerror("错误", f"保存文件失败：{e}")
+    else:
+        messagebox.showwarning("警告", "未选择保存位置！")
+
+
+
 #設置主窗口
 root = ctk.CTk()
 root.title("One Piece Card Game Data Fetcher")
@@ -365,13 +418,12 @@ fetch_button = ctk.CTkButton(button_frame, text="Fetch and Save", command=fetch_
 fetch_button.pack(side='left', padx=(0, 10))
 
 # Download Images 按鈕
-download_button = ctk.CTkButton(button_frame, text="Download Images", command=lambda: threading.Thread(target=lambda: download_images(get_card_list_from_website(url_entry.get(), file_path_entry.get() or r"D:\CardData.json"), file_path_entry.get() or r"D:\CardData.json")).start())
+download_button = ctk.CTkButton(button_frame, text="Download Images", command=lambda: threading.Thread(target=lambda: download_images(get_card_list_from_website(url_entry.get(), file_path_entry.get() or r"D:\GitHub\OPTCGDB\Tools\OPTCG_Download_Link\CardData.json"), file_path_entry.get() or r"D:\GitHub\OPTCGDB\Tools\OPTCG_Download_Link\CardData.json")).start())
 download_button.pack(side='left', padx=(10, 0))
 
 # 停止下載按鈕
 stop_button = ctk.CTkButton(button_frame, text="Stop Download", command=stop_download)
 stop_button.pack(side='left', padx=(10, 0))
-
 
 # 在UI部分添加新的按键
 batch_download_button = ctk.CTkButton(button_frame, text="Batch Fetch and Save", command=batch_fetch_and_save)
@@ -392,6 +444,39 @@ progress_bar.pack(pady=(0, 5), fill='x')
 output_text = ctk.CTkTextbox(progress_output_frame, width=300, height=100)
 output_text.pack(pady=5, fill='both', expand=True)
 output_text.insert("0.0", "Output will appear here.\n")
+
+# URL 输入框
+url_frame = ctk.CTkFrame(root)
+url_frame.pack(pady=10, fill='x')
+ctk.CTkLabel(url_frame, text="Enter URL:").pack(side='left', padx=(0, 5))
+url_entry = ctk.CTkEntry(url_frame, width=300)
+url_entry.pack(side='left')
+
+# 文件路径输入框和浏览按钮
+file_frame = ctk.CTkFrame(root)
+file_frame.pack(pady=5, fill='x')
+ctk.CTkLabel(file_frame, text="Enter File Path (optional):").pack(side='top', pady=(0, 5))
+file_path_entry = ctk.CTkEntry(file_frame, width=300)
+file_path_entry.pack(side='left', padx=(0, 5), expand=True)
+
+# 浏览按钮
+def browse_file_path():
+    file_path = filedialog.asksaveasfilename(defaultextension=".json", filetypes=[("JSON files", "*.json"), ("All files", "*.*")])
+    if file_path:
+        file_path_entry.delete(0, ctk.END)
+        file_path_entry.insert(0, file_path)
+
+browse_button = ctk.CTkButton(file_frame, text="Browse", command=browse_file_path)
+browse_button.pack(side='left')
+
+# 按钮框架
+button_frame = ctk.CTkFrame(root)
+button_frame.pack(pady=10, fill='x')
+
+# 合并 JSON 文件按钮
+merge_button = ctk.CTkButton(button_frame, text="合并资料夹内 JSON", command=merge_json_from_folder)
+merge_button.pack(side='left', padx=(10, 0))
+
 
 # 運行主循環
 root.mainloop()

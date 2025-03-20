@@ -185,7 +185,44 @@ def refresh_listbox():
     for obj in filtered_data:
         listbox.insert(END, obj["name"])
 
-# 增加去重功能
+# # 增加去重功能
+# def deduplicate_json():
+#     file_path = filedialog.askopenfilename(
+#         title="选择需要去重的 JSON 文件",
+#         filetypes=(("JSON Files", "*.json"), ("All Files", "*.*"))
+#     )
+#     if not file_path:
+#         messagebox.showwarning("警告", "未选择文件！")
+#         return
+
+#     try:
+#         with open(file_path, 'r', encoding='utf-8') as file:
+#             data = json.load(file)
+
+#         unique_data = []
+#         seen = set()
+
+#         for entry in data:
+#             entry_str = json.dumps(entry, sort_keys=True)
+#             if entry_str not in seen:
+#                 unique_data.append(entry)
+#                 seen.add(entry_str)
+
+#         save_path = filedialog.asksaveasfilename(
+#             title="保存去重后的 JSON 文件",
+#             defaultextension=".json",
+#             filetypes=(("JSON Files", "*.json"), ("All Files", "*.*"))
+#         )
+
+#         if save_path:
+#             with open(save_path, 'w', encoding='utf-8') as save_file:
+#                 json.dump(unique_data, save_file, ensure_ascii=False, indent=4)
+#             messagebox.showinfo("成功", f"文件已成功保存到：{save_path}")
+#         else:
+#             messagebox.showwarning("警告", "未选择保存位置！")
+
+#     except Exception as e:
+#         messagebox.showerror("错误", f"去重过程中出现错误：{e}")
 def deduplicate_json():
     file_path = filedialog.askopenfilename(
         title="选择需要去重的 JSON 文件",
@@ -199,14 +236,14 @@ def deduplicate_json():
         with open(file_path, 'r', encoding='utf-8') as file:
             data = json.load(file)
 
-        unique_data = []
-        seen = set()
-
+        # 使用字典來儲存唯一的項目，以id作為key
+        unique_dict = {}
         for entry in data:
-            entry_str = json.dumps(entry, sort_keys=True)
-            if entry_str not in seen:
-                unique_data.append(entry)
-                seen.add(entry_str)
+            if "id" in entry:  # 確保entry有id欄位
+                unique_dict[entry["image_url"]] = entry
+        
+        # 轉回列表形式
+        unique_data = list(unique_dict.values())
 
         save_path = filedialog.asksaveasfilename(
             title="保存去重后的 JSON 文件",
@@ -223,6 +260,10 @@ def deduplicate_json():
 
     except Exception as e:
         messagebox.showerror("错误", f"去重过程中出现错误：{e}")
+
+
+
+
 
 # UI 设计
 root = Tk()
