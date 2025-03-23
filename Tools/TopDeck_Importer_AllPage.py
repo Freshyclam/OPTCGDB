@@ -14,14 +14,12 @@ html_path = r"C:/Users/USER/Desktop/OPTCG_TopDeck/aaa.htm"
 topdeck_path = "D:/Github/OPTCGDB/TopDeck_2025.json"
 reference_path = "D:/Github/OPTCGDB/All_Data_EN.json"
 
-# === Logging function for GUI ===
 def log(msg):
     log_area.config(state='normal')
     log_area.insert(tk.END, msg + "\n")
     log_area.see(tk.END)
     log_area.config(state='disabled')
 
-# === Core JSON Functions ===
 def process_deck_data(deck, leader_color_map):
     if "deckDate" in deck:
         try:
@@ -73,7 +71,6 @@ def sort_by_deck_date(data):
             return datetime.strptime("1900-01-01", "%Y-%m-%d")
     return sorted(data, key=get_date, reverse=True)
 
-# === Batch Processing with Logging ===
 def batch_process(deck_links, json_data, reference_data):
     leader_color_map = {e["id"]: e["color"] for e in reference_data if "id" in e and "color" in e}
     for url in deck_links:
@@ -94,9 +91,10 @@ def batch_process(deck_links, json_data, reference_data):
                 log(f"[WARNING] Could not parse decklist: {url}")
                 continue
 
-            leader_id = decklist[0][1]
+            _, leader_id = decklist[0]
+
             members = []
-            for count, card_id in decklist:
+            for count, card_id in decklist[1:]:  # Skip leader
                 count = int(count)
                 ref = next((x for x in reference_data if x.get("id") == card_id), None)
                 if ref:
@@ -139,7 +137,6 @@ def batch_process(deck_links, json_data, reference_data):
 
     return json_data
 
-# === Main Process Trigger ===
 def run_batch_process():
     try:
         if not os.path.exists(html_path):
@@ -171,13 +168,11 @@ def run_batch_process():
 def run_in_thread():
     threading.Thread(target=run_batch_process).start()
 
-# === GUI Setup ===
 gui = tk.Tk()
-gui.title("One Piece Deck Batch Importer")
+gui.title("One Piece Deck Importer (No Leader in Members)")
 gui.geometry("800x600")
 
-tk.Label(gui, text="One Piece Deck Batch Importer", font=("Arial", 16)).pack(pady=10)
-
+tk.Label(gui, text="Deck Importer (Leader not in Members)", font=("Arial", 16)).pack(pady=10)
 tk.Button(gui, text="Start Processing", command=run_in_thread, height=2, width=20).pack(pady=10)
 
 log_area = scrolledtext.ScrolledText(gui, width=100, height=25, state='disabled', font=("Consolas", 10))
