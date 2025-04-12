@@ -52653,7 +52653,7 @@
         "life": "4",
         "attribute": "Special",
         "power": "5000",
-        "color": "Blue",
+        "color": "Purple/Blue",
         "counter": "-",
         "feature": "Navy/Donquixote Pirates",
         "text": "[Once per turn] if your \"Trafalgar Law\" is K.O.d, you may add the top card of your life pile to your hand instead.\n\n[Activate: Main] [Once Per Turn] DON!! -1: During this turn, the next \"Trafalgar Law\" you play from your hand with a cost of 4 or more will have its cost reduced by 2.",
@@ -52662,9 +52662,9 @@
         "Ban": "TEMP",
         "series": "OP12",
         "trigger": "-",
-        "image_path": "https://raw.githubusercontent.com/Freshyclam/OPTCGDB/refs/heads/main/LeakedImages/OP12/OP120-061.png",
-        "image_url": "https://raw.githubusercontent.com/Freshyclam/OPTCGDB/refs/heads/main/LeakedImages/OP12/OP120-061.png",
-        "image": "https://raw.githubusercontent.com/Freshyclam/OPTCGDB/refs/heads/main/LeakedImages/OP12/OP120-061.png",
+        "image_path": "https://raw.githubusercontent.com/Freshyclam/OPTCGDB/refs/heads/main/LeakedImages/OP12/OP12-061.png",
+        "image_url": "https://raw.githubusercontent.com/Freshyclam/OPTCGDB/refs/heads/main/LeakedImages/OP12/OP12-061.png",
+        "image": "https://raw.githubusercontent.com/Freshyclam/OPTCGDB/refs/heads/main/LeakedImages/OP12/OP12-061.png",
         "QNA": "-"
     }
 ]
