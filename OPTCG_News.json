@@ -5,6 +5,7 @@
     date: 'April 4, 2025',
     category: 'ORGANIZED PLAY',
     image: 'https://en.onepiece-cardgame.com/images/topics/judge_program.png'
+    link:'https://asia-en.onepiece-cardgame.com/events/2025/officialevents/championship/'
   },
   {
     id: '2',
@@ -12,6 +13,7 @@
     date: 'April 4, 2025',
     category: 'OFFICIAL EVENTS',
     image: 'https://en.onepiece-cardgame.com/images/topics/championship1.png'
+    link:'https://asia-en.onepiece-cardgame.com/events/2025/officialevents/championship/'
   },
   {
     id: '3',
@@ -21,4 +23,4 @@
     image: 'https://asia-en.onepiece-cardgame.com/images/events/2025/officialevents/championship/img_thumbnail.png',
     link:'https://asia-en.onepiece-cardgame.com/events/2025/officialevents/championship/'
   }
-];
+]
