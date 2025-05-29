@@ -8,9 +8,11 @@ sys.stdout.reconfigure(encoding='utf-8')
 
 # 指定多個 HTML 頁面的網址
 urls = [
-    "https://asia-en.onepiece-cardgame.com/rules/qa.php?tab=cardqa&type=1&series=BOOSTER%20PACK%20-A%20Fist%20of%20Divine%20Speed-%20[OP-11]",
+    #EB
     "https://asia-en.onepiece-cardgame.com/rules/qa.php?tab=cardqa&type=1&series=EXTRA%20BOOSTER%20-Memorial%20Collection-%20[EB-01]",
     "https://asia-en.onepiece-cardgame.com/rules/qa.php?tab=cardqa&type=1&series=EXTRA%20BOOSTER%20-Anime%2025th%20collection-%20[EB-02]",
+    #OP
+    "https://asia-en.onepiece-cardgame.com/rules/qa.php?tab=cardqa&type=1&series=BOOSTER%20PACK%20-A%20Fist%20of%20Divine%20Speed-%20[OP-11]",
     "https://asia-en.onepiece-cardgame.com/rules/qa.php?tab=cardqa&type=1&series=BOOSTER%20PACK%20-Royal%20Blood-%20[OP-10]",
     "https://asia-en.onepiece-cardgame.com/rules/qa.php?tab=cardqa&type=1&series=BOOSTER%20PACK%20-Emperors%20in%20the%20New%20World-%20[OP-09]",
     "https://asia-en.onepiece-cardgame.com/rules/qa.php?tab=cardqa&type=1&series=BOOSTER%20PACK%20-Two%20Legends-%20[OP-08]",
@@ -21,7 +23,8 @@ urls = [
     "https://asia-en.onepiece-cardgame.com/rules/qa.php?tab=cardqa&type=1&series=BOOSTER%20PACK%20-Pillars%20of%20Strength-%20[OP-03]",
     "https://asia-en.onepiece-cardgame.com/rules/qa.php?tab=cardqa&type=1&series=BOOSTER%20PACK%20-Paramount%20War-%20[OP-02]",
     "https://asia-en.onepiece-cardgame.com/rules/qa.php?tab=cardqa&type=1&series=BOOSTER%20PACK%20-ROMANCE%20DAWN-%20[OP-01]",
-
+    #ST
+    "https://asia-en.onepiece-cardgame.com/rules/qa.php?tab=cardqa&type=1&series=STARTER%20DECK%20-Ace%20%26%20Newgate-%20[ST-22]"
     "https://asia-en.onepiece-cardgame.com/rules/qa.php?tab=cardqa&type=1&series=STARTER%20DECK%20EX%20-GEAR5-%20[ST-21]",
     "https://asia-en.onepiece-cardgame.com/rules/qa.php?tab=cardqa&type=1&series=STARTER%20DECK%20-Yellow%20Charlotte%20Katakuri-%20[ST-20]",
     "https://asia-en.onepiece-cardgame.com/rules/qa.php?tab=cardqa&type=1&series=STARTER%20DECK%20-Black%20Smoker-%20[ST-19]",
@@ -43,6 +46,7 @@ urls = [
     "https://asia-en.onepiece-cardgame.com/rules/qa.php?tab=cardqa&type=1&series=STARTER%20DECK%20-The%20Seven%20Warlords%20of%20the%20Sea-%20[ST-03]",
     "https://asia-en.onepiece-cardgame.com/rules/qa.php?tab=cardqa&type=1&series=STARTER%20DECK%20-Worst%20Generation-%20[ST-02]",
     "https://asia-en.onepiece-cardgame.com/rules/qa.php?tab=cardqa&type=1&series=STARTER%20DECK%20-Straw%20Hat%20Crew-%20[ST-01]",
+    #PRB
     "https://asia-en.onepiece-cardgame.com/rules/qa.php?tab=cardqa&type=1&series=PREMIUM%20BOOSTER%20-ONE%20PIECE%20CARD%20THE%20BEST-%20[PRB-01]"
     
     # 可以繼續新增網址...
