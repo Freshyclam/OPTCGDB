@@ -100,21 +100,21 @@ def get_card_list_from_website(url):
 
         if "Block\n Icon\n1" in block:
             block = '1'
-        elif "Block\n Icon\n2" in block:
+        if "Block\n Icon\n2" in block:
             block = '2'
-        elif "Block\n Icon\n3" in block:
+        if "Block\n Icon\n3" in block:
             block = '3'
-        elif "Block\n Icon\n4" in block:
+        if "Block\n Icon\n4" in block:
             block = '4'
-        elif "Block\n Icon\n5" in block:
+        if "Block\n Icon\n5" in block:
             block = '5'
-        elif "Block\n Icon\n6" in block:
+        if "Block\n Icon\n6" in block:
             block = '6'
-        elif "Block\n Icon\n7" in block:
+        if "Block\n Icon\n7" in block:
             block = '7'
-        elif "Block\n Icon\n8" in block:
+        if "Block\n Icon\n8" in block:
             block = '8'
-        elif "Block\n Icon\n9" in block:
+        if "Block\n Icon\n9" in block:
             block = '9'
 
 
