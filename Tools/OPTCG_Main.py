@@ -16,6 +16,9 @@ from webdriver_manager.chrome import ChromeDriverManager
 import time
 from datetime import datetime
 import re
+import urllib.parse
+from pathlib import Path
+from collections import OrderedDict  # 保留處理順序
 
 # === Additional import for TopDeck importer ===
 #import TopDeck_Importer_AllPage as td_importer
@@ -249,25 +252,56 @@ def update_progress(progress, text):
     output_text.see('end')
 
 # --- Combine JSON Files Functionality ---
+def _derive_id_and_ext(image_url: str):
+    path = urllib.parse.urlparse(image_url).path
+    stem = Path(path).stem            # e.g. OP10-082_p1
+    ext = Path(path).suffix.lstrip('.') or 'png'
+    return stem, ext
+
 def combine_json_folder():
     folder_path = filedialog.askdirectory(title="Select folder containing JSON files")
     if not folder_path:
         return
-    combined = []
-    ids = set()
+
+    combined_map = OrderedDict()  # key = derived_id, value = normalized obj
+
     for fname in os.listdir(folder_path):
-        if fname.lower().endswith('.json'):
-            path = os.path.join(folder_path, fname)
-            try:
-                with open(path, 'r', encoding='utf-8') as f:
-                    data = json.load(f)
-                    for obj in data:
-                        if obj.get('id') not in ids:
-                            ids.add(obj.get('id'))
-                            combined.append(obj)
-            except Exception as e:
-                root.after(0, lambda msg=f"Failed to read {fname}: {e}": update_progress(1, msg))
-    # Ask save location
+        if not fname.lower().endswith('.json'):
+            continue
+        path = os.path.join(folder_path, fname)
+        try:
+            with open(path, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+        except Exception as e:
+            root.after(0, lambda msg=f"Failed to read {fname}: {e}": update_progress(1, msg))
+            continue
+
+        for obj in data:
+            image_url = obj.get('image_url', '')
+            if not image_url:
+                # 沒有 image_url 就跳過或依照你需求處理
+                continue
+
+            derived_id, ext = _derive_id_and_ext(image_url)
+            if not derived_id:
+                continue
+
+            # 校正 id 與 image_path
+            obj = dict(obj)  # copy
+            obj['id'] = derived_id
+
+            series = obj.get('series')
+            if (not series) and '-' in derived_id:
+                series = derived_id.split('-', 1)[0]
+                obj['series'] = series
+
+            if series:
+                obj['image_path'] = f"{series}\\{derived_id}.{ext}"
+
+            # ※ 去重策略：後遇到的覆蓋前者（或改成 if derived_id not in combined_map 才放，代表第一次保留）
+            combined_map[derived_id] = obj
+
+    # 儲存
     save_path = filedialog.asksaveasfilename(
         title="Save combined JSON",
         defaultextension='.json',
@@ -277,10 +311,11 @@ def combine_json_folder():
         return
     try:
         with open(save_path, 'w', encoding='utf-8') as f:
-            json.dump(combined, f, ensure_ascii=False, indent=4)
+            json.dump(list(combined_map.values()), f, ensure_ascii=False, indent=4)
         root.after(0, lambda: update_progress(1, f"Combined JSON saved to {save_path}"))
     except Exception as e:
         root.after(0, lambda: update_progress(1, f"Failed to save combined JSON: {e}"))
+
 
 # --- TopDeck ---
 # --- TopDeck Function---
