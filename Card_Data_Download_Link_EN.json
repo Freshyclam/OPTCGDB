@@ -1,5 +1,9 @@
 [
     {
+        "URL":"https://asia-en.onepiece-cardgame.com/cardlist/?series=556114",
+        "FILENAME":"OP14_Data_EN.json"
+    },
+    {
         "URL":"https://asia-en.onepiece-cardgame.com/cardlist/?series=556113",
         "FILENAME":"OP13_Data_EN.json"
     },
@@ -60,6 +64,11 @@
         "URL":"https://asia-en.onepiece-cardgame.com/cardlist/?series=556202",
         "FILENAME":"EB02_Data_EN.json"
     },
+    {
+        "URL":"https://asia-en.onepiece-cardgame.com/cardlist/?series=556203",
+        "FILENAME":"EB03_Data_EN.json"
+    },
+    
     {
         "URL":"https://asia-en.onepiece-cardgame.com/cardlist/?series=556301",
         "FILENAME":"PRB01_Data_EN.json"
