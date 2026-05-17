@@ -1,10 +1,17 @@
 {
   "setOptions": [
-    "op20","op19","op18","op17","op16","op15","op14","op13","op12", "op11", "op10", "op09", "op08", "op07", "op06", "op05", "op04", "op03", "op02", "op01",
-    "st01", "st02", "st03", "st04", "st05", "st06", "st07", "st08", "st09", "st10", "st11", "st12", "st13", "st14", "st15", "st16", "st17", "st18", "st19", "st20", "st21", "st22","st23","st24","st25","st26","st27","st28","st29",
+    "op40","op39","op38","op37","op36","op35","op34","op33", "op32", "op31",
+    "op30","op29","op28","op27","op26","op25","op24","op23", "op22", "op21",
+    "op20","op19","op18","op17","op16","op15","op14","op13","op12", "op11", "op10",
+    "op09", "op08", "op07", "op06", "op05", "op04", "op03", "op02", "op01",
+    "st01", "st02", "st03", "st04", "st05", "st06", "st07", "st08", "st09", "st10", "st11", "st12", "st13", "st14", "st15", "st16", "st17", "st18", "st19", "st20",
+    "st21", "st22","st23","st24","st25","st26","st27","st28","st29",
     "eb01", "eb02","eb03","eb04", "eb05","eb06",
     "prb01","prb02","prb03","prb04","prb05","prb06",  
-    "promo-100", "promo-200","promo-op10","promo-op20", "promo-st10", "promo-eb10",
+    "promo-100", "promo-200","promo-300","promo-400","promo-500","promo-600","promo-700",
+    "promo-op10","promo-op20", "promo-op30","promo-op40", "promo-op50","promo-op60", "promo-op70","promo-op80", 
+    "promo-st20", "promo-st10", 
+    "promo-eb60","promo-eb50","promo-eb40","promo-eb30","promo-eb20","promo-eb10",
     "don"
   ]
 }
